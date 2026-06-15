@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FootScout — Fiche Joueur</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="brand"><span class="dot"></span>FootScout</div>
+    <div class="nav-links">
+      <a href="Scouting.html">Scouting</a>
+      <a href="FootScout - Fiche Joueur.html" class="active">Joueurs</a>
+      <a href="Comparaison.html">Comparer</a>
+    </div>
+    <div class="nav-right">
+      <div class="lang">
+        <button class="active">FR</button>
+        <button>EN</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Écran de recherche (affiché si pas de ?id= dans l'URL) -->
+  <div id="search-page" style="display:none">
+    <div class="fj-search-wrap">
+      <div class="fj-search-hero">
+        <div class="fj-search-title">Rechercher un joueur</div>
+        <div class="fj-search-bar">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          <input type="text" id="fjSearchInput" placeholder="Nom, club, rôle…" autocomplete="off" />
+        </div>
+        <div class="fj-pos-pills" id="fjPosPills"></div>
+      </div>
+      <div class="fj-results" id="fjResults"></div>
+    </div>
+  </div>
+
+  <!-- Fiche joueur (affichée si ?id= présent) -->
+  <div id="player-page" style="display:none">
+    <main class="wrap">
+      <!-- 1. Header joueur -->
+      <header class="header" id="header"></header>
+
+      <!-- 2. Bande de stats rapides -->
+      <section class="quickstats" id="quickstats"></section>
+
+      <!-- 3. Section principale -->
+      <section class="main-grid">
+        <!-- Colonne gauche -->
+        <div class="col-left">
+          <div class="card">
+            <div class="section-title">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.4 7.4H22l-6 4.6 2.3 7.4L12 17l-6.3 4.4L8 14 2 9.4h7.6z"/></svg>
+              Scores par rôle
+            </div>
+            <div id="roles"></div>
+          </div>
+
+          <div class="card">
+            <div class="section-title">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="8" r="3.2"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6"/><path d="M16 5.5a3 3 0 010 5.4M18 14c2.4.7 4 2.8 4 5.3"/></svg>
+              Profils similaires
+            </div>
+            <div class="similar" id="similar"></div>
+          </div>
+        </div>
+
+        <!-- Colonne droite -->
+        <div class="col-right">
+          <div class="card radar-card">
+            <div class="radar-head">
+              <div class="radar-role" id="radarRole"></div>
+            </div>
+            <div class="radar-sub" id="radarSub"></div>
+            <div class="radar-stage">
+              <svg class="radar-svg" id="radarSvg" viewBox="0 0 440 440"></svg>
+            </div>
+            <div class="legend" id="legend"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="tooltip" id="tooltip"></div>
+
+  <script src="players-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

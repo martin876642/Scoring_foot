@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Logs
+src/logs/
+*.log
+
+# Graphify (régénérable via /graphify)
+graphify-out/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# JetBrains IDE (machine-specific)
+.idea/
+
+# Divers
+.DS_Store
+Thumbs.db

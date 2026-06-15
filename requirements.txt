@@ -1,0 +1,17 @@
+# Football Scoring Project — Dépendances
+# pip install -r requirements.txt
+
+# Sources de données
+ScraperFC>=4.5.0          # SofaScore scraper
+soccerdata>=1.9.0         # Understat + Transfermarkt + WhoScored
+rapidfuzz>=3.0.0          # Fuzzy matching inter-sources
+
+# Data science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Utilitaires
+tqdm>=4.65.0
+openpyxl>=3.1.0           # Export Excel
+requests>=2.31.0

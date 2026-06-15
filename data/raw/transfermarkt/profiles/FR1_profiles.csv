@@ -1,0 +1,948 @@
+﻿player,player_id,market_value,date_of_birth,age,height,nationality,position,team,signed_from,joined,contract_expires,league,season
+Kaïl Boudache,1097113,€4.00m,"Jun 15, 2006",19,,France,Right Winger,Nice,,"Jan 1, 2026",-,FR1,25/26
+Emmanuel Emegha,559328,€28.00m,"Feb 3, 2003",23,1.96,Netherlands,Centre-Forward,R. Strasbourg,,"Jul 22, 2023","Jun 30, 2028",FR1,25/26
+Jonathan Fischer,542452,€3.00m,"Nov 9, 2001",24,1.98,Denmark,Goalkeeper,FC Metz,,"Jul 29, 2025","Jun 30, 2029",FR1,25/26
+Ousmane Ba,666975,€100k,"Jun 6, 2002",23,1.87,Senegal,Goalkeeper,FC Metz,,"Sep 10, 2025","Jun 30, 2027",FR1,25/26
+Samson Baidoo,655217,€25.00m,"Mar 31, 2004",22,1.9,Austria,Centre-Back,Lens,,"Jul 17, 2025","Jun 30, 2030",FR1,25/26
+Charles Vanhoutte,569845,€7.00m,"Sep 16, 1998",27,1.82,Belgium,Defensive Midfield,Nice,,"Sep 1, 2025","Jun 30, 2029",FR1,25/26
+Carlens Arcus,371686,€1.80m,"Jun 28, 1996",29,1.76,Haiti,Right-Back,Angers SCO,,"Jul 1, 2024","Jun 30, 2027",FR1,25/26
+Matias Fernandez-Pardo,724129,€30.00m,"Feb 3, 2005",21,1.88,Belgium,Centre-Forward,Lille,,"Aug 30, 2024","Jun 30, 2029",FR1,25/26
+Hicham Boudaoui,560593,€12.00m,"Sep 23, 1999",26,1.75,Algeria,Central Midfield,Nice,,"Sep 2, 2019","Jun 30, 2027",FR1,25/26
+Hamidou Makalou,1200289,€1.00m,"Jul 15, 2006",19,1.64,Mali,Defensive Midfield,Stade Brestois,,"Mar 15, 2025","Jun 30, 2029",FR1,25/26
+Bradley Locko,805908,€7.00m,"May 6, 2002",24,1.8,France,Left-Back,Stade Brestois,,"Jul 27, 2023","Jun 30, 2027",FR1,25/26
+Martial Godo,992686,€18.00m,"Mar 14, 2003",23,1.77,Cote d'Ivoire,Left Winger,R. Strasbourg,,"Sep 1, 2025","Jun 30, 2030",FR1,25/26
+Olivier Giroud,82442,€1.00m,"Sep 30, 1986",39,1.92,France,Centre-Forward,Lille,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Ethan Nwaneri,890719,€40.00m,"Mar 21, 2007",19,1.76,England,Attacking Midfield,Marseille,,"Jan 23, 2026","Jun 30, 2026",FR1,25/26
+Steeve Kango,1119391,€800k,"Dec 9, 2006",19,,France,Right-Back,Olymp. Lyon B,,"Jan 1, 2025",-,FR1,25/26
+Jérémy Jacquet,1004301,€55.00m,"Jul 13, 2005",20,1.9,France,Centre-Back,Stade Rennais,,"Jan 1, 2024","Jun 30, 2029",FR1,25/26
+Marquinhos,181767,€30.00m,"May 14, 1994",32,1.83,Brazil,Centre-Back,PSG,,"Jul 19, 2013","Jun 30, 2028",FR1,25/26
+Ilan Kebbal,739769,€12.00m,"Jul 10, 1998",27,1.69,Algeria,Right Winger,Paris FC,,"Jul 10, 2023","Jun 30, 2028",FR1,25/26
+Charlie Cresswell,597659,€25.00m,"Aug 17, 2002",23,1.9,England,Centre-Back,Toulouse,,"Jul 8, 2024","Jun 30, 2028",FR1,25/26
+Adrien Thomasson,215977,€4.50m,"Dec 10, 1993",32,1.75,France,Central Midfield,Lens,,"Jan 12, 2023","Jun 30, 2026",FR1,25/26
+Hamari Traoré,297070,€1.80m,"Jan 27, 1992",34,1.75,Mali,Right-Back,Paris FC,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Théo De Percin,695422,€300k,"Feb 2, 2001",25,1.85,France,Goalkeeper,AJ Auxerre,,"Mar 17, 2021","Jun 30, 2029",FR1,25/26
+Florent Hanin,111811,€250k,"Feb 4, 1990",36,1.77,France,Left-Back,Angers SCO,,"Jul 31, 2023","Jun 30, 2026",FR1,25/26
+Pape Sy,568728,€300k,"May 2, 1997",29,2.06,Senegal,Goalkeeper,FC Metz,,"Jul 26, 2024","Jun 30, 2026",FR1,25/26
+Kang-in Lee,557149,€28.00m,"Feb 19, 2001",25,1.73,"Korea, South",Attacking Midfield,PSG,,"Jul 8, 2023","Jun 30, 2028",FR1,25/26
+Nordan Mukiele,986285,€1.00m,"Feb 12, 2006",20,1.84,France,Right Winger,Stade Rennais,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Gauthier Hein,344892,€5.00m,"Aug 7, 1996",29,1.7,France,Right Winger,FC Metz,,"Aug 15, 2024","Jun 30, 2028",FR1,25/26
+Aïssa Mandi,80293,€1.00m,"Oct 22, 1991",34,1.86,Algeria,Centre-Back,Lille,,"Aug 1, 2024","Jun 30, 2026",FR1,25/26
+Dominik Greif,316884,€8.00m,"Apr 6, 1997",29,1.97,Slovakia,Goalkeeper,Lyon,,"Aug 18, 2025","Jun 30, 2029",FR1,25/26
+Mamadou Sangaré,808348,€30.00m,"Jun 26, 2002",23,1.81,Mali,Central Midfield,Lens,,"Aug 20, 2025","Jun 30, 2030",FR1,25/26
+Lucas Høgsberg,926978,€15.00m,"Jun 23, 2006",19,1.87,Denmark,Centre-Back,R. Strasbourg,,"Aug 9, 2025","Jun 30, 2030",FR1,25/26
+Wesley Saïd,182916,€6.00m,"Apr 19, 1995",31,1.71,France,Second Striker,Lens,,"Jul 1, 2021","Jun 30, 2026",FR1,25/26
+Rémy Descamps,282028,€2.00m,"Jun 25, 1996",29,1.96,France,Goalkeeper,Lyon,,"Aug 23, 2024","Jun 30, 2029",FR1,25/26
+Timothée Pembélé,538998,€2.00m,"Sep 9, 2002",23,1.83,France,Right-Back,Le Havre AC,,"Jan 6, 2026","Jun 30, 2026",FR1,25/26
+Anthony Lopes,60561,€1.00m,"Oct 1, 1990",35,1.84,Portugal,Goalkeeper,FC Nantes,,"Jan 1, 2025","Jun 30, 2026",FR1,25/26
+Antoine Mendy,891998,€6.00m,"May 27, 2004",21,1.87,Senegal,Centre-Back,Nice,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Mathieu Cafaro,399383,€2.00m,"Mar 25, 1997",29,1.75,France,Right Winger,Paris FC,,"Feb 3, 2025","Jun 30, 2027",FR1,25/26
+Diego Coppola,660860,€10.00m,"Dec 28, 2003",22,1.93,Italy,Centre-Back,Paris FC,,"Jan 29, 2026","Jun 30, 2026",FR1,25/26
+Chancel Mbemba,203348,€2.50m,"Aug 8, 1994",31,1.82,DR Congo,Centre-Back,Lille,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Ryan Rodin,1010856,€300k,"Mar 2, 2006",20,1.94,France,Centre-Forward,AJ Auxerre B,,"Jan 1, 2025","Jun 30, 2028",FR1,25/26
+Ousmane Dembélé,288230,€100.00m,"May 15, 1997",29,1.78,France,Centre-Forward,PSG,,"Aug 12, 2023","Jun 30, 2028",FR1,25/26
+Philipp Köhn,251322,€4.00m,"Apr 2, 1998",28,1.9,Switzerland,Goalkeeper,Monaco,,"Jul 15, 2023","Jun 30, 2028",FR1,25/26
+Morgan Sanson,174094,€4.00m,"Aug 18, 1994",31,1.8,France,Central Midfield,Nice,,"Jul 1, 2024","Jun 30, 2027",FR1,25/26
+Noam Obougou,1162654,€1.00m,"Mar 15, 2006",20,,France,Centre-Forward,Le Havre AC,,"Jan 14, 2026",-,FR1,25/26
+Benjamin André,84301,€4.00m,"Aug 3, 1990",35,1.8,France,Defensive Midfield,Lille,,"Jul 17, 2019","Jun 30, 2028",FR1,25/26
+Joaquín Panichelli,1064871,€35.00m,"Oct 7, 2002",23,1.9,Argentina,Centre-Forward,R. Strasbourg,,"Jul 27, 2025","Jun 30, 2030",FR1,25/26
+Pavel Sulc,500053,€20.00m,"Dec 29, 2000",25,1.77,Czech Republic,Attacking Midfield,Lyon,,"Aug 4, 2025","Jun 30, 2029",FR1,25/26
+Ethan Mbappé,903666,€9.00m,"Dec 29, 2006",19,1.8,France,Right Winger,Lille,,"Jul 4, 2024","Jun 30, 2027",FR1,25/26
+Fodé Doucouré,798925,€2.00m,"Feb 3, 2001",25,1.72,Mali,Right-Back,Le Havre AC,,"Jul 22, 2025","Jun 30, 2027",FR1,25/26
+João Neves,670681,€110.00m,"Sep 27, 2004",21,1.74,Portugal,Central Midfield,PSG,,"Aug 5, 2024","Jun 30, 2029",FR1,25/26
+Gideon Mensah,397171,€3.50m,"Jul 18, 1998",27,1.78,Ghana,Left-Back,AJ Auxerre,,"Aug 13, 2022","Jun 30, 2026",FR1,25/26
+Soumaïla Coulibaly,659513,€7.00m,"Oct 14, 2003",22,1.91,France,Centre-Back,Stade Brestois,,"Oct 4, 2025","Jun 30, 2026",FR1,25/26
+Rachid Ghezzal,118287,€700k,"May 9, 1992",34,1.82,Algeria,Right Winger,Lyon,,"Sep 5, 2025","Jun 30, 2026",FR1,25/26
+Florian Sotoca,354726,€1.50m,"Oct 25, 1990",35,1.87,France,Centre-Forward,Lens,,"Jul 1, 2019","Jun 30, 2027",FR1,25/26
+Assane Dioussé,287635,€600k,"Sep 20, 1997",28,1.75,Senegal,Defensive Midfield,AJ Auxerre,,"Aug 10, 2023","Jun 30, 2026",FR1,25/26
+Guillaume Restes,912902,€18.00m,"Mar 11, 2005",21,1.88,France,Goalkeeper,Toulouse,,"Jul 1, 2023","Jun 30, 2028",FR1,25/26
+Denis Zakaria,334526,€25.00m,"Nov 20, 1996",29,1.9,Switzerland,Defensive Midfield,Monaco,,"Aug 14, 2023","Jun 30, 2028",FR1,25/26
+Anthony Bermont,1088110,€1.00m,"Feb 10, 2005",21,1.87,France,Left Winger,Lens,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Soriba Diaoune,1184007,€5.00m,"Aug 14, 2007",18,1.74,France,Left Winger,Lille,,"Jan 1, 2026","Jun 30, 2028",FR1,25/26
+Kevin Trapp,45672,€2.00m,"Jul 8, 1990",35,1.89,Germany,Goalkeeper,Paris FC,,"Aug 19, 2025","Jun 30, 2028",FR1,25/26
+Adama Camara,973949,€2.50m,"Oct 18, 1996",29,1.8,France,Defensive Midfield,Paris FC,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Seny Koumbassa,1075583,€1.00m,"Jun 20, 2007",18,1.94,France,Centre-Back,Toulouse,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Pablo Pagis,810411,€10.00m,"Dec 29, 2002",23,1.8,France,Left Winger,FC Lorient,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Stephan Zagadou,1228317,€4.00m,"Oct 24, 2008",17,1.86,France,Centre-Back,Le Havre AC,,"Jul 1, 2025",-,FR1,25/26
+Moïse Bombito,1089202,€8.00m,"Mar 30, 2000",26,1.9,Canada,Centre-Back,Nice,,"Aug 19, 2024","Jun 30, 2028",FR1,25/26
+Ousmane Camara,804711,€8.00m,"Mar 6, 2003",23,1.97,Mali,Centre-Back,Angers SCO,,"Aug 16, 2022","Jun 30, 2029",FR1,25/26
+Noham Kamara,1275040,€3.00m,"Jan 22, 2007",19,1.85,France,Centre-Back,Lyon,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Takumi Minamino,165793,€12.00m,"Jan 16, 1995",31,1.72,Japan,Left Winger,Monaco,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Ben Chilwell,316125,€12.00m,"Dec 21, 1996",29,1.8,England,Left-Back,R. Strasbourg,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Bingourou Kamara,333175,€700k,"Oct 21, 1996",29,1.95,Senegal,Goalkeeper,FC Lorient,,"Jul 25, 2025","Jun 30, 2027",FR1,25/26
+Allan Saint-Maximin,272642,€10.00m,"Mar 12, 1997",29,1.73,France,Left Winger,Lens,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Cristian Cásseres Jr.,467632,€9.00m,"Jan 20, 2000",26,1.76,Venezuela,Central Midfield,Toulouse,,"Jul 7, 2023","Jun 30, 2027",FR1,25/26
+Lucas Høgsberg,926978,€15.00m,"Jun 23, 2006",19,1.87,Denmark,Centre-Back,R. Strasbourg,,"Aug 9, 2025","Jun 30, 2030",FR1,25/26
+Ludovic Blas,288225,€10.00m,"Dec 31, 1997",28,1.8,France,Right Midfield,Stade Rennais,,"Jul 5, 2023","Jun 30, 2027",FR1,25/26
+Malang Sarr,344596,€15.00m,"Jan 23, 1999",27,1.83,France,Centre-Back,Lens,,"Jul 26, 2024","Jun 30, 2026",FR1,25/26
+Tom Negrel,866916,€50k,"Apr 13, 2003",23,1.92,France,Goalkeeper,AJ Auxerre,,"Jul 10, 2024","Jun 30, 2026",FR1,25/26
+Luca Koleosho,745461,€4.00m,"Sep 15, 2004",21,1.75,Italy,Right Winger,Paris FC,,"Jan 9, 2026","Jun 30, 2026",FR1,25/26
+Lamine Sy,796865,€2.50m,"Aug 10, 2002",23,1.71,France,Right-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Arnaud Bodart,417278,€2.00m,"Mar 11, 1998",28,1.86,Belgium,Goalkeeper,Lille,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Ruben Kluivert,578421,€6.00m,"May 21, 2001",24,1.87,Netherlands,Centre-Back,Lyon,,"Jul 25, 2025","Jun 30, 2030",FR1,25/26
+Tanner Tessmann,670096,€10.00m,"Sep 24, 2001",24,1.88,United States,Defensive Midfield,Lyon,,"Aug 27, 2024","Jun 30, 2029",FR1,25/26
+Godson Kyeremeh,651973,€600k,"Jun 14, 2000",25,1.77,France,Right Winger,Le Havre AC,,"Jul 11, 2025","Jun 30, 2027",FR1,25/26
+Tochukwu Nnadi,920470,€3.00m,"Jun 30, 2003",22,1.76,Nigeria,Defensive Midfield,Marseille,,"Feb 2, 2026","Jun 30, 2030",FR1,25/26
+Ousmane Touré,990732,€500k,"Feb 18, 2005",21,1.87,France,Centre-Back,Lille,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Emersonn,743599,€5.00m,"Jul 16, 2004",21,1.93,Brazil,Centre-Forward,Toulouse,,"Sep 1, 2025",-,FR1,25/26
+Guéla Doué,711980,€18.00m,"Oct 17, 2002",23,1.86,Cote d'Ivoire,Right-Back,R. Strasbourg,,"Jul 26, 2024","Jun 30, 2029",FR1,25/26
+Arnaud Bodart,417278,€2.00m,"Mar 11, 1998",28,1.86,Belgium,Goalkeeper,Lille,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Alexis Mirbach,928873,€50k,"Mar 4, 2005",21,1.92,France,Goalkeeper,FC Nantes,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Mike Penders,834397,€22.00m,"Jul 31, 2005",20,2.0,Belgium,Goalkeeper,R. Strasbourg,,"Jul 28, 2025","Jun 30, 2026",FR1,25/26
+Pavel Sulc,500053,€20.00m,"Dec 29, 2000",25,1.77,Czech Republic,Attacking Midfield,Lyon,,"Aug 4, 2025","Jun 30, 2029",FR1,25/26
+Maghnes Akliouche,745200,€50.00m,"Feb 25, 2002",24,1.83,France,Right Winger,Monaco,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Rafael Fernandes,744074,€600k,"Jun 28, 2002",23,1.91,Portugal,Centre-Back,Lille,,"Jan 31, 2024","Jun 30, 2028",FR1,25/26
+Grégoire Coudert,525155,€3.00m,"Apr 3, 1999",27,1.92,France,Goalkeeper,Stade Brestois,,"Jul 5, 2021","Jun 30, 2027",FR1,25/26
+Khalis Merah,1187942,€10.00m,"Feb 24, 2007",19,1.78,France,Central Midfield,Lyon,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Herba Guirassy,1119453,€8.00m,"Aug 29, 2006",19,1.86,France,Left Winger,FC Nantes,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Abner,646402,€10.00m,"May 27, 2000",25,1.81,Brazil,Left-Back,Lyon,,"Jul 5, 2024","Jun 30, 2029",FR1,25/26
+Yassir Zabiri,1153105,€9.00m,"Feb 23, 2005",21,1.82,Morocco,Centre-Forward,Stade Rennais,,"Feb 2, 2026","Jun 30, 2029",FR1,25/26
+Emmanuel Biumla,1071956,€3.00m,"May 8, 2005",21,1.85,France,Centre-Back,Angers SCO,,"Jul 31, 2024","Jun 30, 2028",FR1,25/26
+Ousmane Camara,804711,€8.00m,"Mar 6, 2003",23,1.97,Mali,Centre-Back,Angers SCO,,"Aug 16, 2022","Jun 30, 2029",FR1,25/26
+Diego Coppola,660860,€10.00m,"Dec 28, 2003",22,1.93,Italy,Centre-Back,Paris FC,,"Jan 29, 2026","Jun 30, 2026",FR1,25/26
+Branco van den Boomen,203938,€2.50m,"Jul 21, 1995",30,1.88,Netherlands,Central Midfield,Angers SCO,,"Jan 21, 2026","Jun 30, 2026",FR1,25/26
+Goduine Koyalipou,525140,€2.50m,"Feb 15, 2000",26,1.84,Central African Republic,Centre-Forward,Angers SCO,,"Jan 29, 2026","Jun 30, 2026",FR1,25/26
+Ayyoub Bouaddi,1097139,€50.00m,"Oct 2, 2007",18,1.86,France,Central Midfield,Lille,,"Jul 1, 2023","Jun 30, 2029",FR1,25/26
+Mahdi Camara,324795,€10.00m,"Jun 30, 1998",27,1.76,France,Central Midfield,Stade Rennais,,"Aug 13, 2025","Jun 30, 2029",FR1,25/26
+Kevin Carlos,718201,€5.00m,"Apr 10, 2001",25,1.86,Spain,Centre-Forward,Nice,,"Aug 18, 2025","Jun 30, 2030",FR1,25/26
+Lamine Gueye,568701,€250k,"Mar 13, 1998",28,1.78,Senegal,Right Winger,Paris FC,,"Jul 5, 2023","Jun 30, 2026",FR1,25/26
+Patrik Carlgren,190280,€500k,"Jan 8, 1992",34,1.89,Sweden,Goalkeeper,FC Nantes,,"Aug 30, 2024","Jun 30, 2026",FR1,25/26
+Bamo Meïté,807165,€7.00m,"Dec 3, 2001",24,1.84,Cote d'Ivoire,Centre-Back,FC Lorient,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Nathan Mbala,1307004,€3.00m,"Feb 19, 2008",18,1.79,DR Congo,Centre-Forward,FC Metz,,"Feb 1, 2026","Jun 30, 2029",FR1,25/26
+Alvin Petit Dol,1144938,,"Nov 7, 2006",19,1.93,France,Centre-Back,AJ Auxerre B,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Fredrik Oppegård,539665,€800k,"Aug 7, 2002",23,1.75,Norway,Left-Back,AJ Auxerre,,"Jan 29, 2025","Jun 30, 2028",FR1,25/26
+Renato Marin,1041614,€500k,"Jul 10, 2006",19,1.9,Italy,Goalkeeper,PSG,,"Jul 17, 2025","Jun 30, 2030",FR1,25/26
+Robin Risser,743515,€25.00m,"Dec 2, 2004",21,1.93,France,Goalkeeper,Lens,,"Jul 4, 2025","Jun 30, 2030",FR1,25/26
+Mohamed-Ali Cho,670847,€15.00m,"Jan 19, 2004",22,1.82,France,Right Winger,Nice,,"Jan 8, 2024","Jun 30, 2028",FR1,25/26
+Thilo Kehrer,228948,€15.00m,"Sep 21, 1996",29,1.86,Germany,Centre-Back,Monaco,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Kévin Danois,743496,€12.00m,"Jun 28, 2004",21,1.83,France,Central Midfield,AJ Auxerre,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Étienne Youté Kinkoué,639712,€3.00m,"Jan 14, 2002",24,1.96,France,Centre-Back,Le Havre AC,,"Jan 11, 2023","Jun 30, 2026",FR1,25/26
+Endrick,971570,€35.00m,"Jul 21, 2006",19,1.73,Brazil,Centre-Forward,Lyon,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Achraf Hakimi,398073,€80.00m,"Nov 4, 1998",27,1.81,Morocco,Right-Back,PSG,,"Jul 6, 2021","Jun 30, 2029",FR1,25/26
+Luck Zogbé,1144999,€1.50m,"Mar 24, 2005",21,1.78,Cote d'Ivoire,Right-Back,Stade Brestois,,"Oct 26, 2023","Jun 30, 2029",FR1,25/26
+Amadou Haidara,402008,€6.00m,"Jan 31, 1998",28,1.78,Mali,Central Midfield,Lens,,"Jan 1, 2026","Jun 30, 2029",FR1,25/26
+Mario Sauer,710885,€1.80m,"May 15, 2004",22,1.8,Slovakia,Central Midfield,Toulouse,,"Jul 1, 2025",-,FR1,25/26
+Emmanuel Emegha,559328,€28.00m,"Feb 3, 2003",23,1.96,Netherlands,Centre-Forward,R. Strasbourg,,"Jul 22, 2023","Jun 30, 2028",FR1,25/26
+Mika Biereth,565821,€18.00m,"Feb 8, 2003",23,1.87,Denmark,Centre-Forward,Monaco,,"Jan 11, 2025","Jun 30, 2030",FR1,25/26
+Radoslaw Majecki,346546,€3.00m,"Nov 16, 1999",26,1.93,Poland,Goalkeeper,Stade Brestois,,"Aug 9, 2025","Jun 30, 2026",FR1,25/26
+Ludovic Ajorque,283994,€3.50m,"Feb 25, 1994",32,1.96,France,Centre-Forward,Stade Brestois,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Hamza Igamane,885445,€18.00m,"Nov 2, 2002",23,1.81,Morocco,Centre-Forward,Lille,,"Aug 29, 2025","Jun 30, 2030",FR1,25/26
+Ayyoub Bouaddi,1097139,€50.00m,"Oct 2, 2007",18,1.86,France,Central Midfield,Lille,,"Jul 1, 2023","Jun 30, 2029",FR1,25/26
+Abdoulaye Bamba,62351,€250k,"Apr 25, 1990",36,1.82,Cote d'Ivoire,Centre-Back,Angers SCO,,"Jan 1, 2017","Jun 30, 2026",FR1,25/26
+Gauthier Hein,344892,€5.00m,"Aug 7, 1996",29,1.7,France,Right Winger,FC Metz,,"Aug 15, 2024","Jun 30, 2028",FR1,25/26
+Kyllian Antonio,1186789,€1.50m,"Jan 4, 2008",18,1.83,France,Centre-Back,Lens,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Francisco Sierralta,371436,€1.50m,"May 6, 1997",29,1.92,Chile,Centre-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Uros Radakovic,169511,€500k,"Mar 31, 1994",32,1.94,Serbia,Centre-Back,FC Nantes,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Elye Wahi,659542,€12.00m,"Jan 2, 2003",23,1.84,Cote d'Ivoire,Centre-Forward,Nice,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Kevin Trapp,45672,€2.00m,"Jul 8, 1990",35,1.89,Germany,Goalkeeper,Paris FC,,"Aug 19, 2025","Jun 30, 2028",FR1,25/26
+Facundo Medina,474800,€18.00m,"May 28, 1999",26,1.84,Argentina,Centre-Back,Marseille,,"Jul 2, 2025","Jun 30, 2026",FR1,25/26
+Luca Koleosho,745461,€4.00m,"Sep 15, 2004",21,1.75,Italy,Right Winger,Paris FC,,"Jan 9, 2026","Jun 30, 2026",FR1,25/26
+Jacques Ekomié,970279,€7.00m,"Aug 19, 2003",22,1.79,Gabon,Left-Back,Angers SCO,,"Jul 31, 2024","Jun 30, 2027",FR1,25/26
+Aïssa Mandi,80293,€1.00m,"Oct 22, 1991",34,1.86,Algeria,Centre-Back,Lille,,"Aug 1, 2024","Jun 30, 2026",FR1,25/26
+Jonathan Fischer,542452,€3.00m,"Nov 9, 2001",24,1.98,Denmark,Goalkeeper,FC Metz,,"Jul 29, 2025","Jun 30, 2029",FR1,25/26
+Guéla Doué,711980,€18.00m,"Oct 17, 2002",23,1.86,Cote d'Ivoire,Right-Back,R. Strasbourg,,"Jul 26, 2024","Jun 30, 2029",FR1,25/26
+Sebastian Szymanski,320748,€12.00m,"May 10, 1999",27,1.74,Poland,Attacking Midfield,Stade Rennais,,"Jan 22, 2026","Jun 30, 2029",FR1,25/26
+Koffi Kouao,481513,€2.50m,"May 20, 1998",27,1.73,Cote d'Ivoire,Right-Back,FC Metz,,"Aug 12, 2022","Jun 30, 2026",FR1,25/26
+Arthur Avom,1074628,€15.00m,"Dec 15, 2004",21,1.73,Cameroon,Central Midfield,FC Lorient,,"Jul 1, 2024","Jun 30, 2026",FR1,25/26
+Rayan Fofana,1160814,€7.00m,"Feb 12, 2006",20,1.87,France,Centre-Forward,Lens,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Ainsley Maitland-Niles,285845,€10.00m,"Aug 29, 1997",28,1.8,England,Right-Back,Lyon,,"Aug 7, 2023","Jun 30, 2027",FR1,25/26
+Christian Mawissa,1005240,€15.00m,"Apr 18, 2005",21,1.84,France,Centre-Back,Monaco,,"Aug 11, 2024","Jun 30, 2029",FR1,25/26
+Rafael Luís,637803,€4.00m,"Feb 18, 2005",21,1.88,Portugal,Defensive Midfield,R. Strasbourg,,"Aug 17, 2025","Jun 30, 2026",FR1,25/26
+Boubacar Traoré,649020,€5.00m,"Aug 20, 2001",24,1.83,Mali,Defensive Midfield,FC Metz,,"Jul 24, 2025","Jun 30, 2026",FR1,25/26
+Pierre-Emile Højbjerg,167799,€18.00m,"Aug 5, 1995",30,1.85,Denmark,Defensive Midfield,Marseille,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Sofiane Diop,569389,€12.00m,"Jun 9, 2000",25,1.75,Morocco,Left Winger,Nice,,"Aug 29, 2022","Jun 30, 2027",FR1,25/26
+Haris Belkebla,138055,€2.00m,"Jan 28, 1994",32,1.77,Algeria,Central Midfield,Angers SCO,,"Aug 17, 2024","Jun 30, 2026",FR1,25/26
+Mahdi Camara,324795,€10.00m,"Jun 30, 1998",27,1.76,France,Central Midfield,Stade Rennais,,"Aug 13, 2025","Jun 30, 2029",FR1,25/26
+Odsonne Édouard,344152,€12.00m,"Jan 16, 1998",28,1.87,France,Centre-Forward,Lens,,"Sep 1, 2025","Jun 30, 2028",FR1,25/26
+Tyler Morton,618494,€25.00m,"Oct 31, 2002",23,1.85,England,Defensive Midfield,Lyon,,"Aug 5, 2025","Jun 30, 2030",FR1,25/26
+Mamadou Coulibaly,745173,€15.00m,"Apr 21, 2004",22,1.79,France,Central Midfield,Monaco,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Warren Zaïre-Emery,810092,€60.00m,"Mar 8, 2006",20,1.78,France,Central Midfield,PSG,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Paris Brunner,918414,€1.50m,"Feb 15, 2006",20,1.86,Germany,Centre-Forward,Monaco,,"Aug 16, 2024","Jun 30, 2028",FR1,25/26
+Nathan Buayi-Kiala,743523,€100k,"Feb 29, 2004",22,1.77,France,Defensive Midfield,AJ Auxerre,,"Jul 1, 2024","Jun 30, 2026",FR1,25/26
+Emmanuel Biumla,1071956,€3.00m,"May 8, 2005",21,1.85,France,Centre-Back,Angers SCO,,"Jul 31, 2024","Jun 30, 2028",FR1,25/26
+Lanroy Machine,1096744,€1.20m,"Oct 13, 2005",20,1.83,France,Centre-Forward,Angers SCO,,"Jul 1, 2025",-,FR1,25/26
+Michel Mboula,1038308,€1.00m,"Apr 30, 2003",23,1.85,Gabon,Centre-Back,FC Metz,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Naouirou Ahamada,538971,€3.50m,"Mar 29, 2002",24,1.83,France,Central Midfield,AJ Auxerre,,"Jan 7, 2026","Jun 30, 2027",FR1,25/26
+Arsène Kouassi,1088199,€10.00m,"Jan 2, 2004",22,1.78,Burkina Faso,Left-Back,FC Lorient,,"Jul 24, 2025","Jun 30, 2029",FR1,25/26
+Tom Louchet,750904,€7.00m,"May 4, 2003",23,1.78,France,Right Midfield,Nice,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Abakar Sylla,962555,€3.00m,"Dec 25, 2002",23,1.88,Cote d'Ivoire,Centre-Back,FC Nantes,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Isaak Touré,708678,€1.50m,"Mar 28, 2003",23,2.06,France,Centre-Back,FC Lorient,,"Sep 1, 2023","Jun 30, 2028",FR1,25/26
+Sofiane Boufal,232271,€2.00m,"Sep 17, 1993",32,1.75,Morocco,Attacking Midfield,Le Havre AC,,"Jan 14, 2026","Jun 30, 2026",FR1,25/26
+Bouna Sarr,190685,€400k,"Jan 31, 1992",34,1.78,Senegal,Right-Back,FC Metz,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Étienne Youté Kinkoué,639712,€3.00m,"Jan 14, 2002",24,1.96,France,Centre-Back,Le Havre AC,,"Jan 11, 2023","Jun 30, 2026",FR1,25/26
+Andrew Omobamidele,621993,€7.00m,"Jun 23, 2002",23,1.88,Ireland,Centre-Back,R. Strasbourg,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Aron Dønnum,476836,€5.00m,"Apr 20, 1998",28,1.78,Norway,Right Midfield,Toulouse,,"Sep 1, 2023","Jun 30, 2027",FR1,25/26
+Willem Geubbels,463620,€5.00m,"Aug 16, 2001",24,1.86,France,Centre-Forward,Paris FC,,"Aug 17, 2025","Jun 30, 2030",FR1,25/26
+Alimami Gory,435492,€1.20m,"Aug 30, 1996",29,1.82,France,Left Winger,Paris FC,,"Jul 9, 2022","Jun 30, 2026",FR1,25/26
+Romain Perraud,318523,€7.00m,"Sep 22, 1997",28,1.73,France,Left-Back,Lille,,"Aug 8, 2025","Jun 30, 2028",FR1,25/26
+Sofiane Diop,569389,€12.00m,"Jun 9, 2000",25,1.75,Morocco,Left Winger,Nice,,"Aug 29, 2022","Jun 30, 2027",FR1,25/26
+Philipp Köhn,251322,€4.00m,"Apr 2, 1998",28,1.9,Switzerland,Goalkeeper,Monaco,,"Jul 15, 2023","Jun 30, 2028",FR1,25/26
+Djibril Sidibé,161869,€1.00m,"Jul 29, 1992",33,1.83,France,Right-Back,Toulouse,,"Aug 2, 2024","Jun 30, 2026",FR1,25/26
+Mamadou Sangaré,808348,€30.00m,"Jun 26, 2002",23,1.81,Mali,Central Midfield,Lens,,"Aug 20, 2025","Jun 30, 2030",FR1,25/26
+Yannis Lawson,1041555,€250k,"Nov 22, 2004",21,1.79,Togo,Left-Back,FC Metz,,"Jul 3, 2025","Jun 30, 2028",FR1,25/26
+Mathys de Carvalho,1004486,€4.00m,"May 1, 2005",21,1.83,Portugal,Defensive Midfield,Lyon,,"Jul 11, 2025","Jun 30, 2028",FR1,25/26
+Hamidou Makalou,1200289,€1.00m,"Jul 15, 2006",19,1.64,Mali,Defensive Midfield,Stade Brestois,,"Mar 15, 2025","Jun 30, 2029",FR1,25/26
+Ciro Immobile,105521,€2.00m,"Feb 20, 1990",36,1.85,Italy,Centre-Forward,Paris FC,,"Feb 1, 2026","Jun 30, 2027",FR1,25/26
+Enzo Koffi,1119881,€1.50m,"Mar 4, 2006",20,1.83,France,Left-Back,Le Havre AC,,"Jan 1, 2026",-,FR1,25/26
+João Neves,670681,€110.00m,"Sep 27, 2004",21,1.74,Portugal,Central Midfield,PSG,,"Aug 5, 2024","Jun 30, 2029",FR1,25/26
+Terry Yegbe,991054,€3.00m,"Jan 25, 2001",25,1.95,Ghana,Centre-Back,FC Metz,,"Aug 30, 2025","Jun 30, 2029",FR1,25/26
+Abu Francis,658533,€2.00m,"Apr 27, 2001",25,1.82,Ghana,Central Midfield,Toulouse,,"Aug 6, 2025","Jun 30, 2029",FR1,25/26
+Stefan Bajic,465836,€500k,"Dec 23, 2001",24,1.88,France,Goalkeeper,R. Strasbourg,,"Aug 16, 2025","Jun 30, 2026",FR1,25/26
+Moustapha Mbow,649026,€6.00m,"Mar 8, 2000",26,1.92,Senegal,Centre-Back,Paris FC,,"Jul 20, 2023","Jun 30, 2028",FR1,25/26
+Denis Zakaria,334526,€25.00m,"Nov 20, 1996",29,1.9,Switzerland,Defensive Midfield,Monaco,,"Aug 14, 2023","Jun 30, 2028",FR1,25/26
+Quinten Timber,420213,€25.00m,"Jun 17, 2001",24,1.79,Netherlands,Central Midfield,Marseille,,"Jan 23, 2026","Jun 30, 2030",FR1,25/26
+Nabil Bentaleb,245537,€5.00m,"Nov 24, 1994",31,1.87,Algeria,Defensive Midfield,Lille,,"Aug 28, 2023","Jun 30, 2026",FR1,25/26
+Adama Camara,973949,€2.50m,"Oct 18, 1996",29,1.8,France,Defensive Midfield,Paris FC,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Lucas Michal,810909,€4.00m,"Jun 22, 2005",20,1.85,France,Left Winger,FC Metz,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Ainsley Maitland-Niles,285845,€10.00m,"Aug 29, 1997",28,1.8,England,Right-Back,Lyon,,"Aug 7, 2023","Jun 30, 2027",FR1,25/26
+Fodé Ballo-Touré,296422,€1.00m,"Jan 3, 1997",29,1.82,Senegal,Left-Back,FC Metz,,"Sep 3, 2025","Jun 30, 2026",FR1,25/26
+Folarin Balogun,503770,€30.00m,"Jul 3, 2001",24,1.78,United States,Centre-Forward,Monaco,,"Aug 30, 2023","Jun 30, 2028",FR1,25/26
+Jules Stawiecki,1075582,€150k,"Apr 10, 2007",19,1.86,France,Goalkeeper,Monaco U19,,"Jan 30, 2024","Jun 30, 2029",FR1,25/26
+Louis Mouton,904662,€4.50m,"Jun 3, 2002",23,1.8,France,Attacking Midfield,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Abdoulaye Touré,181382,€3.00m,"Mar 3, 1994",32,1.88,Guinea,Defensive Midfield,Le Havre AC,,"Jul 26, 2023","Jun 30, 2026",FR1,25/26
+Isaak Touré,708678,€1.50m,"Mar 28, 2003",23,2.06,France,Centre-Back,FC Lorient,,"Sep 1, 2023","Jun 30, 2028",FR1,25/26
+Malang Sarr,344596,€15.00m,"Jan 23, 1999",27,1.83,France,Centre-Back,Lens,,"Jul 26, 2024","Jun 30, 2026",FR1,25/26
+Khalis Merah,1187942,€10.00m,"Feb 24, 2007",19,1.78,France,Central Midfield,Lyon,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Kamory Doumbia,671594,€9.00m,"Feb 18, 2003",23,1.7,Mali,Attacking Midfield,Stade Brestois,,"Aug 30, 2024","Jun 30, 2029",FR1,25/26
+Gideon Mensah,397171,€3.50m,"Jul 18, 1998",27,1.78,Ghana,Left-Back,AJ Auxerre,,"Aug 13, 2022","Jun 30, 2026",FR1,25/26
+Hervé Koffi,415383,€5.00m,"Oct 16, 1996",29,1.86,Burkina Faso,Goalkeeper,Angers SCO,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Kjetil Haug,328770,€500k,"Jun 12, 1998",27,1.91,Norway,Goalkeeper,Toulouse,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Harouna Djibirin,1133929,€1.50m,"Nov 5, 2006",19,1.75,Cameroon,Right Winger,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Jean-Philippe Gbamin,182894,€2.00m,"Sep 25, 1995",30,1.86,Cote d'Ivoire,Centre-Back,FC Metz,,"Jul 15, 2025","Jun 30, 2026",FR1,25/26
+Panos Katseris,816308,€2.00m,"Jul 5, 2001",24,1.87,Greece,Right Midfield,FC Lorient,,"Jan 23, 2024","Jun 30, 2028",FR1,25/26
+Warren Kamanzi,794758,€1.50m,"Nov 11, 2000",25,1.77,Norway,Right-Back,Toulouse,,"Jan 2, 2023","Jun 30, 2026",FR1,25/26
+Jonathan Ikoné,324690,€4.00m,"May 2, 1998",28,1.75,France,Right Winger,Paris FC,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Jordan Teze,364245,€15.00m,"Sep 30, 1999",26,1.83,Netherlands,Right-Back,Monaco,,"Aug 20, 2024","Jun 30, 2029",FR1,25/26
+Ilya Zabarnyi,659089,€45.00m,"Sep 1, 2002",23,1.89,Ukraine,Centre-Back,PSG,,"Aug 12, 2025","Jun 30, 2030",FR1,25/26
+Lamine Sy,796865,€2.50m,"Aug 10, 2002",23,1.71,France,Right-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Sebastian Szymanski,320748,€12.00m,"May 10, 1999",27,1.74,Poland,Attacking Midfield,Stade Rennais,,"Jan 22, 2026","Jun 30, 2029",FR1,25/26
+Bilal Nadir,659520,€9.00m,"Nov 28, 2003",22,1.79,Morocco,Central Midfield,Marseille,,"Jul 1, 2023","Jun 30, 2026",FR1,25/26
+Ibrahim Mbaye,1185888,€30.00m,"Jan 24, 2008",18,1.75,Senegal,Right Winger,PSG,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Yassine Kechta,667967,€5.00m,"Feb 25, 2002",24,1.74,Morocco,Central Midfield,Le Havre AC,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Saud Abdulhamid,631927,€5.00m,"Jul 18, 1999",26,1.75,Saudi Arabia,Right-Back,Lens,,"Aug 3, 2025","Jun 30, 2026",FR1,25/26
+Josué Casimir,763182,€3.50m,"Sep 24, 2001",24,1.78,Haiti,Right Winger,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Gautier Lloris,249636,€3.00m,"Jul 18, 1995",30,1.91,France,Centre-Back,Le Havre AC,,"Jul 12, 2022","Jun 30, 2026",FR1,25/26
+Panos Katseris,816308,€2.00m,"Jul 5, 2001",24,1.87,Greece,Right Midfield,FC Lorient,,"Jan 23, 2024","Jun 30, 2028",FR1,25/26
+Saliou Diop,1237907,€50k,"May 12, 2005",21,1.87,Senegal,Centre-Forward,Stade Brestois,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Dan Sinaté,955354,€100k,"Jun 9, 2006",19,1.81,Mali,Left-Back,Angers SCO,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Yassir Zabiri,1153105,€9.00m,"Feb 23, 2005",21,1.82,Morocco,Centre-Forward,Stade Rennais,,"Feb 2, 2026","Jun 30, 2029",FR1,25/26
+Alexis Vossah,1200427,€15.00m,"Mar 11, 2008",18,1.81,France,Central Midfield,Toulouse,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Afonso Moreira,952282,€10.00m,"Mar 19, 2005",21,1.76,Portugal,Left Winger,Lyon,,"Jul 22, 2025","Jun 30, 2029",FR1,25/26
+Oussama El Azzouzi,531065,€1.80m,"May 29, 2001",24,1.89,Morocco,Defensive Midfield,AJ Auxerre,,"Aug 1, 2025","Jun 30, 2026",FR1,25/26
+Mike Penders,834397,€22.00m,"Jul 31, 2005",20,2.0,Belgium,Goalkeeper,R. Strasbourg,,"Jul 28, 2025","Jun 30, 2026",FR1,25/26
+Mathieu Acapandié,944355,€50k,"Dec 14, 2004",21,1.82,Madagascar,Right-Back,FC Nantes,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Afonso Moreira,952282,€10.00m,"Mar 19, 2005",21,1.76,Portugal,Left Winger,Lyon,,"Jul 22, 2025","Jun 30, 2029",FR1,25/26
+Ibrahima Sissoko,372712,€2.50m,"Oct 27, 1997",28,1.93,Mali,Defensive Midfield,FC Nantes,,"Jan 12, 2026","Jun 30, 2028",FR1,25/26
+Youssef El Arabi,96533,€150k,"Feb 3, 1987",39,1.83,Morocco,Centre-Forward,FC Nantes,,"Jul 18, 2025","Jun 30, 2026",FR1,25/26
+Moustapha Mbow,649026,€6.00m,"Mar 8, 2000",26,1.92,Senegal,Centre-Back,Paris FC,,"Jul 20, 2023","Jun 30, 2028",FR1,25/26
+Trevan Sanusi,1011152,€500k,"Apr 25, 2007",19,1.78,England,Left Winger,FC Lorient,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Aladji Bamba,975347,€10.00m,"Jul 14, 2006",19,1.81,France,Defensive Midfield,Monaco,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Florian Thauvin,184892,€5.00m,"Jan 26, 1993",33,1.81,France,Right Winger,Lens,,"Aug 8, 2025","Jun 30, 2028",FR1,25/26
+Believe Munongo,1297673,€10.00m,"Nov 23, 2009",16,1.91,France,Central Midfield,FC Metz,,"Jan 1, 2026","Jun 30, 2027",FR1,25/26
+Quentin Merlin,557613,€12.00m,"May 16, 2002",24,1.74,France,Left-Back,Stade Rennais,,"Jul 22, 2025","Jun 30, 2029",FR1,25/26
+Vanderson,789082,€20.00m,"Jun 21, 2001",24,1.73,Brazil,Right-Back,Monaco,,"Jan 1, 2022","Jun 30, 2028",FR1,25/26
+Alpha Touré,1178489,€5.00m,"Jan 25, 2006",20,1.8,Senegal,Defensive Midfield,FC Metz,,"Jul 12, 2024","Jun 30, 2028",FR1,25/26
+Ludovic Ajorque,283994,€3.50m,"Feb 25, 1994",32,1.96,France,Centre-Forward,Stade Brestois,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Clinton Mata,187718,€3.00m,"Nov 7, 1992",33,1.8,Angola,Centre-Back,Lyon,,"Jul 6, 2023","Jun 30, 2028",FR1,25/26
+Mohamed Kaba,911328,€2.00m,"Oct 27, 2001",24,1.85,Guinea,Central Midfield,FC Nantes,,"Jan 29, 2026","Jun 30, 2026",FR1,25/26
+Fodé Ballo-Touré,296422,€1.00m,"Jan 3, 1997",29,1.82,Senegal,Left-Back,FC Metz,,"Sep 3, 2025","Jun 30, 2026",FR1,25/26
+Théo De Percin,695422,€300k,"Feb 2, 2001",25,1.85,France,Goalkeeper,AJ Auxerre,,"Mar 17, 2021","Jun 30, 2029",FR1,25/26
+Caio Henrique,420064,€15.00m,"Jul 31, 1997",28,1.78,Brazil,Left-Back,Monaco,,"Aug 27, 2020","Jun 30, 2027",FR1,25/26
+Otávio,818495,€10.00m,"Apr 21, 2002",24,1.88,Brazil,Centre-Back,Paris FC,,"Jul 23, 2025","Jun 30, 2030",FR1,25/26
+Olivier Giroud,82442,€1.00m,"Sep 30, 1986",39,1.92,France,Centre-Forward,Lille,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Oumar Pona,1073176,€100k,"Jun 21, 2006",19,1.95,Mali,Goalkeeper,Angers SCO,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Ousmane Ba,666975,€100k,"Jun 6, 2002",23,1.87,Senegal,Goalkeeper,FC Metz,,"Sep 10, 2025","Jun 30, 2027",FR1,25/26
+Ansu Fati,466810,€15.00m,"Oct 31, 2002",23,1.78,Spain,Left Winger,Monaco,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Alexis Vossah,1200427,€15.00m,"Mar 11, 2008",18,1.81,France,Central Midfield,Toulouse,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Stanis Idumbo,743387,€5.00m,"Jun 29, 2005",20,1.71,Belgium,Attacking Midfield,Monaco,,"Aug 30, 2025","Jun 30, 2030",FR1,25/26
+Rachid Ghezzal,118287,€700k,"May 9, 1992",34,1.82,Algeria,Right Winger,Lyon,,"Sep 5, 2025","Jun 30, 2026",FR1,25/26
+Kenny Quetant,1178695,€2.00m,"Jul 17, 2006",19,1.89,France,Centre-Forward,Le Havre AC,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Louis Mouton,904662,€4.50m,"Jun 3, 2002",23,1.8,France,Attacking Midfield,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Alpha Diallo,1047099,,"Feb 25, 2006",20,1.79,France,Attacking Midfield,Lens,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Tidiane Devernois,1174032,€300k,"Oct 18, 2007",18,1.87,France,Central Midfield,AJ Auxerre B,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Assane Dioussé,287635,€600k,"Sep 20, 1997",28,1.75,Senegal,Defensive Midfield,AJ Auxerre,,"Aug 10, 2023","Jun 30, 2026",FR1,25/26
+Yann Lienard,745341,€100k,"Mar 16, 2003",23,1.94,France,Goalkeeper,Monaco,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Lassine Diarra,1071430,€50k,"Nov 11, 2002",23,1.9,Mali,Goalkeeper,Olymp. Lyon B,,"Nov 4, 2023","Jun 30, 2028",FR1,25/26
+Isak Jansson,535820,€5.00m,"Jan 31, 2002",24,1.75,Sweden,Left Winger,Nice,,"Jul 10, 2025",-,FR1,25/26
+Junior Dina Ebimbe,536482,€6.00m,"Nov 21, 2000",25,1.84,Cameroon,Right Midfield,Stade Brestois,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Abdallah Sima,776798,€4.00m,"Jun 17, 2001",24,1.88,Senegal,Left Winger,Lens,,"Aug 29, 2025","Jun 30, 2029",FR1,25/26
+Junior Mwanga,1011200,€6.00m,"May 11, 2003",23,1.84,France,Defensive Midfield,R. Strasbourg,,"Aug 8, 2023","Jun 30, 2027",FR1,25/26
+Andrew Omobamidele,621993,€7.00m,"Jun 23, 2002",23,1.88,Ireland,Centre-Back,R. Strasbourg,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Youssef El Arabi,96533,€150k,"Feb 3, 1987",39,1.83,Morocco,Centre-Forward,FC Nantes,,"Jul 18, 2025","Jun 30, 2026",FR1,25/26
+Himad Abdelli,592979,€7.00m,"Nov 17, 1999",26,1.85,Algeria,Attacking Midfield,Marseille,,"Feb 2, 2026","Jun 30, 2030",FR1,25/26
+Mark McKenzie,429259,€6.00m,"Feb 25, 1999",27,1.84,United States,Centre-Back,Toulouse,,"Aug 16, 2024","Jun 30, 2027",FR1,25/26
+Igor Paixão,653610,€35.00m,"Jun 28, 2000",25,1.68,Brazil,Left Winger,Marseille,,"Aug 1, 2025","Jun 30, 2030",FR1,25/26
+Lucas Michal,810909,€4.00m,"Jun 22, 2005",20,1.85,France,Left Winger,FC Metz,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Joseph Mangondo,1101719,€50k,"Aug 6, 2005",20,1.85,France,Centre-Forward,FC Metz,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Maxime Lopez,290862,€5.00m,"Dec 4, 1997",28,1.67,France,Defensive Midfield,Paris FC,,"Aug 29, 2024","Jun 30, 2027",FR1,25/26
+Fredrik Oppegård,539665,€800k,"Aug 7, 2002",23,1.75,Norway,Left-Back,AJ Auxerre,,"Jan 29, 2025","Jun 30, 2028",FR1,25/26
+Igor Paixão,653610,€35.00m,"Jun 28, 2000",25,1.68,Brazil,Left Winger,Marseille,,"Aug 1, 2025","Jun 30, 2030",FR1,25/26
+Timothée Kolodziejczak,84085,€200k,"Oct 1, 1991",34,1.83,France,Centre-Back,Paris FC,,"Sep 6, 2023","Jun 30, 2026",FR1,25/26
+Djibril Coulibaly,1208968,€800k,"Nov 18, 2008",17,1.78,France,Central Midfield,Nice,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Moussa Niakhaté,291200,€18.00m,"Mar 8, 1996",30,1.9,Senegal,Centre-Back,Lyon,,"Jul 4, 2024","Jun 30, 2028",FR1,25/26
+Lukas Hradecky,48015,€1.80m,"Nov 24, 1989",36,1.92,Finland,Goalkeeper,Monaco,,"Aug 8, 2025","Jun 30, 2027",FR1,25/26
+Régis Gurtner,39918,€100k,"Dec 8, 1986",39,1.82,France,Goalkeeper,Lens,,"Jul 7, 2025","Jun 30, 2026",FR1,25/26
+Mason Greenwood,532826,€55.00m,"Oct 1, 2001",24,1.81,England,Right Winger,Marseille,,"Jul 18, 2024","Jun 30, 2029",FR1,25/26
+Tanguy Ndombélé,450936,€3.00m,"Dec 28, 1996",29,1.81,France,Central Midfield,Nice,,"Jul 4, 2024","Jun 30, 2026",FR1,25/26
+Estéban Lepaul,461607,€20.00m,"Apr 18, 2000",26,1.81,France,Centre-Forward,Stade Rennais,,"Aug 28, 2025","Jun 30, 2029",FR1,25/26
+Robin Risser,743515,€25.00m,"Dec 2, 2004",21,1.93,France,Goalkeeper,Lens,,"Jul 4, 2025","Jun 30, 2030",FR1,25/26
+Lasso Coulibaly,658534,€900k,"Oct 19, 2002",23,1.76,Cote d'Ivoire,Right Winger,AJ Auxerre,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Nicolas Cozza,485965,€3.00m,"Jan 8, 1999",27,1.81,France,Centre-Back,FC Nantes,,"Aug 28, 2024","Jun 30, 2026",FR1,25/26
+Willian Pacho,661171,€70.00m,"Oct 16, 2001",24,1.88,Ecuador,Centre-Back,PSG,,"Aug 9, 2024","Jun 30, 2029",FR1,25/26
+Valentín Barco,849410,€35.00m,"Jul 23, 2004",21,1.7,Argentina,Central Midfield,R. Strasbourg,,"Jul 2, 2025","Jun 30, 2029",FR1,25/26
+Pierre-Yves Hamel,203504,€400k,"Feb 3, 1994",32,1.89,France,Centre-Forward,Paris FC,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Chidozie Awaziem,358143,€3.00m,"Jan 1, 1997",29,1.89,Nigeria,Centre-Back,FC Nantes,,"Jul 23, 2025","Jun 30, 2028",FR1,25/26
+Przemyslaw Frankowski,239743,€7.00m,"Apr 12, 1995",31,1.75,Poland,Right-Back,Stade Rennais,,"Aug 5, 2025","Jun 30, 2026",FR1,25/26
+Everton,1191473,€2.00m,"Apr 12, 2007",19,1.81,France,Defensive Midfield,Nice,,"Jan 1, 2026","Jun 30, 2029",FR1,25/26
+Rémy Cabella,113707,€1.50m,"Mar 8, 1990",36,1.72,France,Attacking Midfield,FC Nantes,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Samir El Mourabet,1130514,€18.00m,"Oct 6, 2005",20,1.86,Morocco,Central Midfield,R. Strasbourg,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Naouirou Ahamada,538971,€3.50m,"Mar 29, 2002",24,1.83,France,Central Midfield,AJ Auxerre,,"Jan 7, 2026","Jun 30, 2027",FR1,25/26
+Lasso Coulibaly,658534,€900k,"Oct 19, 2002",23,1.76,Cote d'Ivoire,Right Winger,AJ Auxerre,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Boubacar Traoré,649020,€5.00m,"Aug 20, 2001",24,1.83,Mali,Defensive Midfield,FC Metz,,"Jul 24, 2025","Jun 30, 2026",FR1,25/26
+Frédéric Guilbert,354352,€800k,"Dec 24, 1994",31,1.78,France,Right-Back,FC Nantes,,"Jan 28, 2026","Jun 30, 2026",FR1,25/26
+Marius Broholm,903359,€6.00m,"Dec 26, 2004",21,1.76,Norway,Right Winger,Lille,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Arouna Sangante,768380,€8.00m,"Apr 12, 2002",24,1.89,Senegal,Centre-Back,Le Havre AC,,"Jul 1, 2021","Jun 30, 2026",FR1,25/26
+Ciro Immobile,105521,€2.00m,"Feb 20, 1990",36,1.85,Italy,Centre-Forward,Paris FC,,"Feb 1, 2026","Jun 30, 2027",FR1,25/26
+Quentin Merlin,557613,€12.00m,"May 16, 2002",24,1.74,France,Left-Back,Stade Rennais,,"Jul 22, 2025","Jun 30, 2029",FR1,25/26
+Roman Yaremchuk,221958,€2.50m,"Nov 27, 1995",30,1.91,Ukraine,Centre-Forward,Lyon,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Aiyegun Tosin,239647,€2.00m,"Jun 26, 1998",27,1.79,Benin,Centre-Forward,FC Lorient,,"Jul 25, 2023","Jun 30, 2027",FR1,25/26
+Pierrick Capelle,214532,€200k,"Apr 15, 1987",39,1.81,France,Central Midfield,Angers SCO,,"Jul 1, 2015","Jun 30, 2026",FR1,25/26
+Enzo Faty,1075572,,"Mar 9, 2007",19,1.89,France,Centre-Forward,Toulouse,,"Jul 1, 2025",-,FR1,25/26
+Joris Chotard,624037,€7.00m,"Sep 24, 2001",24,1.79,France,Defensive Midfield,Stade Brestois,,"Aug 23, 2025","Jun 30, 2029",FR1,25/26
+Orel Mangala,289592,€10.00m,"Mar 18, 1998",28,1.78,Belgium,Defensive Midfield,Lyon,,"Jul 2, 2024","Jun 30, 2028",FR1,25/26
+Lucas Tousart,353948,€2.00m,"Apr 29, 1997",29,1.84,France,Central Midfield,Stade Brestois,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Matvey Safonov,318470,€22.00m,"Feb 25, 1999",27,1.92,Russia,Goalkeeper,PSG,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Daouda Guindo,671590,€3.00m,"Oct 14, 2002",23,1.83,Mali,Left-Back,Stade Brestois,,"Aug 26, 2025","Jun 30, 2026",FR1,25/26
+Rudy Matondo,1241211,€15.00m,"Mar 13, 2008",18,1.8,France,Central Midfield,Paris FC,,"Feb 2, 2026",-,FR1,25/26
+Kenny Lala,174196,€1.80m,"Oct 3, 1991",34,1.78,France,Right-Back,Stade Brestois,,"Jan 1, 2023","Jun 30, 2027",FR1,25/26
+Seny Koumbassa,1075583,€1.00m,"Jun 20, 2007",18,1.94,France,Centre-Back,Toulouse,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Mathieu Gorgelin,60543,€250k,"Aug 5, 1990",35,1.87,France,Goalkeeper,Lens,,"Jan 19, 2026","Jun 30, 2026",FR1,25/26
+Mika Biereth,565821,€18.00m,"Feb 8, 2003",23,1.87,Denmark,Centre-Forward,Monaco,,"Jan 11, 2025","Jun 30, 2030",FR1,25/26
+Stephan Zagadou,1228317,€4.00m,"Oct 24, 2008",17,1.86,France,Centre-Back,Le Havre AC,,"Jul 1, 2025",-,FR1,25/26
+Thomas Meunier,100986,€1.80m,"Sep 12, 1991",34,1.91,Belgium,Right-Back,Lille,,"Jul 19, 2024","Jun 30, 2026",FR1,25/26
+Ayumu Seko,405389,€5.00m,"Jun 7, 2000",25,1.86,Japan,Defensive Midfield,Le Havre AC,,"Jul 22, 2025","Jun 30, 2028",FR1,25/26
+Giorgi Kvilitaia,186233,€1.00m,"Oct 1, 1993",32,1.93,Georgia,Centre-Forward,FC Metz,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Rafik Messali,883865,€1.50m,"Apr 28, 2003",23,1.77,Algeria,Right-Back,Toulouse,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Caio Henrique,420064,€15.00m,"Jul 31, 1997",28,1.78,Brazil,Left-Back,Monaco,,"Aug 27, 2020","Jun 30, 2027",FR1,25/26
+Marshall Munetsi,414908,€12.00m,"Jun 22, 1996",29,1.88,Zimbabwe,Central Midfield,Paris FC,,"Jan 16, 2026","Jun 30, 2026",FR1,25/26
+Bamo Meïté,807165,€7.00m,"Dec 3, 2001",24,1.84,Cote d'Ivoire,Centre-Back,FC Lorient,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Dayann Methalie,1191444,€12.00m,"Feb 15, 2006",20,1.88,France,Left-Back,Toulouse,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Rémy Descamps,282028,€2.00m,"Jun 25, 1996",29,1.96,France,Goalkeeper,Lyon,,"Aug 23, 2024","Jun 30, 2029",FR1,25/26
+Daouda Guindo,671590,€3.00m,"Oct 14, 2002",23,1.83,Mali,Left-Back,Stade Brestois,,"Aug 26, 2025","Jun 30, 2026",FR1,25/26
+Rafael Fernandes,744074,€600k,"Jun 28, 2002",23,1.91,Portugal,Centre-Back,Lille,,"Jan 31, 2024","Jun 30, 2028",FR1,25/26
+Danny Namaso,392767,€5.00m,"Aug 28, 2000",25,1.82,Cameroon,Left Winger,AJ Auxerre,,"Aug 17, 2025","Jun 30, 2026",FR1,25/26
+David Datro Fofana,787232,€5.00m,"Dec 22, 2002",23,1.82,Cote d'Ivoire,Centre-Forward,R. Strasbourg,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Sadibou Sané,1111777,€4.00m,"Jun 10, 2004",21,1.82,Senegal,Centre-Back,FC Metz,,"Jul 22, 2023","Jun 30, 2027",FR1,25/26
+Paul Pogba,122153,€3.00m,"Mar 15, 1993",33,1.91,France,Central Midfield,Monaco,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Pape Demba Diop,949113,€8.00m,"Sep 4, 2003",22,1.82,Senegal,Central Midfield,Toulouse,,"Jan 7, 2026","Jun 30, 2026",FR1,25/26
+Stanis Idumbo,743387,€5.00m,"Jun 29, 2005",20,1.71,Belgium,Attacking Midfield,Monaco,,"Aug 30, 2025","Jun 30, 2030",FR1,25/26
+CJ Egan-Riley,581669,€10.00m,"Jan 2, 2003",23,1.83,England,Centre-Back,Marseille,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Jacen Russell-Rowe,683625,€3.50m,"Sep 13, 2002",23,1.83,Canada,Centre-Forward,Toulouse,,"Feb 2, 2026","Jun 30, 2029",FR1,25/26
+Rémy Labeau Lascary,917778,€3.00m,"Mar 3, 2003",23,1.84,France,Centre-Forward,Stade Brestois,,"Aug 31, 2025","Jun 30, 2026",FR1,25/26
+Marc-Aurèle Caillard,205465,€100k,"May 12, 1994",32,1.92,France,Goalkeeper,Lille,,"Aug 30, 2024","Jun 30, 2026",FR1,25/26
+Ali Youssif,944724,€1.50m,"Jul 9, 2001",24,1.88,Libya,Centre-Back,FC Nantes,,"Jan 19, 2026","Jun 30, 2028",FR1,25/26
+Noam Obougou,1162654,€1.00m,"Mar 15, 2006",20,,France,Centre-Forward,Le Havre AC,,"Jan 14, 2026",-,FR1,25/26
+Lucas Chevalier,463600,€30.00m,"Nov 6, 2001",24,1.89,France,Goalkeeper,PSG,,"Aug 9, 2025","Jun 30, 2030",FR1,25/26
+Pierre Lees-Melou,377393,€5.00m,"May 25, 1993",32,1.85,France,Defensive Midfield,Paris FC,,"Aug 28, 2025","Jun 30, 2027",FR1,25/26
+Mamadou Coulibaly,745173,€15.00m,"Apr 21, 2004",22,1.79,France,Central Midfield,Monaco,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Adam Karabec,652061,€8.00m,"Jul 2, 2003",22,1.87,Czech Republic,Attacking Midfield,Lyon,,"Aug 12, 2025","Jun 30, 2026",FR1,25/26
+Romain Perraud,318523,€7.00m,"Sep 22, 1997",28,1.73,France,Left-Back,Lille,,"Aug 8, 2025","Jun 30, 2028",FR1,25/26
+Harouna Djibirin,1133929,€1.50m,"Nov 5, 2006",19,1.75,Cameroon,Right Winger,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Montassar Talbi,496706,€7.00m,"May 26, 1998",27,1.9,Tunisia,Centre-Back,FC Lorient,,"Jul 18, 2022","Jun 30, 2027",FR1,25/26
+Brendan Chardonnet,250779,€5.00m,"Dec 22, 1994",31,1.81,France,Centre-Back,Stade Brestois,,"Jul 1, 2013","Jun 30, 2027",FR1,25/26
+Marvin Senaya,830890,€3.00m,"Jan 28, 2001",25,1.81,Ghana,Right-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Quinten Timber,420213,€25.00m,"Jun 17, 2001",24,1.79,Netherlands,Central Midfield,Marseille,,"Jan 23, 2026","Jun 30, 2030",FR1,25/26
+Amine Sbaï,851220,€2.50m,"Nov 5, 2000",25,1.75,Morocco,Left Winger,Angers SCO,,"Oct 8, 2025","Jun 30, 2027",FR1,25/26
+Gabin Bernardeau,1254786,€1.50m,"Jan 24, 2006",20,1.81,France,Attacking Midfield,Nice,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Noah Nartey,802515,€15.00m,"Oct 5, 2005",20,1.8,Denmark,Attacking Midfield,Lyon,,"Jan 19, 2026","Jun 30, 2030",FR1,25/26
+Wesley Saïd,182916,€6.00m,"Apr 19, 1995",31,1.71,France,Second Striker,Lens,,"Jul 1, 2021","Jun 30, 2026",FR1,25/26
+Tuomas Ollila,433887,€500k,"Apr 25, 2000",26,1.74,Finland,Left-Back,Paris FC,,"Jan 29, 2024","Jun 30, 2027",FR1,25/26
+Ayumu Seko,405389,€5.00m,"Jun 7, 2000",25,1.86,Japan,Defensive Midfield,Le Havre AC,,"Jul 22, 2025","Jun 30, 2028",FR1,25/26
+Timothée Kolodziejczak,84085,€200k,"Oct 1, 1991",34,1.83,France,Centre-Back,Paris FC,,"Sep 6, 2023","Jun 30, 2026",FR1,25/26
+Ibrahima Sissoko,372712,€2.50m,"Oct 27, 1997",28,1.93,Mali,Defensive Midfield,FC Nantes,,"Jan 12, 2026","Jun 30, 2028",FR1,25/26
+Koffi Kouao,481513,€2.50m,"May 20, 1998",27,1.73,Cote d'Ivoire,Right-Back,FC Metz,,"Aug 12, 2022","Jun 30, 2026",FR1,25/26
+Benjamin Pavard,353366,€15.00m,"Mar 28, 1996",30,1.86,France,Centre-Back,Marseille,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Erawan Garnier,1176271,€200k,"Jan 5, 2006",20,1.8,Thailand,Right Winger,Lens,,"Oct 24, 2025","Jun 30, 2027",FR1,25/26
+Mory Diaw,164904,€1.00m,"Jun 22, 1993",32,1.97,Senegal,Goalkeeper,Le Havre AC,,"Jul 12, 2025","Jun 30, 2027",FR1,25/26
+Sofiane Alakouch,434358,€200k,"Jul 29, 1998",27,1.75,Morocco,Right-Back,Paris FC,,"Jul 1, 2024","Jun 30, 2026",FR1,25/26
+Allan Saint-Maximin,272642,€10.00m,"Mar 12, 1997",29,1.73,France,Left Winger,Lens,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Otávio,818495,€10.00m,"Apr 21, 2002",24,1.88,Brazil,Centre-Back,Paris FC,,"Jul 23, 2025","Jun 30, 2030",FR1,25/26
+Félix Correia,479648,€10.00m,"Jan 22, 2001",25,1.78,Portugal,Left Winger,Lille,,"Jul 17, 2025","Jun 30, 2029",FR1,25/26
+Hamed Traoré,391065,€15.00m,"Feb 16, 2000",26,1.77,Cote d'Ivoire,Left Winger,Marseille,,"Aug 29, 2025","Jun 30, 2026",FR1,25/26
+Clément Akpa,806793,€9.00m,"Nov 24, 2001",24,1.81,Cote d'Ivoire,Centre-Back,AJ Auxerre,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Bamba Dieng,822458,€6.00m,"Mar 23, 2000",26,1.78,Senegal,Centre-Forward,FC Lorient,,"Jan 27, 2023","Jun 30, 2026",FR1,25/26
+Rasmus Nicolaisen,283227,€5.00m,"Mar 16, 1997",29,1.91,Denmark,Centre-Back,Toulouse,,"Aug 17, 2021","Jun 30, 2027",FR1,25/26
+Benjamin Stambouli,127160,€300k,"Aug 13, 1990",35,1.8,France,Defensive Midfield,FC Metz,,"Sep 10, 2024","Jun 30, 2026",FR1,25/26
+Josué Casimir,763182,€3.50m,"Sep 24, 2001",24,1.78,Haiti,Right Winger,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Karl-Johan Johnsson,112822,€250k,"Jan 28, 1990",36,1.88,Sweden,Goalkeeper,R. Strasbourg,,"Aug 16, 2024","Jun 30, 2026",FR1,25/26
+Guy-Noël Zohouri,1119877,,"Feb 1, 2007",19,1.88,Cote d'Ivoire,Central Midfield,Le Havre AC,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Khvicha Kvaratskhelia,502670,€90.00m,"Feb 12, 2001",25,1.83,Georgia,Left Winger,PSG,,"Jan 17, 2025","Jun 30, 2029",FR1,25/26
+Glen Kamara,242632,€2.50m,"Oct 28, 1995",30,1.78,Finland,Central Midfield,Stade Rennais,,"Jul 16, 2024","Jun 30, 2028",FR1,25/26
+Romain Faivre,555076,€5.00m,"Jul 14, 1998",27,1.8,France,Attacking Midfield,AJ Auxerre,,"Jan 15, 2026","Jun 30, 2026",FR1,25/26
+Mathis Amougou,1010854,€10.00m,"Jan 18, 2006",20,1.77,France,Central Midfield,R. Strasbourg,,"Jul 12, 2025","Jun 30, 2030",FR1,25/26
+Reda Khadra,405686,€1.50m,"Jul 4, 2001",24,1.75,Germany,Attacking Midfield,Le Havre AC,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Rassoul Ndiaye,662242,€7.00m,"Dec 11, 2001",24,1.79,Senegal,Central Midfield,Le Havre AC,,"Jul 17, 2023","Jun 30, 2028",FR1,25/26
+Nicolás Tagliafico,131225,€5.00m,"Aug 31, 1992",33,1.71,Argentina,Left-Back,Lyon,,"Jul 23, 2022","Jun 30, 2027",FR1,25/26
+Nathan Ngoy,548254,€20.00m,"Jun 10, 2003",22,1.83,Belgium,Centre-Back,Lille,,"Jul 24, 2025","Jun 30, 2029",FR1,25/26
+Maxime Lopez,290862,€5.00m,"Dec 4, 1997",28,1.67,France,Defensive Midfield,Paris FC,,"Aug 29, 2024","Jun 30, 2027",FR1,25/26
+Terry Yegbe,991054,€3.00m,"Jan 25, 2001",25,1.95,Ghana,Centre-Back,FC Metz,,"Aug 30, 2025","Jun 30, 2029",FR1,25/26
+Warren Kamanzi,794758,€1.50m,"Nov 11, 2000",25,1.77,Norway,Right-Back,Toulouse,,"Jan 2, 2023","Jun 30, 2026",FR1,25/26
+Trevan Sanusi,1011152,€500k,"Apr 25, 2007",19,1.78,England,Left Winger,FC Lorient,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Emerson,181778,€10.00m,"Aug 3, 1994",31,1.76,Italy,Left-Back,Marseille,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Aarón Anselmino,1145504,€12.00m,"Apr 29, 2005",21,1.86,Argentina,Centre-Back,R. Strasbourg,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Jean-Philippe Krasso,358515,€4.00m,"Jul 17, 1997",28,1.87,Cote d'Ivoire,Centre-Forward,Paris FC,,"Jul 6, 2024","Jun 30, 2027",FR1,25/26
+Aladji Bamba,975347,€10.00m,"Jul 14, 2006",19,1.81,France,Defensive Midfield,Monaco,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Sebastian Nanasi,579928,€12.00m,"May 16, 2002",24,1.78,Sweden,Left Midfield,R. Strasbourg,,"Aug 23, 2024","Jun 30, 2029",FR1,25/26
+Jonathan Gradit,126557,€3.00m,"Nov 24, 1992",33,1.8,France,Centre-Back,Lens,,"Aug 20, 2019","Jun 30, 2028",FR1,25/26
+Kaïl Boudache,1097113,€4.00m,"Jun 15, 2006",19,,France,Right Winger,Nice,,"Jan 1, 2026",-,FR1,25/26
+Sadibou Sané,1111777,€4.00m,"Jun 10, 2004",21,1.82,Senegal,Centre-Back,FC Metz,,"Jul 22, 2023","Jun 30, 2027",FR1,25/26
+Corentin Tolisso,190393,€12.00m,"Aug 3, 1994",31,1.81,France,Central Midfield,Lyon,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Noah Edjouma,1078326,€5.00m,"Oct 4, 2005",20,1.82,France,Right Winger,Lille,,"Feb 2, 2026","Jun 30, 2030",FR1,25/26
+Dro Fernández,1071596,€10.00m,"Jan 12, 2008",18,1.8,Spain,Attacking Midfield,PSG,,"Jan 26, 2026","Jun 30, 2030",FR1,25/26
+Soumaïla Coulibaly,659513,€7.00m,"Oct 14, 2003",22,1.91,France,Centre-Back,Stade Brestois,,"Oct 4, 2025","Jun 30, 2026",FR1,25/26
+Amady Camara,1155608,€1.20m,"May 28, 2005",20,1.8,Mali,Centre-Forward,FC Nantes,,"Aug 9, 2025","Jun 30, 2026",FR1,25/26
+Tiago Gouveia,479638,€4.00m,"Jun 18, 2001",24,1.76,Portugal,Right Winger,Nice,,"Aug 31, 2025","Jun 30, 2026",FR1,25/26
+Everton,1191473,€2.00m,"Apr 12, 2007",19,1.81,France,Defensive Midfield,Nice,,"Jan 1, 2026","Jun 30, 2029",FR1,25/26
+David Datro Fofana,787232,€5.00m,"Dec 22, 2002",23,1.82,Cote d'Ivoire,Centre-Forward,R. Strasbourg,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Bradley Locko,805908,€7.00m,"May 6, 2002",24,1.8,France,Left-Back,Stade Brestois,,"Jul 27, 2023","Jun 30, 2027",FR1,25/26
+Soriba Diaoune,1184007,€5.00m,"Aug 14, 2007",18,1.74,France,Left Winger,Lille,,"Jan 1, 2026","Jun 30, 2028",FR1,25/26
+Tidiane Devernois,1174032,€300k,"Oct 18, 2007",18,1.87,France,Central Midfield,AJ Auxerre B,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Fabián Ruiz,350219,€40.00m,"Apr 3, 1996",30,1.89,Spain,Central Midfield,PSG,,"Aug 30, 2022","Jun 30, 2027",FR1,25/26
+Sinaly Diomandé,702441,€5.00m,"Apr 9, 2001",25,1.84,Cote d'Ivoire,Centre-Back,AJ Auxerre,,"Aug 30, 2024","Jun 30, 2027",FR1,25/26
+Moïse Bombito,1089202,€8.00m,"Mar 30, 2000",26,1.9,Canada,Centre-Back,Nice,,"Aug 19, 2024","Jun 30, 2028",FR1,25/26
+Amadou Haidara,402008,€6.00m,"Jan 31, 1998",28,1.78,Mali,Central Midfield,Lens,,"Jan 1, 2026","Jun 30, 2029",FR1,25/26
+Rasmus Nicolaisen,283227,€5.00m,"Mar 16, 1997",29,1.91,Denmark,Centre-Back,Toulouse,,"Aug 17, 2021","Jun 30, 2027",FR1,25/26
+Saud Abdulhamid,631927,€5.00m,"Jul 18, 1999",26,1.75,Saudi Arabia,Right-Back,Lens,,"Aug 3, 2025","Jun 30, 2026",FR1,25/26
+Abdoulaye Faye,1182738,€3.00m,"Sep 22, 2004",21,1.91,Senegal,Centre-Back,FC Lorient,,"Jul 29, 2025","Jun 30, 2026",FR1,25/26
+Samuel Amo-Ameyaw,933900,€8.00m,"Jul 18, 2006",19,1.74,England,Right Winger,R. Strasbourg,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Elikya Legros,1291928,,"Jun 6, 2008",17,,France,Centre-Back,AJ Auxerre B,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Vincent Marchetti,374040,€2.00m,"Jul 4, 1997",28,1.78,France,Central Midfield,Paris FC,,"Jan 29, 2024","Jun 30, 2026",FR1,25/26
+Giorgi Abuashvili,677057,€1.20m,"Feb 8, 2003",23,1.75,Georgia,Left Winger,FC Metz,,"Jul 17, 2025","Jun 30, 2026",FR1,25/26
+Anthony Rouault,690799,€12.00m,"May 29, 2001",24,1.86,France,Centre-Back,Stade Rennais,,"Feb 3, 2025","Jun 30, 2029",FR1,25/26
+Sofiane Boufal,232271,€2.00m,"Sep 17, 1993",32,1.75,Morocco,Attacking Midfield,Le Havre AC,,"Jan 14, 2026","Jun 30, 2026",FR1,25/26
+Obed Nkambadio,750878,€6.00m,"Feb 7, 2003",23,1.9,France,Goalkeeper,Paris FC,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Gessime Yassine,1151929,€10.00m,"Nov 22, 2005",20,1.72,Morocco,Right Winger,R. Strasbourg,,"Jan 17, 2026","Jun 30, 2030",FR1,25/26
+Senny Mayulu,903693,€40.00m,"May 17, 2006",19,1.83,France,Central Midfield,PSG,,"Jan 1, 2024","Jun 30, 2027",FR1,25/26
+Nathaniel Adjei,646829,€1.20m,"Aug 21, 2002",23,1.91,Ghana,Centre-Back,FC Lorient,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Joaquín Panichelli,1064871,€35.00m,"Oct 7, 2002",23,1.9,Argentina,Centre-Forward,R. Strasbourg,,"Jul 27, 2025","Jun 30, 2030",FR1,25/26
+Rémi Himbert,1200423,€10.00m,"Feb 29, 2008",18,1.78,France,Left Winger,Lyon,,"Jan 1, 2026","Jun 30, 2028",FR1,25/26
+Geoffrey Kondogbia,127189,€4.00m,"Feb 15, 1993",33,1.88,Central African Republic,Defensive Midfield,Marseille,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Hamari Traoré,297070,€1.80m,"Jan 27, 1992",34,1.75,Mali,Right-Back,Paris FC,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Abakar Sylla,962555,€3.00m,"Dec 25, 2002",23,1.88,Cote d'Ivoire,Centre-Back,FC Nantes,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Maxime Colin,156618,€300k,"Nov 15, 1991",34,1.8,France,Right-Back,FC Metz,,"Jul 27, 2023","Jun 30, 2027",FR1,25/26
+Yann Lienard,745341,€100k,"Mar 16, 2003",23,1.94,France,Goalkeeper,Monaco,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Michel Mboula,1038308,€1.00m,"Apr 30, 2003",23,1.85,Gabon,Centre-Back,FC Metz,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Abdoul Ouattara,991487,€15.00m,"Oct 22, 2005",20,1.8,Cote d'Ivoire,Right-Back,R. Strasbourg,,"Jan 1, 2025","Jun 30, 2029",FR1,25/26
+Eric Dier,175722,€5.00m,"Jan 15, 1994",32,1.91,England,Centre-Back,Monaco,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Lucas Gourna-Douath,620313,€6.00m,"Aug 5, 2003",22,1.85,France,Defensive Midfield,Le Havre AC,,"Jan 16, 2026","Jun 30, 2026",FR1,25/26
+Alexsandro,648020,€18.00m,"Aug 9, 1999",26,1.91,Brazil,Centre-Back,Lille,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Ethan Nwaneri,890719,€40.00m,"Mar 21, 2007",19,1.76,England,Attacking Midfield,Marseille,,"Jan 23, 2026","Jun 30, 2026",FR1,25/26
+Nayef Aguerd,361914,€20.00m,"Mar 30, 1996",30,1.9,Morocco,Centre-Back,Marseille,,"Sep 1, 2025","Jun 30, 2030",FR1,25/26
+Romain Del Castillo,353399,€7.00m,"Mar 29, 1996",30,1.72,France,Right Winger,Stade Brestois,,"Aug 31, 2021","Jun 30, 2027",FR1,25/26
+Oumar Pona,1073176,€100k,"Jun 21, 2006",19,1.95,Mali,Goalkeeper,Angers SCO,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Lucas Hernández,281963,€20.00m,"Feb 14, 1996",30,1.84,France,Left-Back,PSG,,"Jul 9, 2023","Jun 30, 2028",FR1,25/26
+Nidal Celik,819566,€4.00m,"Jul 17, 2006",19,1.92,Bosnia-Herzegovina,Centre-Back,Lens,,"Feb 3, 2025","Jun 30, 2029",FR1,25/26
+Daren Mosengo,1119880,€300k,"Aug 11, 2006",19,1.88,France,Defensive Midfield,Le Havre AC,,"Jul 1, 2025",-,FR1,25/26
+Achraf Laâziri,902862,€500k,"Jul 8, 2003",22,1.77,Morocco,Left-Back,Lyon,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Mark McKenzie,429259,€6.00m,"Feb 25, 1999",27,1.84,United States,Centre-Back,Toulouse,,"Aug 16, 2024","Jun 30, 2027",FR1,25/26
+Dermane Karim,969447,€3.00m,"Dec 26, 2003",22,1.78,Togo,Attacking Midfield,FC Lorient,,"Aug 9, 2025","Jun 30, 2026",FR1,25/26
+Sékou Mara,557612,€4.00m,"Jul 30, 2002",23,1.83,France,Centre-Forward,AJ Auxerre,,"Sep 5, 2025","Jun 30, 2026",FR1,25/26
+Nayef Aguerd,361914,€20.00m,"Mar 30, 1996",30,1.9,Morocco,Centre-Back,Marseille,,"Sep 1, 2025","Jun 30, 2030",FR1,25/26
+Roman Yaremchuk,221958,€2.50m,"Nov 27, 1995",30,1.91,Ukraine,Centre-Forward,Lyon,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Marius Louër,1103652,€800k,"Mar 11, 2007",19,1.81,France,Right-Back,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Jean-Philippe Gbamin,182894,€2.00m,"Sep 25, 1995",30,1.86,Cote d'Ivoire,Centre-Back,FC Metz,,"Jul 15, 2025","Jun 30, 2026",FR1,25/26
+Lucas Hernández,281963,€20.00m,"Feb 14, 1996",30,1.84,France,Left-Back,PSG,,"Jul 9, 2023","Jun 30, 2028",FR1,25/26
+Sebastian Nanasi,579928,€12.00m,"May 16, 2002",24,1.78,Sweden,Left Midfield,R. Strasbourg,,"Aug 23, 2024","Jun 30, 2029",FR1,25/26
+Bradley Barcola,708265,€70.00m,"Sep 2, 2002",23,1.82,France,Left Winger,PSG,,"Aug 31, 2023","Jun 30, 2028",FR1,25/26
+Moussa Niakhaté,291200,€18.00m,"Mar 8, 1996",30,1.9,Senegal,Centre-Back,Lyon,,"Jul 4, 2024","Jun 30, 2028",FR1,25/26
+Dominik Greif,316884,€8.00m,"Apr 6, 1997",29,1.97,Slovakia,Goalkeeper,Lyon,,"Aug 18, 2025","Jun 30, 2029",FR1,25/26
+Amine Gouiri,418659,€28.00m,"Feb 16, 2000",26,1.81,Algeria,Centre-Forward,Marseille,,"Jan 31, 2025","Jun 30, 2029",FR1,25/26
+Yann Gboho,463613,€15.00m,"Jan 14, 2001",25,1.78,France,Left Winger,Toulouse,,"Jan 8, 2024","Jun 30, 2027",FR1,25/26
+Malick Fofana,743386,€30.00m,"Mar 31, 2005",21,1.69,Belgium,Left Winger,Lyon,,"Jan 10, 2024","Jun 30, 2028",FR1,25/26
+Chidozie Awaziem,358143,€3.00m,"Jan 1, 1997",29,1.89,Nigeria,Centre-Back,FC Nantes,,"Jul 23, 2025","Jun 30, 2028",FR1,25/26
+Amady Camara,1155608,€1.20m,"May 28, 2005",20,1.8,Mali,Centre-Forward,FC Nantes,,"Aug 9, 2025","Jun 30, 2026",FR1,25/26
+Facundo Medina,474800,€18.00m,"May 28, 1999",26,1.84,Argentina,Centre-Back,Marseille,,"Jul 2, 2025","Jun 30, 2026",FR1,25/26
+Elisha Owusu,395695,€3.50m,"Nov 7, 1997",28,1.82,Ghana,Defensive Midfield,AJ Auxerre,,"Jan 16, 2023","Jun 30, 2027",FR1,25/26
+Ignatius Ganago,531949,€2.00m,"Feb 16, 1999",27,1.76,Cameroon,Centre-Forward,FC Nantes,,"Sep 1, 2022","Jun 30, 2027",FR1,25/26
+Pape Sy,568728,€300k,"May 2, 1997",29,2.06,Senegal,Goalkeeper,FC Metz,,"Jul 26, 2024","Jun 30, 2026",FR1,25/26
+Pierre-Emile Højbjerg,167799,€18.00m,"Aug 5, 1995",30,1.85,Denmark,Defensive Midfield,Marseille,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Adrien Thomasson,215977,€4.50m,"Dec 10, 1993",32,1.75,France,Central Midfield,Lens,,"Jan 12, 2023","Jun 30, 2026",FR1,25/26
+Godson Kyeremeh,651973,€600k,"Jun 14, 2000",25,1.77,France,Right Winger,Le Havre AC,,"Jul 11, 2025","Jun 30, 2027",FR1,25/26
+Melvin Zinga,548347,€300k,"Mar 16, 2002",24,1.87,France,Goalkeeper,Angers SCO,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Ali Youssif,944724,€1.50m,"Jul 9, 2001",24,1.88,Libya,Centre-Back,FC Nantes,,"Jan 19, 2026","Jun 30, 2028",FR1,25/26
+Nidal Celik,819566,€4.00m,"Jul 17, 2006",19,1.92,Bosnia-Herzegovina,Centre-Back,Lens,,"Feb 3, 2025","Jun 30, 2029",FR1,25/26
+Cléo Mélières,1099860,€200k,"Apr 13, 2005",21,1.75,France,Right-Back,FC Metz,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Vitinha,487469,€110.00m,"Feb 13, 2000",26,1.72,Portugal,Defensive Midfield,PSG,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Ruben Kluivert,578421,€6.00m,"May 21, 2001",24,1.87,Netherlands,Centre-Back,Lyon,,"Jul 25, 2025","Jun 30, 2030",FR1,25/26
+Kojo Peprah Oppong,1113451,€10.00m,"Jun 4, 2004",21,1.85,Ghana,Centre-Back,Nice,,"Jul 25, 2025","Jun 30, 2029",FR1,25/26
+Ryan Rodin,1010856,€300k,"Mar 2, 2006",20,1.94,France,Centre-Forward,AJ Auxerre B,,"Jan 1, 2025","Jun 30, 2028",FR1,25/26
+Alpha Touré,1178489,€5.00m,"Jan 25, 2006",20,1.8,Senegal,Defensive Midfield,FC Metz,,"Jul 12, 2024","Jun 30, 2028",FR1,25/26
+Mason Greenwood,532826,€55.00m,"Oct 1, 2001",24,1.81,England,Right Winger,Marseille,,"Jul 18, 2024","Jun 30, 2029",FR1,25/26
+Przemyslaw Frankowski,239743,€7.00m,"Apr 12, 1995",31,1.75,Poland,Right-Back,Stade Rennais,,"Aug 5, 2025","Jun 30, 2026",FR1,25/26
+Johann Lepenant,585973,€7.00m,"Oct 22, 2002",23,1.76,France,Defensive Midfield,FC Nantes,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Djaoui Cissé,931160,€15.00m,"Jan 31, 2004",22,1.88,France,Central Midfield,Stade Rennais,,"Jul 1, 2024","Jun 30, 2030",FR1,25/26
+Warren Zaïre-Emery,810092,€60.00m,"Mar 8, 2006",20,1.78,France,Central Midfield,PSG,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Tiago Gouveia,479638,€4.00m,"Jun 18, 2001",24,1.76,Portugal,Right Winger,Nice,,"Aug 31, 2025","Jun 30, 2026",FR1,25/26
+Adam Karabec,652061,€8.00m,"Jul 2, 2003",22,1.87,Czech Republic,Attacking Midfield,Lyon,,"Aug 12, 2025","Jun 30, 2026",FR1,25/26
+Habib Diallo,344888,€5.00m,"Jun 18, 1995",30,1.86,Senegal,Centre-Forward,FC Metz,,"Aug 31, 2025","Jun 30, 2028",FR1,25/26
+Jean-Victor Makengo,322305,€6.00m,"Jun 12, 1998",27,1.77,France,Attacking Midfield,FC Lorient,,"Jan 30, 2023","Jun 30, 2027",FR1,25/26
+Kjetil Haug,328770,€500k,"Jun 12, 1998",27,1.91,Norway,Goalkeeper,Toulouse,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Jordan Lefort,192492,€1.20m,"Aug 9, 1993",32,1.84,Mauritania,Centre-Back,Angers SCO,,"Jul 1, 2023","Jun 30, 2029",FR1,25/26
+Mama Baldé,325223,€3.50m,"Nov 6, 1995",30,1.76,Guinea-Bissau,Centre-Forward,Stade Brestois,,"Aug 30, 2024","Jun 30, 2027",FR1,25/26
+Gerónimo Rulli,229604,€8.00m,"May 20, 1992",33,1.89,Argentina,Goalkeeper,Marseille,,"Aug 11, 2024","Jun 30, 2027",FR1,25/26
+Kelvin Amian,344072,€2.50m,"Feb 8, 1998",28,1.8,France,Right-Back,FC Nantes,,"Jan 25, 2024","Jun 30, 2028",FR1,25/26
+Martial Godo,992686,€18.00m,"Mar 14, 2003",23,1.77,Cote d'Ivoire,Left Winger,R. Strasbourg,,"Sep 1, 2025","Jun 30, 2030",FR1,25/26
+Himad Abdelli,592979,€7.00m,"Nov 17, 1999",26,1.85,Algeria,Attacking Midfield,Marseille,,"Feb 2, 2026","Jun 30, 2030",FR1,25/26
+Arnaud Nordin,324811,€4.00m,"Jun 17, 1998",27,1.7,France,Right Winger,Stade Rennais,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Antoine Mendy,891998,€6.00m,"May 27, 2004",21,1.87,Senegal,Centre-Back,Nice,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Jeffrey de Lange,315253,€3.00m,"Apr 1, 1998",28,1.9,Netherlands,Goalkeeper,Marseille,,"Aug 8, 2024","Jun 30, 2027",FR1,25/26
+Kévin Danois,743496,€12.00m,"Jun 28, 2004",21,1.83,France,Central Midfield,AJ Auxerre,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Mohammed Salisu,563963,€10.00m,"Apr 17, 1999",27,1.88,Ghana,Centre-Back,Monaco,,"Aug 1, 2023","Jun 30, 2028",FR1,25/26
+Mathieu Cafaro,399383,€2.00m,"Mar 25, 1997",29,1.75,France,Right Winger,Paris FC,,"Feb 3, 2025","Jun 30, 2027",FR1,25/26
+Giorgi Kvilitaia,186233,€1.00m,"Oct 1, 1993",32,1.93,Georgia,Centre-Forward,FC Metz,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Kevin Carlos,718201,€5.00m,"Apr 10, 2001",25,1.86,Spain,Centre-Forward,Nice,,"Aug 18, 2025","Jun 30, 2030",FR1,25/26
+Abdoulaye Bamba,62351,€250k,"Apr 25, 1990",36,1.82,Cote d'Ivoire,Centre-Back,Angers SCO,,"Jan 1, 2017","Jun 30, 2026",FR1,25/26
+Lamine Camara,918969,€35.00m,"Jan 1, 2004",22,1.73,Senegal,Central Midfield,Monaco,,"Jul 30, 2024","Jun 30, 2029",FR1,25/26
+Julio Enciso,660867,€22.00m,"Jan 23, 2004",22,1.73,Paraguay,Attacking Midfield,R. Strasbourg,,"Sep 1, 2025","Jun 30, 2029",FR1,25/26
+Elías Legendre Quiñónez,1227106,€1.50m,"Apr 22, 2008",18,1.79,Ecuador,Right Winger,Stade Rennais,,"Dec 3, 2025","Jun 30, 2029",FR1,25/26
+Nhoa Sangui,955281,€9.00m,"Feb 27, 2006",20,1.78,France,Left-Back,Paris FC,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Simon Ebonog,770436,€3.00m,"Aug 16, 2004",21,1.86,France,Central Midfield,Le Havre AC,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Kelvin Amian,344072,€2.50m,"Feb 8, 1998",28,1.8,France,Right-Back,FC Nantes,,"Jan 25, 2024","Jun 30, 2028",FR1,25/26
+Bryan Okoh,539795,€2.50m,"May 16, 2003",23,1.91,Switzerland,Centre-Back,AJ Auxerre,,"Jan 29, 2026","Jun 30, 2029",FR1,25/26
+Noah Edjouma,1078326,€5.00m,"Oct 4, 2005",20,1.82,France,Right Winger,Lille,,"Feb 2, 2026","Jun 30, 2030",FR1,25/26
+Mathieu Gorgelin,60543,€250k,"Aug 5, 1990",35,1.87,France,Goalkeeper,Lens,,"Jan 19, 2026","Jun 30, 2026",FR1,25/26
+Julián Vignolo,1234988,€2.00m,"Dec 7, 2006",19,1.85,Argentina,Centre-Forward,Toulouse,,"Aug 20, 2025","Jun 30, 2029",FR1,25/26
+Melvin Bard,532775,€10.00m,"Nov 6, 2000",25,1.73,France,Left-Back,Nice,,"Jul 16, 2021","Jun 30, 2028",FR1,25/26
+Romain Faivre,555076,€5.00m,"Jul 14, 1998",27,1.8,France,Attacking Midfield,AJ Auxerre,,"Jan 15, 2026","Jun 30, 2026",FR1,25/26
+Matthis Abline,659543,€20.00m,"Mar 28, 2003",23,1.82,France,Centre-Forward,FC Nantes,,"Jul 3, 2024","Jun 30, 2028",FR1,25/26
+Gabin Bernardeau,1254786,€1.50m,"Jan 24, 2006",20,1.81,France,Attacking Midfield,Nice,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Lassine Diarra,1071430,€50k,"Nov 11, 2002",23,1.9,Mali,Goalkeeper,Olymp. Lyon B,,"Nov 4, 2023","Jun 30, 2028",FR1,25/26
+Khvicha Kvaratskhelia,502670,€90.00m,"Feb 12, 2001",25,1.83,Georgia,Left Winger,PSG,,"Jan 17, 2025","Jun 30, 2029",FR1,25/26
+Maghnes Akliouche,745200,€50.00m,"Feb 25, 2002",24,1.83,France,Right Winger,Monaco,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Félix Correia,479648,€10.00m,"Jan 22, 2001",25,1.78,Portugal,Left Winger,Lille,,"Jul 17, 2025","Jun 30, 2029",FR1,25/26
+Karl-Johan Johnsson,112822,€250k,"Jan 28, 1990",36,1.88,Sweden,Goalkeeper,R. Strasbourg,,"Aug 16, 2024","Jun 30, 2026",FR1,25/26
+Vincent Marchetti,374040,€2.00m,"Jul 4, 1997",28,1.78,France,Central Midfield,Paris FC,,"Jan 29, 2024","Jun 30, 2026",FR1,25/26
+Rémi Himbert,1200423,€10.00m,"Feb 29, 2008",18,1.78,France,Left Winger,Lyon,,"Jan 1, 2026","Jun 30, 2028",FR1,25/26
+Uros Radakovic,169511,€500k,"Mar 31, 1994",32,1.94,Serbia,Centre-Back,FC Nantes,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Anthony Lopes,60561,€1.00m,"Oct 1, 1990",35,1.84,Portugal,Goalkeeper,FC Nantes,,"Jan 1, 2025","Jun 30, 2026",FR1,25/26
+Erawan Garnier,1176271,€200k,"Jan 5, 2006",20,1.8,Thailand,Right Winger,Lens,,"Oct 24, 2025","Jun 30, 2027",FR1,25/26
+Gonçalo Ramos,550550,€35.00m,"Jun 20, 2001",24,1.85,Portugal,Centre-Forward,PSG,,"Jan 1, 2024","Jun 30, 2028",FR1,25/26
+Ismaël Doukouré,786436,€20.00m,"Jul 24, 2003",22,1.83,France,Centre-Back,R. Strasbourg,,"Jan 29, 2022","Jun 30, 2028",FR1,25/26
+Maxi Oyedele,863204,€4.00m,"Nov 7, 2004",21,1.83,Poland,Defensive Midfield,R. Strasbourg,,"Jul 16, 2025","Jun 30, 2030",FR1,25/26
+Santiago Hidalgo,989574,€4.00m,"Feb 17, 2005",21,1.74,Argentina,Centre-Forward,Toulouse,,"Jul 31, 2025","Jun 30, 2029",FR1,25/26
+Abu Francis,658533,€2.00m,"Apr 27, 2001",25,1.82,Ghana,Central Midfield,Toulouse,,"Aug 6, 2025","Jun 30, 2029",FR1,25/26
+Deiver Machado,332560,€2.00m,"Sep 2, 1993",32,1.8,Colombia,Left-Back,FC Nantes,,"Dec 8, 2025","Jun 30, 2028",FR1,25/26
+Samir Chergui,668167,€3.00m,"Feb 6, 1999",27,1.85,Algeria,Centre-Back,Paris FC,,"Jan 1, 2021",-,FR1,25/26
+Felix Mambimbi,507496,€600k,"Jan 18, 2001",25,1.71,Switzerland,Left Winger,Le Havre AC,,"Jul 11, 2025","Jun 30, 2027",FR1,25/26
+Julián Vignolo,1234988,€2.00m,"Dec 7, 2006",19,1.85,Argentina,Centre-Forward,Toulouse,,"Aug 20, 2025","Jun 30, 2029",FR1,25/26
+Moses Simon,274862,€7.00m,"Jul 12, 1995",30,1.68,Nigeria,Left Winger,Paris FC,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Ludovic Blas,288225,€10.00m,"Dec 31, 1997",28,1.8,France,Right Midfield,Stade Rennais,,"Jul 5, 2023","Jun 30, 2027",FR1,25/26
+Jérémy Jacquet,1004301,€55.00m,"Jul 13, 2005",20,1.9,France,Centre-Back,Stade Rennais,,"Jan 1, 2024","Jun 30, 2029",FR1,25/26
+Geoffrey Kondogbia,127189,€4.00m,"Feb 15, 1993",33,1.88,Central African Republic,Defensive Midfield,Marseille,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Ngal'ayel Mukau,1016015,€12.00m,"Nov 3, 2004",21,1.86,DR Congo,Defensive Midfield,Lille,,"Jul 11, 2024","Jun 30, 2028",FR1,25/26
+Ally Samatta,182201,€800k,"Dec 23, 1992",33,1.83,Tanzania,Centre-Forward,Le Havre AC,,"Aug 5, 2025","Jun 30, 2026",FR1,25/26
+Renato Marin,1041614,€500k,"Jul 10, 2006",19,1.9,Italy,Goalkeeper,PSG,,"Jul 17, 2025","Jun 30, 2030",FR1,25/26
+Achraf Laâziri,902862,€500k,"Jul 8, 2003",22,1.77,Morocco,Left-Back,Lyon,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Kamory Doumbia,671594,€9.00m,"Feb 18, 2003",23,1.7,Mali,Attacking Midfield,Stade Brestois,,"Aug 30, 2024","Jun 30, 2029",FR1,25/26
+Julien Lopez,170506,€200k,"Mar 1, 1992",34,1.73,Algeria,Left Winger,Paris FC,,"Jul 1, 2017","Jun 30, 2026",FR1,25/26
+Ruben Aguilar,203746,€3.00m,"Apr 26, 1993",33,1.72,France,Right-Back,Lens,,"Sep 1, 2023","Jun 30, 2028",FR1,25/26
+Youssouf Ndayishimiye,674612,€8.00m,"Oct 27, 1998",27,1.83,Burundi,Centre-Back,Nice,,"Jan 25, 2023","Jun 30, 2027",FR1,25/26
+Nathan Buayi-Kiala,743523,€100k,"Feb 29, 2004",22,1.77,France,Defensive Midfield,AJ Auxerre,,"Jul 1, 2024","Jun 30, 2026",FR1,25/26
+Laurent Abergel,238626,€2.00m,"Feb 1, 1993",33,1.7,France,Defensive Midfield,FC Lorient,,"Jul 26, 2019","Jun 30, 2029",FR1,25/26
+Samson Baidoo,655217,€25.00m,"Mar 31, 2004",22,1.9,Austria,Centre-Back,Lens,,"Jul 17, 2025","Jun 30, 2030",FR1,25/26
+Matthieu Udol,344886,€6.00m,"Mar 20, 1996",30,1.78,France,Left-Back,Lens,,"Jul 15, 2025","Jun 30, 2028",FR1,25/26
+Diego Moreira,655006,€25.00m,"Aug 6, 2004",21,1.79,Belgium,Left Midfield,R. Strasbourg,,"Aug 16, 2024","Jun 30, 2029",FR1,25/26
+Hamed Traoré,391065,€15.00m,"Feb 16, 2000",26,1.77,Cote d'Ivoire,Left Winger,Marseille,,"Aug 29, 2025","Jun 30, 2026",FR1,25/26
+Maxime Dupé,127188,€800k,"Mar 4, 1993",33,1.88,France,Goalkeeper,Nice,,"Jan 28, 2024","Jun 30, 2026",FR1,25/26
+Junior Diaz,1009596,€6.00m,"Jul 23, 2003",22,1.93,Cote d'Ivoire,Centre-Back,Stade Brestois,,"Jul 13, 2025","Jun 30, 2026",FR1,25/26
+Achraf Hakimi,398073,€80.00m,"Nov 4, 1998",27,1.81,Morocco,Right-Back,PSG,,"Jul 6, 2021","Jun 30, 2029",FR1,25/26
+Grégoire Coudert,525155,€3.00m,"Apr 3, 1999",27,1.92,France,Goalkeeper,Stade Brestois,,"Jul 5, 2021","Jun 30, 2027",FR1,25/26
+Lamine Camara,918969,€35.00m,"Jan 1, 2004",22,1.73,Senegal,Central Midfield,Monaco,,"Jul 30, 2024","Jun 30, 2029",FR1,25/26
+Moses Simon,274862,€7.00m,"Jul 12, 1995",30,1.68,Nigeria,Left Winger,Paris FC,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Ben Chilwell,316125,€12.00m,"Dec 21, 1996",29,1.8,England,Left-Back,R. Strasbourg,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Jordan Teze,364245,€15.00m,"Sep 30, 1999",26,1.83,Netherlands,Right-Back,Monaco,,"Aug 20, 2024","Jun 30, 2029",FR1,25/26
+Youssouf Ndayishimiye,674612,€8.00m,"Oct 27, 1998",27,1.83,Burundi,Centre-Back,Nice,,"Jan 25, 2023","Jun 30, 2027",FR1,25/26
+Sékou Doucouré,825438,€150k,"Apr 26, 2005",21,1.87,Mali,Centre-Back,FC Nantes,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Wout Faes,292808,€10.00m,"Apr 3, 1998",28,1.87,Belgium,Centre-Back,Monaco,,"Jan 13, 2026","Jun 30, 2026",FR1,25/26
+Francisco Sierralta,371436,€1.50m,"May 6, 1997",29,1.92,Chile,Centre-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Lucas Beraldo,872171,€20.00m,"Nov 24, 2003",22,1.86,Brazil,Centre-Back,PSG,,"Jan 1, 2024","Jun 30, 2028",FR1,25/26
+Bradley Barcola,708265,€70.00m,"Sep 2, 2002",23,1.82,France,Left Winger,PSG,,"Aug 31, 2023","Jun 30, 2028",FR1,25/26
+Abdoulaye Faye,1182738,€3.00m,"Sep 22, 2004",21,1.91,Senegal,Centre-Back,FC Lorient,,"Jul 29, 2025","Jun 30, 2026",FR1,25/26
+Malick Fofana,743386,€30.00m,"Mar 31, 2005",21,1.69,Belgium,Left Winger,Lyon,,"Jan 10, 2024","Jun 30, 2028",FR1,25/26
+Nathaniel Adjei,646829,€1.20m,"Aug 21, 2002",23,1.91,Ghana,Centre-Back,FC Lorient,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Rafael Luís,637803,€4.00m,"Feb 18, 2005",21,1.88,Portugal,Defensive Midfield,R. Strasbourg,,"Aug 17, 2025","Jun 30, 2026",FR1,25/26
+Yanis Zouaoui,691841,€2.50m,"Apr 28, 1998",28,1.83,France,Left-Back,Le Havre AC,,"Jul 5, 2024","Jun 30, 2027",FR1,25/26
+Ally Samatta,182201,€800k,"Dec 23, 1992",33,1.83,Tanzania,Centre-Forward,Le Havre AC,,"Aug 5, 2025","Jun 30, 2026",FR1,25/26
+Tanner Tessmann,670096,€10.00m,"Sep 24, 2001",24,1.88,United States,Defensive Midfield,Lyon,,"Aug 27, 2024","Jun 30, 2029",FR1,25/26
+Noah Cadiou,691958,€2.50m,"Oct 26, 1998",27,1.91,Guadeloupe,Central Midfield,FC Lorient,,"Jul 4, 2025","Jun 30, 2029",FR1,25/26
+Arouna Sangante,768380,€8.00m,"Apr 12, 2002",24,1.89,Senegal,Centre-Back,Le Havre AC,,"Jul 1, 2021","Jun 30, 2026",FR1,25/26
+Anthony Bermont,1088110,€1.00m,"Feb 10, 2005",21,1.87,France,Left Winger,Lens,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Thibault De Smet,340177,€2.00m,"Jun 5, 1998",27,1.83,Belgium,Left-Back,Paris FC,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Kenny Lala,174196,€1.80m,"Oct 3, 1991",34,1.78,France,Right-Back,Stade Brestois,,"Jan 1, 2023","Jun 30, 2027",FR1,25/26
+Simon Ebonog,770436,€3.00m,"Aug 16, 2004",21,1.86,France,Central Midfield,Le Havre AC,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Alexsandro,648020,€18.00m,"Aug 9, 1999",26,1.91,Brazil,Centre-Back,Lille,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Mousa Tamari,551505,€8.00m,"Jun 10, 1997",28,1.78,Jordan,Right Winger,Stade Rennais,,"Feb 3, 2025","Jun 30, 2028",FR1,25/26
+Dro Fernández,1071596,€10.00m,"Jan 12, 2008",18,1.8,Spain,Attacking Midfield,PSG,,"Jan 26, 2026","Jun 30, 2030",FR1,25/26
+Daren Mosengo,1119880,€300k,"Aug 11, 2006",19,1.88,France,Defensive Midfield,Le Havre AC,,"Jul 1, 2025",-,FR1,25/26
+Théo Le Bris,766412,€4.50m,"Oct 1, 2002",23,1.7,France,Right Midfield,FC Lorient,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Marvin Senaya,830890,€3.00m,"Jan 28, 2001",25,1.81,Ghana,Right-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Rassoul Ndiaye,662242,€7.00m,"Dec 11, 2001",24,1.79,Senegal,Central Midfield,Le Havre AC,,"Jul 17, 2023","Jun 30, 2028",FR1,25/26
+Andrija Bulatovic,986291,€5.00m,"Dec 27, 2006",19,1.8,Montenegro,Central Midfield,Lens,,"Feb 3, 2025","Jun 30, 2030",FR1,25/26
+Hugo Magnetti,474662,€6.00m,"May 30, 1998",27,1.8,France,Central Midfield,Stade Brestois,,"Jul 1, 2018","Jun 30, 2027",FR1,25/26
+Mory Diaw,164904,€1.00m,"Jun 22, 1993",32,1.97,Senegal,Goalkeeper,Le Havre AC,,"Jul 12, 2025","Jun 30, 2027",FR1,25/26
+Deiver Machado,332560,€2.00m,"Sep 2, 1993",32,1.8,Colombia,Left-Back,FC Nantes,,"Dec 8, 2025","Jun 30, 2028",FR1,25/26
+Andrija Bulatovic,986291,€5.00m,"Dec 27, 2006",19,1.8,Montenegro,Central Midfield,Lens,,"Feb 3, 2025","Jun 30, 2030",FR1,25/26
+Marius Courcoul,1075575,€2.50m,"Jan 1, 2007",19,1.82,France,Defensive Midfield,Angers SCO,,"Feb 1, 2025","Jun 30, 2027",FR1,25/26
+Calvin Verdonk,258364,€3.00m,"Apr 26, 1997",29,1.74,Indonesia,Left-Back,Lille,,"Sep 1, 2025","Jun 30, 2028",FR1,25/26
+Yvon Mvogo,147051,€3.00m,"Jun 6, 1994",31,1.9,Switzerland,Goalkeeper,FC Lorient,,"Jul 13, 2022","Jun 30, 2027",FR1,25/26
+Breel Embolo,237662,€12.00m,"Feb 14, 1997",29,1.87,Switzerland,Centre-Forward,Stade Rennais,,"Sep 1, 2025","Jun 30, 2029",FR1,25/26
+Jacen Russell-Rowe,683625,€3.50m,"Sep 13, 2002",23,1.83,Canada,Centre-Forward,Toulouse,,"Feb 2, 2026","Jun 30, 2029",FR1,25/26
+Tyler Morton,618494,€25.00m,"Oct 31, 2002",23,1.85,England,Defensive Midfield,Lyon,,"Aug 5, 2025","Jun 30, 2030",FR1,25/26
+Ignatius Ganago,531949,€2.00m,"Feb 16, 1999",27,1.76,Cameroon,Centre-Forward,FC Nantes,,"Sep 1, 2022","Jun 30, 2027",FR1,25/26
+Pablo Pagis,810411,€10.00m,"Dec 29, 2002",23,1.8,France,Left Winger,FC Lorient,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Sinaly Diomandé,702441,€5.00m,"Apr 9, 2001",25,1.84,Cote d'Ivoire,Centre-Back,AJ Auxerre,,"Aug 30, 2024","Jun 30, 2027",FR1,25/26
+Mohamed Bamba,619461,€2.50m,"Dec 10, 2001",24,1.85,Cote d'Ivoire,Centre-Forward,FC Lorient,,"Jan 26, 2024","Jun 30, 2028",FR1,25/26
+Ismaël Guerti,860053,€300k,"Jul 30, 2004",21,1.78,Morocco,Attacking Midfield,FC Metz,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Lukas Hradecky,48015,€1.80m,"Nov 24, 1989",36,1.92,Finland,Goalkeeper,Monaco,,"Aug 8, 2025","Jun 30, 2027",FR1,25/26
+Telli Siwe,1091353,€1.00m,"Dec 14, 2004",21,1.85,France,Centre-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Jean-Philippe Krasso,358515,€4.00m,"Jul 17, 1997",28,1.87,Cote d'Ivoire,Centre-Forward,Paris FC,,"Jul 6, 2024","Jun 30, 2027",FR1,25/26
+Sofiane Alakouch,434358,€200k,"Jul 29, 1998",27,1.75,Morocco,Right-Back,Paris FC,,"Jul 1, 2024","Jun 30, 2026",FR1,25/26
+Nicolas Cozza,485965,€3.00m,"Jan 8, 1999",27,1.81,France,Centre-Back,FC Nantes,,"Aug 28, 2024","Jun 30, 2026",FR1,25/26
+Hákon Arnar Haraldsson,652275,€22.00m,"Apr 10, 2003",23,1.78,Iceland,Attacking Midfield,Lille,,"Jul 17, 2023","Jun 30, 2030",FR1,25/26
+Frank Magri,807689,€4.00m,"Sep 4, 1999",26,1.78,Cameroon,Centre-Forward,Toulouse,,"Jul 21, 2023","Jun 30, 2026",FR1,25/26
+Ngal'ayel Mukau,1016015,€12.00m,"Nov 3, 2004",21,1.86,DR Congo,Defensive Midfield,Lille,,"Jul 11, 2024","Jun 30, 2028",FR1,25/26
+Lucas Chevalier,463600,€30.00m,"Nov 6, 2001",24,1.89,France,Goalkeeper,PSG,,"Aug 9, 2025","Jun 30, 2030",FR1,25/26
+Yassin Belkhdim,807688,€7.00m,"Feb 14, 2002",24,1.75,Morocco,Central Midfield,Angers SCO,,"Jan 1, 2024","Jun 30, 2028",FR1,25/26
+Goduine Koyalipou,525140,€2.50m,"Feb 15, 2000",26,1.84,Central African Republic,Centre-Forward,Angers SCO,,"Jan 29, 2026","Jun 30, 2026",FR1,25/26
+Breel Embolo,237662,€12.00m,"Feb 14, 1997",29,1.87,Switzerland,Centre-Forward,Stade Rennais,,"Sep 1, 2025","Jun 30, 2029",FR1,25/26
+Hugo Magnetti,474662,€6.00m,"May 30, 1998",27,1.8,France,Central Midfield,Stade Brestois,,"Jul 1, 2018","Jun 30, 2027",FR1,25/26
+Rafik Messali,883865,€1.50m,"Apr 28, 2003",23,1.77,Algeria,Right-Back,Toulouse,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Lucas Tousart,353948,€2.00m,"Apr 29, 1997",29,1.84,France,Central Midfield,Stade Brestois,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Folarin Balogun,503770,€30.00m,"Jul 3, 2001",24,1.78,United States,Centre-Forward,Monaco,,"Aug 30, 2023","Jun 30, 2028",FR1,25/26
+Orel Mangala,289592,€10.00m,"Mar 18, 1998",28,1.78,Belgium,Defensive Midfield,Lyon,,"Jul 2, 2024","Jun 30, 2028",FR1,25/26
+Glen Kamara,242632,€2.50m,"Oct 28, 1995",30,1.78,Finland,Central Midfield,Stade Rennais,,"Jul 16, 2024","Jun 30, 2028",FR1,25/26
+Matvey Safonov,318470,€22.00m,"Feb 25, 1999",27,1.92,Russia,Goalkeeper,PSG,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Benjamin André,84301,€4.00m,"Aug 3, 1990",35,1.8,France,Defensive Midfield,Lille,,"Jul 17, 2019","Jun 30, 2028",FR1,25/26
+Vitinha,487469,€110.00m,"Feb 13, 2000",26,1.72,Portugal,Defensive Midfield,PSG,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Loïc Nego,122840,€600k,"Jan 15, 1991",35,1.81,Hungary,Right-Back,Le Havre AC,,"Jul 1, 2023","Jun 30, 2026",FR1,25/26
+Quentin Ndjantou,1053208,€7.00m,"Jul 23, 2007",18,1.82,France,Left Winger,PSG,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Endrick,971570,€35.00m,"Jul 21, 2006",19,1.73,Brazil,Centre-Forward,Lyon,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Aiyegun Tosin,239647,€2.00m,"Jun 26, 1998",27,1.79,Benin,Centre-Forward,FC Lorient,,"Jul 25, 2023","Jun 30, 2027",FR1,25/26
+Chancel Mbemba,203348,€2.50m,"Aug 8, 1994",31,1.82,DR Congo,Centre-Back,Lille,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Quentin Ndjantou,1053208,€7.00m,"Jul 23, 2007",18,1.82,France,Left Winger,PSG,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Jonathan Ikoné,324690,€4.00m,"May 2, 1998",28,1.75,France,Right Winger,Paris FC,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Maxime Colin,156618,€300k,"Nov 15, 1991",34,1.8,France,Right-Back,FC Metz,,"Jul 27, 2023","Jun 30, 2027",FR1,25/26
+Krépin Diatta,490426,€6.00m,"Feb 25, 1999",27,1.75,Senegal,Right Midfield,Monaco,,"Jan 21, 2021","Jun 30, 2026",FR1,25/26
+Abner,646402,€10.00m,"May 27, 2000",25,1.81,Brazil,Left-Back,Lyon,,"Jul 5, 2024","Jun 30, 2029",FR1,25/26
+Salis Abdul Samed,688707,€4.50m,"Mar 26, 2000",26,1.79,Ghana,Defensive Midfield,Nice,,"Aug 14, 2025","Jun 30, 2028",FR1,25/26
+Mohammed Salisu,563963,€10.00m,"Apr 17, 1999",27,1.88,Ghana,Centre-Back,Monaco,,"Aug 1, 2023","Jun 30, 2028",FR1,25/26
+Djaoui Cissé,931160,€15.00m,"Jan 31, 2004",22,1.88,France,Central Midfield,Stade Rennais,,"Jul 1, 2024","Jun 30, 2030",FR1,25/26
+Yassin Belkhdim,807688,€7.00m,"Feb 14, 2002",24,1.75,Morocco,Central Midfield,Angers SCO,,"Jan 1, 2024","Jun 30, 2028",FR1,25/26
+Prosper Peter,1103958,€15.00m,"Aug 9, 2007",18,1.88,France,Centre-Forward,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Yannis Lawson,1041555,€250k,"Nov 22, 2004",21,1.79,Togo,Left-Back,FC Metz,,"Jul 3, 2025","Jun 30, 2028",FR1,25/26
+Ismaël Doukouré,786436,€20.00m,"Jul 24, 2003",22,1.83,France,Centre-Back,R. Strasbourg,,"Jan 29, 2022","Jun 30, 2028",FR1,25/26
+Jonathan Clauss,175639,€4.50m,"Sep 25, 1992",33,1.78,France,Right-Back,Nice,,"Jul 25, 2024","Jun 30, 2028",FR1,25/26
+Francis Coquelin,74869,€800k,"May 13, 1991",35,1.77,France,Defensive Midfield,FC Nantes,,"Jan 31, 2025","Jun 30, 2026",FR1,25/26
+Arthur Avom,1074628,€15.00m,"Dec 15, 2004",21,1.73,Cameroon,Central Midfield,FC Lorient,,"Jul 1, 2024","Jun 30, 2026",FR1,25/26
+Nabil Bentaleb,245537,€5.00m,"Nov 24, 1994",31,1.87,Algeria,Defensive Midfield,Lille,,"Aug 28, 2023","Jun 30, 2026",FR1,25/26
+Darlin Yongwa,717118,€6.00m,"Sep 22, 2000",25,1.77,Cameroon,Left-Back,FC Lorient,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Hamza Igamane,885445,€18.00m,"Nov 2, 2002",23,1.81,Morocco,Centre-Forward,Lille,,"Aug 29, 2025","Jun 30, 2030",FR1,25/26
+Patrik Carlgren,190280,€500k,"Jan 8, 1992",34,1.89,Sweden,Goalkeeper,FC Nantes,,"Aug 30, 2024","Jun 30, 2026",FR1,25/26
+Lanroy Machine,1096744,€1.20m,"Oct 13, 2005",20,1.83,France,Centre-Forward,Angers SCO,,"Jul 1, 2025",-,FR1,25/26
+Melvin Zinga,548347,€300k,"Mar 16, 2002",24,1.87,France,Goalkeeper,Angers SCO,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Tuomas Ollila,433887,€500k,"Apr 25, 2000",26,1.74,Finland,Left-Back,Paris FC,,"Jan 29, 2024","Jun 30, 2027",FR1,25/26
+Jacques Ekomié,970279,€7.00m,"Aug 19, 2003",22,1.79,Gabon,Left-Back,Angers SCO,,"Jul 31, 2024","Jun 30, 2027",FR1,25/26
+Dermane Karim,969447,€3.00m,"Dec 26, 2003",22,1.78,Togo,Attacking Midfield,FC Lorient,,"Aug 9, 2025","Jun 30, 2026",FR1,25/26
+Jessy Deminguet,539232,€2.50m,"Jan 7, 1998",28,1.78,France,Central Midfield,FC Metz,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Lilian Raolisoa,829874,€3.50m,"Jun 16, 2000",25,1.78,France,Right-Back,Angers SCO,,"Jul 1, 2023","Jun 30, 2028",FR1,25/26
+Pierre-Emerick Aubameyang,58864,€3.00m,"Jun 18, 1989",36,1.87,Gabon,Centre-Forward,Marseille,,"Jul 31, 2025","Jun 30, 2027",FR1,25/26
+Brendan Chardonnet,250779,€5.00m,"Dec 22, 1994",31,1.81,France,Centre-Back,Stade Brestois,,"Jul 1, 2013","Jun 30, 2027",FR1,25/26
+Corentin Tolisso,190393,€12.00m,"Aug 3, 1994",31,1.81,France,Central Midfield,Lyon,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Thibault De Smet,340177,€2.00m,"Jun 5, 1998",27,1.83,Belgium,Left-Back,Paris FC,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Aleksandr Golovin,263918,€18.00m,"May 30, 1996",29,1.78,Russia,Attacking Midfield,Monaco,,"Jul 27, 2018","Jun 30, 2029",FR1,25/26
+Mama Baldé,325223,€3.50m,"Nov 6, 1995",30,1.76,Guinea-Bissau,Centre-Forward,Stade Brestois,,"Aug 30, 2024","Jun 30, 2027",FR1,25/26
+Lucas Beraldo,872171,€20.00m,"Nov 24, 2003",22,1.86,Brazil,Centre-Back,PSG,,"Jan 1, 2024","Jun 30, 2028",FR1,25/26
+Louis Leroux,1119456,€12.00m,"Jan 23, 2006",20,1.84,France,Attacking Midfield,FC Nantes,,"Jul 1, 2024","Jun 30, 2030",FR1,25/26
+Noah Jauny,975438,,"Aug 26, 2004",21,1.94,Ireland,Goalkeeper,Stade Brestois,,"Jul 1, 2024","Jun 30, 2027",FR1,25/26
+Rudy Matondo,1241211,€15.00m,"Mar 13, 2008",18,1.8,France,Central Midfield,Paris FC,,"Feb 2, 2026",-,FR1,25/26
+Jean-Victor Makengo,322305,€6.00m,"Jun 12, 1998",27,1.77,France,Attacking Midfield,FC Lorient,,"Jan 30, 2023","Jun 30, 2027",FR1,25/26
+Lassine Sinayoko,569140,€8.00m,"Dec 8, 1999",26,1.86,Mali,Centre-Forward,AJ Auxerre,,"Jul 1, 2019","Jun 30, 2027",FR1,25/26
+Bryan Okoh,539795,€2.50m,"May 16, 2003",23,1.91,Switzerland,Centre-Back,AJ Auxerre,,"Jan 29, 2026","Jun 30, 2029",FR1,25/26
+Vanderson,789082,€20.00m,"Jun 21, 2001",24,1.73,Brazil,Right-Back,Monaco,,"Jan 1, 2022","Jun 30, 2028",FR1,25/26
+Louis Mezerette,1167216,,"Aug 30, 2006",19,,France,Goalkeeper,AJ Auxerre B,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Timothée Pembélé,538998,€2.00m,"Sep 9, 2002",23,1.83,France,Right-Back,Le Havre AC,,"Jan 6, 2026","Jun 30, 2026",FR1,25/26
+Mohamed Bamba,619461,€2.50m,"Dec 10, 2001",24,1.85,Cote d'Ivoire,Centre-Forward,FC Lorient,,"Jan 26, 2024","Jun 30, 2028",FR1,25/26
+Mostafa Mohamed,462348,€4.00m,"Nov 28, 1997",28,1.85,Egypt,Centre-Forward,FC Nantes,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Lassine Sinayoko,569140,€8.00m,"Dec 8, 1999",26,1.86,Mali,Centre-Forward,AJ Auxerre,,"Jul 1, 2019","Jun 30, 2027",FR1,25/26
+Thomas Meunier,100986,€1.80m,"Sep 12, 1991",34,1.91,Belgium,Right-Back,Lille,,"Jul 19, 2024","Jun 30, 2026",FR1,25/26
+Florian Sotoca,354726,€1.50m,"Oct 25, 1990",35,1.87,France,Centre-Forward,Lens,,"Jul 1, 2019","Jun 30, 2027",FR1,25/26
+Wout Faes,292808,€10.00m,"Apr 3, 1998",28,1.87,Belgium,Centre-Back,Monaco,,"Jan 13, 2026","Jun 30, 2026",FR1,25/26
+Mohamed-Ali Cho,670847,€15.00m,"Jan 19, 2004",22,1.82,France,Right Winger,Nice,,"Jan 8, 2024","Jun 30, 2028",FR1,25/26
+Marshall Munetsi,414908,€12.00m,"Jun 22, 1996",29,1.88,Zimbabwe,Central Midfield,Paris FC,,"Jan 16, 2026","Jun 30, 2026",FR1,25/26
+Danny Namaso,392767,€5.00m,"Aug 28, 2000",25,1.82,Cameroon,Left Winger,AJ Auxerre,,"Aug 17, 2025","Jun 30, 2026",FR1,25/26
+Cléo Mélières,1099860,€200k,"Apr 13, 2005",21,1.75,France,Right-Back,FC Metz,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Salis Abdul Samed,688707,€4.50m,"Mar 26, 2000",26,1.79,Ghana,Defensive Midfield,Nice,,"Aug 14, 2025","Jun 30, 2028",FR1,25/26
+Reda Khadra,405686,€1.50m,"Jul 4, 2001",24,1.75,Germany,Attacking Midfield,Le Havre AC,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Santiago Hidalgo,989574,€4.00m,"Feb 17, 2005",21,1.74,Argentina,Centre-Forward,Toulouse,,"Jul 31, 2025","Jun 30, 2029",FR1,25/26
+Enzo Koffi,1119881,€1.50m,"Mar 4, 2006",20,1.83,France,Left-Back,Le Havre AC,,"Jan 1, 2026",-,FR1,25/26
+Lionel Mpasi-Nzau,164915,€400k,"Aug 1, 1994",31,1.82,DR Congo,Goalkeeper,Le Havre AC,,"Jul 13, 2025","Jun 30, 2027",FR1,25/26
+Tochukwu Nnadi,920470,€3.00m,"Jun 30, 2003",22,1.76,Nigeria,Defensive Midfield,Marseille,,"Feb 2, 2026","Jun 30, 2030",FR1,25/26
+Djibril Sidibé,161869,€1.00m,"Jul 29, 1992",33,1.83,France,Right-Back,Toulouse,,"Aug 2, 2024","Jun 30, 2026",FR1,25/26
+Nathan Ngoy,548254,€20.00m,"Jun 10, 2003",22,1.83,Belgium,Centre-Back,Lille,,"Jul 24, 2025","Jun 30, 2029",FR1,25/26
+Bilal Nadir,659520,€9.00m,"Nov 28, 2003",22,1.79,Morocco,Central Midfield,Marseille,,"Jul 1, 2023","Jun 30, 2026",FR1,25/26
+Timothy Weah,370846,€20.00m,"Feb 22, 2000",26,1.83,United States,Right Midfield,Marseille,,"Aug 6, 2025","Jun 30, 2030",FR1,25/26
+Ilya Zabarnyi,659089,€45.00m,"Sep 1, 2002",23,1.89,Ukraine,Centre-Back,PSG,,"Aug 12, 2025","Jun 30, 2030",FR1,25/26
+Emerson,181778,€10.00m,"Aug 3, 1994",31,1.76,Italy,Left-Back,Marseille,,"Sep 1, 2025","Jun 30, 2027",FR1,25/26
+Ansu Fati,466810,€15.00m,"Oct 31, 2002",23,1.78,Spain,Left Winger,Monaco,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Valentin Rongier,332889,€9.00m,"Dec 7, 1994",31,1.73,France,Central Midfield,Stade Rennais,,"Jul 21, 2025","Jun 30, 2028",FR1,25/26
+Nordan Mukiele,986285,€1.00m,"Feb 12, 2006",20,1.84,France,Right Winger,Stade Rennais,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Abdoul Ouattara,991487,€15.00m,"Oct 22, 2005",20,1.8,Cote d'Ivoire,Right-Back,R. Strasbourg,,"Jan 1, 2025","Jun 30, 2029",FR1,25/26
+Fabien Centonze,384859,€1.20m,"Jan 16, 1996",30,1.82,France,Right-Back,FC Nantes,,"Sep 22, 2022","Jun 30, 2027",FR1,25/26
+Yaya Diémé,1133733,,"Oct 16, 2007",18,1.8,Senegal,Right Winger,R. Strasbourg B,,"Jan 5, 2026","Jun 30, 2030",FR1,25/26
+Igor Silva,391720,€1.50m,"Aug 21, 1996",29,1.73,Brazil,Right-Back,FC Lorient,,"Jul 23, 2021","Jun 30, 2026",FR1,25/26
+Mathys de Carvalho,1004486,€4.00m,"May 1, 2005",21,1.83,Portugal,Defensive Midfield,Lyon,,"Jul 11, 2025","Jun 30, 2028",FR1,25/26
+Jules Stawiecki,1075582,€150k,"Apr 10, 2007",19,1.86,France,Goalkeeper,Monaco U19,,"Jan 30, 2024","Jun 30, 2029",FR1,25/26
+Rémy Riou,18940,€100k,"Aug 6, 1987",38,1.91,France,Goalkeeper,Paris FC,,"Jan 9, 2024","Jun 30, 2026",FR1,25/26
+Sékou Doucouré,825438,€150k,"Apr 26, 2005",21,1.87,Mali,Centre-Back,FC Nantes,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Paul Argney,988275,€200k,"May 23, 2006",19,1.86,France,Goalkeeper,Le Havre AC,,"Jul 1, 2024","Jun 30, 2027",FR1,25/26
+Paul Pogba,122153,€3.00m,"Mar 15, 1993",33,1.91,France,Central Midfield,Monaco,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Sambou Soumano,704270,€4.00m,"Jan 3, 2001",25,1.82,Senegal,Centre-Forward,FC Lorient,,"Jan 1, 2022","Jun 30, 2026",FR1,25/26
+Johann Lepenant,585973,€7.00m,"Oct 22, 2002",23,1.76,France,Defensive Midfield,FC Nantes,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Dan Sinaté,955354,€100k,"Jun 9, 2006",19,1.81,Mali,Left-Back,Angers SCO,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Elye Wahi,659542,€12.00m,"Jan 2, 2003",23,1.84,Cote d'Ivoire,Centre-Forward,Nice,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Frank Magri,807689,€4.00m,"Sep 4, 1999",26,1.78,Cameroon,Centre-Forward,Toulouse,,"Jul 21, 2023","Jun 30, 2026",FR1,25/26
+Mohamed Abdelmonem,566025,€3.00m,"Feb 1, 1999",27,1.83,Egypt,Centre-Back,Nice,,"Aug 29, 2024","Jun 30, 2028",FR1,25/26
+Jonathan Gradit,126557,€3.00m,"Nov 24, 1992",33,1.8,France,Centre-Back,Lens,,"Aug 20, 2019","Jun 30, 2028",FR1,25/26
+Pathé Mboup,979551,€3.00m,"Oct 19, 2003",22,1.75,Senegal,Left Winger,Stade Brestois,,"Aug 31, 2025","Jun 30, 2030",FR1,25/26
+Benjamin Pavard,353366,€15.00m,"Mar 28, 1996",30,1.86,France,Centre-Back,Marseille,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Mathis Amougou,1010854,€10.00m,"Jan 18, 2006",20,1.77,France,Central Midfield,R. Strasbourg,,"Jul 12, 2025","Jun 30, 2030",FR1,25/26
+Nuno Mendes,616341,€75.00m,"Jun 19, 2002",23,1.8,Portugal,Left-Back,PSG,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Aarón Anselmino,1145504,€12.00m,"Apr 29, 2005",21,1.86,Argentina,Centre-Back,R. Strasbourg,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Marquinhos,181767,€30.00m,"May 14, 1994",32,1.83,Brazil,Centre-Back,PSG,,"Jul 19, 2013","Jun 30, 2028",FR1,25/26
+Romain Del Castillo,353399,€7.00m,"Mar 29, 1996",30,1.72,France,Right Winger,Stade Brestois,,"Aug 31, 2021","Jun 30, 2027",FR1,25/26
+Nathan Mbala,1307004,€3.00m,"Feb 19, 2008",18,1.79,DR Congo,Centre-Forward,FC Metz,,"Feb 1, 2026","Jun 30, 2029",FR1,25/26
+Matthis Abline,659543,€20.00m,"Mar 28, 2003",23,1.82,France,Centre-Forward,FC Nantes,,"Jul 3, 2024","Jun 30, 2028",FR1,25/26
+Diego Moreira,655006,€25.00m,"Aug 6, 2004",21,1.79,Belgium,Left Midfield,R. Strasbourg,,"Aug 16, 2024","Jun 30, 2029",FR1,25/26
+Tiago Santos,816580,€12.00m,"Jul 23, 2002",23,1.75,Portugal,Right-Back,Lille,,"Jul 5, 2023","Jun 30, 2029",FR1,25/26
+Darlin Yongwa,717118,€6.00m,"Sep 22, 2000",25,1.77,Cameroon,Left-Back,FC Lorient,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Gautier Lloris,249636,€3.00m,"Jul 18, 1995",30,1.91,France,Centre-Back,Le Havre AC,,"Jul 12, 2022","Jun 30, 2026",FR1,25/26
+Believe Munongo,1297673,€10.00m,"Nov 23, 2009",16,1.91,France,Central Midfield,FC Metz,,"Jan 1, 2026","Jun 30, 2027",FR1,25/26
+Matias Fernandez-Pardo,724129,€30.00m,"Feb 3, 2005",21,1.88,Belgium,Centre-Forward,Lille,,"Aug 30, 2024","Jun 30, 2029",FR1,25/26
+Emersonn,743599,€5.00m,"Jul 16, 2004",21,1.93,Brazil,Centre-Forward,Toulouse,,"Sep 1, 2025",-,FR1,25/26
+Lionel Mpasi-Nzau,164915,€400k,"Aug 1, 1994",31,1.82,DR Congo,Goalkeeper,Le Havre AC,,"Jul 13, 2025","Jun 30, 2027",FR1,25/26
+Simon Adingra,658536,€25.00m,"Jan 1, 2002",24,1.75,Cote d'Ivoire,Left Winger,Monaco,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Lucas Gourna-Douath,620313,€6.00m,"Aug 5, 2003",22,1.85,France,Defensive Midfield,Le Havre AC,,"Jan 16, 2026","Jun 30, 2026",FR1,25/26
+Nhoa Sangui,955281,€9.00m,"Feb 27, 2006",20,1.78,France,Left-Back,Paris FC,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Kyllian Antonio,1186789,€1.50m,"Jan 4, 2008",18,1.83,France,Centre-Back,Lens,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Tiago Santos,816580,€12.00m,"Jul 23, 2002",23,1.75,Portugal,Right-Back,Lille,,"Jul 5, 2023","Jun 30, 2029",FR1,25/26
+Loïc Nego,122840,€600k,"Jan 15, 1991",35,1.81,Hungary,Right-Back,Le Havre AC,,"Jul 1, 2023","Jun 30, 2026",FR1,25/26
+Alidu Seidu,798404,€6.00m,"Jun 4, 2000",25,1.73,Ghana,Centre-Back,Stade Rennais,,"Jan 29, 2024","Jun 30, 2029",FR1,25/26
+Valentin Rongier,332889,€9.00m,"Dec 7, 1994",31,1.73,France,Central Midfield,Stade Rennais,,"Jul 21, 2025","Jun 30, 2028",FR1,25/26
+Benjamin Leroy,124901,€100k,"Apr 7, 1989",37,1.84,France,Goalkeeper,FC Lorient,,"Jul 5, 2024","Jun 30, 2026",FR1,25/26
+Yassine Kechta,667967,€5.00m,"Feb 25, 2002",24,1.74,Morocco,Central Midfield,Le Havre AC,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Florent Hanin,111811,€250k,"Feb 4, 1990",36,1.77,France,Left-Back,Angers SCO,,"Jul 31, 2023","Jun 30, 2026",FR1,25/26
+Pierrick Capelle,214532,€200k,"Apr 15, 1987",39,1.81,France,Central Midfield,Angers SCO,,"Jul 1, 2015","Jun 30, 2026",FR1,25/26
+Rémy Riou,18940,€100k,"Aug 6, 1987",38,1.91,France,Goalkeeper,Paris FC,,"Jan 9, 2024","Jun 30, 2026",FR1,25/26
+Bahmed Deuff,1176215,€1.50m,"Mar 10, 2006",20,1.94,France,Defensive Midfield,FC Nantes,,"Jul 8, 2025","Jun 30, 2029",FR1,25/26
+Pierre-Yves Hamel,203504,€400k,"Feb 3, 1994",32,1.89,France,Centre-Forward,Paris FC,,"Jul 1, 2022","Jun 30, 2026",FR1,25/26
+Bingourou Kamara,333175,€700k,"Oct 21, 1996",29,1.95,Senegal,Goalkeeper,FC Lorient,,"Jul 25, 2025","Jun 30, 2027",FR1,25/26
+Valentín Barco,849410,€35.00m,"Jul 23, 2004",21,1.7,Argentina,Central Midfield,R. Strasbourg,,"Jul 2, 2025","Jun 30, 2029",FR1,25/26
+Cristian Cásseres Jr.,467632,€9.00m,"Jan 20, 2000",26,1.76,Venezuela,Central Midfield,Toulouse,,"Jul 7, 2023","Jun 30, 2027",FR1,25/26
+Junior Mwanga,1011200,€6.00m,"May 11, 2003",23,1.84,France,Defensive Midfield,R. Strasbourg,,"Aug 8, 2023","Jun 30, 2027",FR1,25/26
+Odsonne Édouard,344152,€12.00m,"Jan 16, 1998",28,1.87,France,Centre-Forward,Lens,,"Sep 1, 2025","Jun 30, 2028",FR1,25/26
+Rémy Labeau Lascary,917778,€3.00m,"Mar 3, 2003",23,1.84,France,Centre-Forward,Stade Brestois,,"Aug 31, 2025","Jun 30, 2026",FR1,25/26
+Willian Pacho,661171,€70.00m,"Oct 16, 2001",24,1.88,Ecuador,Centre-Back,PSG,,"Aug 9, 2024","Jun 30, 2029",FR1,25/26
+Yehvann Diouf,448632,€7.00m,"Nov 16, 1999",26,1.88,Senegal,Goalkeeper,Nice,,"Jul 3, 2025","Jun 30, 2030",FR1,25/26
+Ousmane Touré,990732,€500k,"Feb 18, 2005",21,1.87,France,Centre-Back,Lille,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Ousmane Dembélé,288230,€100.00m,"May 15, 1997",29,1.78,France,Centre-Forward,PSG,,"Aug 12, 2023","Jun 30, 2028",FR1,25/26
+Charlie Cresswell,597659,€25.00m,"Aug 17, 2002",23,1.9,England,Centre-Back,Toulouse,,"Jul 8, 2024","Jun 30, 2028",FR1,25/26
+Jelle Van Neck,727086,,"Mar 7, 2004",22,1.91,Belgium,Goalkeeper,Marseille B,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Désiré Doué,914562,€90.00m,"Jun 3, 2005",20,1.81,France,Right Winger,PSG,,"Aug 17, 2024","Jun 30, 2029",FR1,25/26
+Marius Louër,1103652,€800k,"Mar 11, 2007",19,1.81,France,Right-Back,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Laurent Abergel,238626,€2.00m,"Feb 1, 1993",33,1.7,France,Defensive Midfield,FC Lorient,,"Jul 26, 2019","Jun 30, 2029",FR1,25/26
+Samir El Mourabet,1130514,€18.00m,"Oct 6, 2005",20,1.86,Morocco,Central Midfield,R. Strasbourg,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Rayan Fofana,1160814,€7.00m,"Feb 12, 2006",20,1.87,France,Centre-Forward,Lens,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Morgan Sanson,174094,€4.00m,"Aug 18, 1994",31,1.8,France,Central Midfield,Nice,,"Jul 1, 2024","Jun 30, 2027",FR1,25/26
+Anthony Rouault,690799,€12.00m,"May 29, 2001",24,1.86,France,Centre-Back,Stade Rennais,,"Feb 3, 2025","Jun 30, 2029",FR1,25/26
+Mahamadou Nagida,1176345,€6.00m,"Jun 28, 2005",20,1.76,Cameroon,Left-Back,Stade Rennais,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Samuel Amo-Ameyaw,933900,€8.00m,"Jul 18, 2006",19,1.74,England,Right Winger,R. Strasbourg,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Abdoulaye Touré,181382,€3.00m,"Mar 3, 1994",32,1.88,Guinea,Defensive Midfield,Le Havre AC,,"Jul 26, 2023","Jun 30, 2026",FR1,25/26
+Giorgi Abuashvili,677057,€1.20m,"Feb 8, 2003",23,1.75,Georgia,Left Winger,FC Metz,,"Jul 17, 2025","Jun 30, 2026",FR1,25/26
+Takumi Minamino,165793,€12.00m,"Jan 16, 1995",31,1.72,Japan,Left Winger,Monaco,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Sambou Soumano,704270,€4.00m,"Jan 3, 2001",25,1.82,Senegal,Centre-Forward,FC Lorient,,"Jan 1, 2022","Jun 30, 2026",FR1,25/26
+Juma Bah,1121298,€10.00m,"Apr 11, 2006",20,1.95,Sierra Leone,Centre-Back,Nice,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Eric Dier,175722,€5.00m,"Jan 15, 1994",32,1.91,England,Centre-Back,Monaco,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Joris Chotard,624037,€7.00m,"Sep 24, 2001",24,1.79,France,Defensive Midfield,Stade Brestois,,"Aug 23, 2025","Jun 30, 2029",FR1,25/26
+Lilian Brassier,485960,€12.00m,"Nov 2, 1999",26,1.86,France,Centre-Back,Stade Rennais,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Matthieu Udol,344886,€6.00m,"Mar 20, 1996",30,1.78,France,Left-Back,Lens,,"Jul 15, 2025","Jun 30, 2028",FR1,25/26
+Mario Sauer,710885,€1.80m,"May 15, 2004",22,1.8,Slovakia,Central Midfield,Toulouse,,"Jul 1, 2025",-,FR1,25/26
+Fodé Doucouré,798925,€2.00m,"Feb 3, 2001",25,1.72,Mali,Right-Back,Le Havre AC,,"Jul 22, 2025","Jun 30, 2027",FR1,25/26
+Donovan Léon,170911,€900k,"Nov 3, 1992",33,1.87,French Guiana,Goalkeeper,AJ Auxerre,,"Jul 1, 2020","Jun 30, 2027",FR1,25/26
+Kassoum Ouattara,947360,€12.00m,"Oct 14, 2004",21,1.84,France,Left-Back,Monaco,,"Nov 1, 2023","Jun 30, 2028",FR1,25/26
+Gonçalo Ramos,550550,€35.00m,"Jun 20, 2001",24,1.85,Portugal,Centre-Forward,PSG,,"Jan 1, 2024","Jun 30, 2028",FR1,25/26
+Bartosz Zelazowski,828889,,"Apr 25, 2005",21,1.93,Poland,Goalkeeper,Nice,,"Jul 1, 2025",-,FR1,25/26
+Senny Mayulu,903693,€40.00m,"May 17, 2006",19,1.83,France,Central Midfield,PSG,,"Jan 1, 2024","Jun 30, 2027",FR1,25/26
+Joseph Mangondo,1101719,€50k,"Aug 6, 2005",20,1.85,France,Centre-Forward,FC Metz,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Gaëtan Perrin,353404,€6.00m,"Jun 7, 1996",29,1.69,France,Right Winger,Lille,,"Feb 2, 2026","Jun 30, 2028",FR1,25/26
+Alidu Seidu,798404,€6.00m,"Jun 4, 2000",25,1.73,Ghana,Centre-Back,Stade Rennais,,"Jan 29, 2024","Jun 30, 2029",FR1,25/26
+Marius Courcoul,1075575,€2.50m,"Jan 1, 2007",19,1.82,France,Defensive Midfield,Angers SCO,,"Feb 1, 2025","Jun 30, 2027",FR1,25/26
+Hicham Boudaoui,560593,€12.00m,"Sep 23, 1999",26,1.75,Algeria,Central Midfield,Nice,,"Sep 2, 2019","Jun 30, 2027",FR1,25/26
+Christian Mawissa,1005240,€15.00m,"Apr 18, 2005",21,1.84,France,Centre-Back,Monaco,,"Aug 11, 2024","Jun 30, 2029",FR1,25/26
+Arthur Vermeeren,926694,€22.00m,"Feb 7, 2005",21,1.8,Belgium,Defensive Midfield,Marseille,,"Aug 31, 2025","Jun 30, 2026",FR1,25/26
+Ernest Nuamah,955070,€12.00m,"Nov 1, 2003",22,1.78,Ghana,Right Winger,Lyon,,"Jul 7, 2024","Jun 30, 2028",FR1,25/26
+Marc-Aurèle Caillard,205465,€100k,"May 12, 1994",32,1.92,France,Goalkeeper,Lille,,"Aug 30, 2024","Jun 30, 2026",FR1,25/26
+Abdelhamid Ait Boudlal,1134251,€10.00m,"Apr 16, 2006",20,1.9,Morocco,Centre-Back,Stade Rennais,,"Jul 2, 2024","Jun 30, 2028",FR1,25/26
+Samir Chergui,668167,€3.00m,"Feb 6, 1999",27,1.85,Algeria,Centre-Back,Paris FC,,"Jan 1, 2021",-,FR1,25/26
+Lilian Raolisoa,829874,€3.50m,"Jun 16, 2000",25,1.78,France,Right-Back,Angers SCO,,"Jul 1, 2023","Jun 30, 2028",FR1,25/26
+Noah Nartey,802515,€15.00m,"Oct 5, 2005",20,1.8,Denmark,Attacking Midfield,Lyon,,"Jan 19, 2026","Jun 30, 2030",FR1,25/26
+Radoslaw Majecki,346546,€3.00m,"Nov 16, 1999",26,1.93,Poland,Goalkeeper,Stade Brestois,,"Aug 9, 2025","Jun 30, 2026",FR1,25/26
+Junior Dina Ebimbe,536482,€6.00m,"Nov 21, 2000",25,1.84,Cameroon,Right Midfield,Stade Brestois,,"Sep 1, 2025","Jun 30, 2026",FR1,25/26
+Gerónimo Rulli,229604,€8.00m,"May 20, 1992",33,1.89,Argentina,Goalkeeper,Marseille,,"Aug 11, 2024","Jun 30, 2027",FR1,25/26
+Lamine Gueye,568701,€250k,"Mar 13, 1998",28,1.78,Senegal,Right Winger,Paris FC,,"Jul 5, 2023","Jun 30, 2026",FR1,25/26
+Nicolás Tagliafico,131225,€5.00m,"Aug 31, 1992",33,1.71,Argentina,Left-Back,Lyon,,"Jul 23, 2022","Jun 30, 2027",FR1,25/26
+Prosper Peter,1103958,€15.00m,"Aug 9, 2007",18,1.88,France,Centre-Forward,Angers SCO,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Isak Jansson,535820,€5.00m,"Jan 31, 2002",24,1.75,Sweden,Left Winger,Nice,,"Jul 10, 2025",-,FR1,25/26
+Calvin Verdonk,258364,€3.00m,"Apr 26, 1997",29,1.74,Indonesia,Left-Back,Lille,,"Sep 1, 2025","Jun 30, 2028",FR1,25/26
+Montassar Talbi,496706,€7.00m,"May 26, 1998",27,1.9,Tunisia,Centre-Back,FC Lorient,,"Jul 18, 2022","Jun 30, 2027",FR1,25/26
+Ali Abdi,211474,€2.50m,"Dec 20, 1993",32,1.83,Tunisia,Left-Back,Nice,,"Sep 2, 2024","Jun 30, 2027",FR1,25/26
+Kang-in Lee,557149,€28.00m,"Feb 19, 2001",25,1.73,"Korea, South",Attacking Midfield,PSG,,"Jul 8, 2023","Jun 30, 2028",FR1,25/26
+Guillaume Restes,912902,€18.00m,"Mar 11, 2005",21,1.88,France,Goalkeeper,Toulouse,,"Jul 1, 2023","Jun 30, 2028",FR1,25/26
+Donovan Léon,170911,€900k,"Nov 3, 1992",33,1.87,French Guiana,Goalkeeper,AJ Auxerre,,"Jul 1, 2020","Jun 30, 2027",FR1,25/26
+Francis Coquelin,74869,€800k,"May 13, 1991",35,1.77,France,Defensive Midfield,FC Nantes,,"Jan 31, 2025","Jun 30, 2026",FR1,25/26
+Álex Domínguez,524937,€250k,"Jul 30, 1998",27,1.87,Spain,Goalkeeper,Toulouse,,"Jul 26, 2023","Jun 30, 2026",FR1,25/26
+Arnaud Nordin,324811,€4.00m,"Jun 17, 1998",27,1.7,France,Right Winger,Stade Rennais,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Yehvann Diouf,448632,€7.00m,"Nov 16, 1999",26,1.88,Senegal,Goalkeeper,Nice,,"Jul 3, 2025","Jun 30, 2030",FR1,25/26
+Hans Hateboer,275303,€2.00m,"Jan 9, 1994",32,1.87,Netherlands,Right-Back,Lyon,,"Oct 17, 2025","Jun 30, 2026",FR1,25/26
+Dante,16136,€500k,"Oct 18, 1983",42,1.88,Brazil,Centre-Back,Nice,,"Aug 23, 2016","Jun 30, 2026",FR1,25/26
+Charles Vanhoutte,569845,€7.00m,"Sep 16, 1998",27,1.82,Belgium,Defensive Midfield,Nice,,"Sep 1, 2025","Jun 30, 2029",FR1,25/26
+Dehmaine Tabibou,1004619,€4.00m,"Apr 17, 2005",21,1.83,France,Central Midfield,FC Nantes,,"Jul 1, 2024","Jun 30, 2030",FR1,25/26
+Louis Leroux,1119456,€12.00m,"Jan 23, 2006",20,1.84,France,Attacking Midfield,FC Nantes,,"Jul 1, 2024","Jun 30, 2030",FR1,25/26
+Noah Cadiou,691958,€2.50m,"Oct 26, 1998",27,1.91,Guadeloupe,Central Midfield,FC Lorient,,"Jul 4, 2025","Jun 30, 2029",FR1,25/26
+Ruben Aguilar,203746,€3.00m,"Apr 26, 1993",33,1.72,France,Right-Back,Lens,,"Sep 1, 2023","Jun 30, 2028",FR1,25/26
+Kojo Peprah Oppong,1113451,€10.00m,"Jun 4, 2004",21,1.85,Ghana,Centre-Back,Nice,,"Jul 25, 2025","Jun 30, 2029",FR1,25/26
+Timothy Weah,370846,€20.00m,"Feb 22, 2000",26,1.83,United States,Right Midfield,Marseille,,"Aug 6, 2025","Jun 30, 2030",FR1,25/26
+Raphaël Le Guen,1166473,€50k,"Sep 1, 2006",19,1.96,France,Centre-Back,Stade Brestois,,"Jan 21, 2026","Jun 30, 2029",FR1,25/26
+Álex Domínguez,524937,€250k,"Jul 30, 1998",27,1.87,Spain,Goalkeeper,Toulouse,,"Jul 26, 2023","Jun 30, 2026",FR1,25/26
+Sékou Mara,557612,€4.00m,"Jul 30, 2002",23,1.83,France,Centre-Forward,AJ Auxerre,,"Sep 5, 2025","Jun 30, 2026",FR1,25/26
+Bamba Dieng,822458,€6.00m,"Mar 23, 2000",26,1.78,Senegal,Centre-Forward,FC Lorient,,"Jan 27, 2023","Jun 30, 2026",FR1,25/26
+Ethan Mbappé,903666,€9.00m,"Dec 29, 2006",19,1.8,France,Right Winger,Lille,,"Jul 4, 2024","Jun 30, 2027",FR1,25/26
+Bandiougou Fadiga,590914,€250k,"Jan 15, 2001",25,1.78,France,Attacking Midfield,FC Lorient,,"Aug 14, 2024","Jun 30, 2028",FR1,25/26
+Arsène Kouassi,1088199,€10.00m,"Jan 2, 2004",22,1.78,Burkina Faso,Left-Back,FC Lorient,,"Jul 24, 2025","Jun 30, 2029",FR1,25/26
+Ismaëlo Ganiou,1020191,€10.00m,"Mar 14, 2005",21,1.82,France,Centre-Back,Lens,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Jeffrey de Lange,315253,€3.00m,"Apr 1, 1998",28,1.9,Netherlands,Goalkeeper,Marseille,,"Aug 8, 2024","Jun 30, 2027",FR1,25/26
+Alimami Gory,435492,€1.20m,"Aug 30, 1996",29,1.82,France,Left Winger,Paris FC,,"Jul 9, 2022","Jun 30, 2026",FR1,25/26
+Ali Abdi,211474,€2.50m,"Dec 20, 1993",32,1.83,Tunisia,Left-Back,Nice,,"Sep 2, 2024","Jun 30, 2027",FR1,25/26
+Bandiougou Fadiga,590914,€250k,"Jan 15, 2001",25,1.78,France,Attacking Midfield,FC Lorient,,"Aug 14, 2024","Jun 30, 2028",FR1,25/26
+Carlens Arcus,371686,€1.80m,"Jun 28, 1996",29,1.76,Haiti,Right-Back,Angers SCO,,"Jul 1, 2024","Jun 30, 2027",FR1,25/26
+Mostafa Mohamed,462348,€4.00m,"Nov 28, 1997",28,1.85,Egypt,Centre-Forward,FC Nantes,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Jordan Lefort,192492,€1.20m,"Aug 9, 1993",32,1.84,Mauritania,Centre-Back,Angers SCO,,"Jul 1, 2023","Jun 30, 2029",FR1,25/26
+Telli Siwe,1091353,€1.00m,"Dec 14, 2004",21,1.85,France,Centre-Back,AJ Auxerre,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Mathys Silistrie,979761,€200k,"Sep 16, 2005",20,1.88,France,Goalkeeper,Stade Rennais,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Pierre-Emerick Aubameyang,58864,€3.00m,"Jun 18, 1989",36,1.87,Gabon,Centre-Forward,Marseille,,"Jul 31, 2025","Jun 30, 2027",FR1,25/26
+Fabián Ruiz,350219,€40.00m,"Apr 3, 1996",30,1.89,Spain,Central Midfield,PSG,,"Aug 30, 2022","Jun 30, 2027",FR1,25/26
+Pathé Mboup,979551,€3.00m,"Oct 19, 2003",22,1.75,Senegal,Left Winger,Stade Brestois,,"Aug 31, 2025","Jun 30, 2030",FR1,25/26
+Hervé Koffi,415383,€5.00m,"Oct 16, 1996",29,1.86,Burkina Faso,Goalkeeper,Angers SCO,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Djibril Coulibaly,1208968,€800k,"Nov 18, 2008",17,1.78,France,Central Midfield,Nice,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Benjamin Leroy,124901,€100k,"Apr 7, 1989",37,1.84,France,Goalkeeper,FC Lorient,,"Jul 5, 2024","Jun 30, 2026",FR1,25/26
+Arthur Masuaku,181380,€2.50m,"Nov 7, 1993",32,1.79,DR Congo,Left-Back,Lens,,"Jan 27, 2026","Jun 30, 2026",FR1,25/26
+Bahmed Deuff,1176215,€1.50m,"Mar 10, 2006",20,1.94,France,Defensive Midfield,FC Nantes,,"Jul 8, 2025","Jun 30, 2029",FR1,25/26
+Ernest Nuamah,955070,€12.00m,"Nov 1, 2003",22,1.78,Ghana,Right Winger,Lyon,,"Jul 7, 2024","Jun 30, 2028",FR1,25/26
+Benjamin Stambouli,127160,€300k,"Aug 13, 1990",35,1.8,France,Defensive Midfield,FC Metz,,"Sep 10, 2024","Jun 30, 2026",FR1,25/26
+Willem Geubbels,463620,€5.00m,"Aug 16, 2001",24,1.86,France,Centre-Forward,Paris FC,,"Aug 17, 2025","Jun 30, 2030",FR1,25/26
+Giorgi Tsitaishvili,419067,€2.50m,"Nov 18, 2000",25,1.71,Georgia,Left Winger,FC Metz,,"Jul 11, 2025","Jun 30, 2026",FR1,25/26
+Kassoum Ouattara,947360,€12.00m,"Oct 14, 2004",21,1.84,France,Left-Back,Monaco,,"Nov 1, 2023","Jun 30, 2028",FR1,25/26
+Clément Akpa,806793,€9.00m,"Nov 24, 2001",24,1.81,Cote d'Ivoire,Centre-Back,AJ Auxerre,,"Jul 1, 2022","Jun 30, 2028",FR1,25/26
+Régis Gurtner,39918,€100k,"Dec 8, 1986",39,1.82,France,Goalkeeper,Lens,,"Jul 7, 2025","Jun 30, 2026",FR1,25/26
+Junior Diaz,1009596,€6.00m,"Jul 23, 2003",22,1.93,Cote d'Ivoire,Centre-Back,Stade Brestois,,"Jul 13, 2025","Jun 30, 2026",FR1,25/26
+Melvin Bard,532775,€10.00m,"Nov 6, 2000",25,1.73,France,Left-Back,Nice,,"Jul 16, 2021","Jun 30, 2028",FR1,25/26
+Saliou Diop,1237907,€50k,"May 12, 2005",21,1.87,Senegal,Centre-Forward,Stade Brestois,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Mahamadou Nagida,1176345,€6.00m,"Jun 28, 2005",20,1.76,Cameroon,Left-Back,Stade Rennais,,"Jul 1, 2024","Jun 30, 2029",FR1,25/26
+Frédéric Guilbert,354352,€800k,"Dec 24, 1994",31,1.78,France,Right-Back,FC Nantes,,"Jan 28, 2026","Jun 30, 2026",FR1,25/26
+Felix Mambimbi,507496,€600k,"Jan 18, 2001",25,1.71,Switzerland,Left Winger,Le Havre AC,,"Jul 11, 2025","Jun 30, 2027",FR1,25/26
+Kenny Quetant,1178695,€2.00m,"Jul 17, 2006",19,1.89,France,Centre-Forward,Le Havre AC,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Dehmaine Tabibou,1004619,€4.00m,"Apr 17, 2005",21,1.83,France,Central Midfield,FC Nantes,,"Jul 1, 2024","Jun 30, 2030",FR1,25/26
+Krépin Diatta,490426,€6.00m,"Feb 25, 1999",27,1.75,Senegal,Right Midfield,Monaco,,"Jan 21, 2021","Jun 30, 2026",FR1,25/26
+Branco van den Boomen,203938,€2.50m,"Jul 21, 1995",30,1.88,Netherlands,Central Midfield,Angers SCO,,"Jan 21, 2026","Jun 30, 2026",FR1,25/26
+Habib Diallo,344888,€5.00m,"Jun 18, 1995",30,1.86,Senegal,Centre-Forward,FC Metz,,"Aug 31, 2025","Jun 30, 2028",FR1,25/26
+Ismaëlo Ganiou,1020191,€10.00m,"Mar 14, 2005",21,1.82,France,Centre-Back,Lens,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Oussama El Azzouzi,531065,€1.80m,"May 29, 2001",24,1.89,Morocco,Defensive Midfield,AJ Auxerre,,"Aug 1, 2025","Jun 30, 2026",FR1,25/26
+Fodé Sylla,955359,€1.00m,"Apr 16, 2006",20,1.82,France,Defensive Midfield,Lens,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Ibrahim Mbaye,1185888,€30.00m,"Jan 24, 2008",18,1.75,Senegal,Right Winger,PSG,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Abdallah Sima,776798,€4.00m,"Jun 17, 2001",24,1.88,Senegal,Left Winger,Lens,,"Aug 29, 2025","Jun 30, 2029",FR1,25/26
+Florian Thauvin,184892,€5.00m,"Jan 26, 1993",33,1.81,France,Right Winger,Lens,,"Aug 8, 2025","Jun 30, 2028",FR1,25/26
+Arthur Vermeeren,926694,€22.00m,"Feb 7, 2005",21,1.8,Belgium,Defensive Midfield,Marseille,,"Aug 31, 2025","Jun 30, 2026",FR1,25/26
+Tom Negrel,866916,€50k,"Apr 13, 2003",23,1.92,France,Goalkeeper,AJ Auxerre,,"Jul 10, 2024","Jun 30, 2026",FR1,25/26
+Bouna Sarr,190685,€400k,"Jan 31, 1992",34,1.78,Senegal,Right-Back,FC Metz,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Maxime Dupé,127188,€800k,"Mar 4, 1993",33,1.88,France,Goalkeeper,Nice,,"Jan 28, 2024","Jun 30, 2026",FR1,25/26
+Tylel Tati,1241207,€25.00m,"Jan 19, 2008",18,1.92,France,Centre-Back,FC Nantes,,"Aug 1, 2025","Jun 30, 2030",FR1,25/26
+Pierre Lees-Melou,377393,€5.00m,"May 25, 1993",32,1.85,France,Defensive Midfield,Paris FC,,"Aug 28, 2025","Jun 30, 2027",FR1,25/26
+Gessime Yassine,1151929,€10.00m,"Nov 22, 2005",20,1.72,Morocco,Right Winger,R. Strasbourg,,"Jan 17, 2026","Jun 30, 2030",FR1,25/26
+Dante,16136,€500k,"Oct 18, 1983",42,1.88,Brazil,Centre-Back,Nice,,"Aug 23, 2016","Jun 30, 2026",FR1,25/26
+Ilan Jourdren,1200424,,"Jul 17, 2008",17,1.88,France,Goalkeeper,Lens,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Fabien Centonze,384859,€1.20m,"Jan 16, 1996",30,1.82,France,Right-Back,FC Nantes,,"Sep 22, 2022","Jun 30, 2027",FR1,25/26
+Mathieu Acapandié,944355,€50k,"Dec 14, 2004",21,1.82,Madagascar,Right-Back,FC Nantes,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Raphaël Le Guen,1166473,€50k,"Sep 1, 2006",19,1.96,France,Centre-Back,Stade Brestois,,"Jan 21, 2026","Jun 30, 2029",FR1,25/26
+CJ Egan-Riley,581669,€10.00m,"Jan 2, 2003",23,1.83,England,Centre-Back,Marseille,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Tom Louchet,750904,€7.00m,"May 4, 2003",23,1.78,France,Right Midfield,Nice,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Arthur Masuaku,181380,€2.50m,"Nov 7, 1993",32,1.79,DR Congo,Left-Back,Lens,,"Jan 27, 2026","Jun 30, 2026",FR1,25/26
+Mohamed Abdelmonem,566025,€3.00m,"Feb 1, 1999",27,1.83,Egypt,Centre-Back,Nice,,"Aug 29, 2024","Jun 30, 2028",FR1,25/26
+Théo Le Bris,766412,€4.50m,"Oct 1, 2002",23,1.7,France,Right Midfield,FC Lorient,,"Jul 1, 2022","Jun 30, 2027",FR1,25/26
+Tanguy Ndombélé,450936,€3.00m,"Dec 28, 1996",29,1.81,France,Central Midfield,Nice,,"Jul 4, 2024","Jun 30, 2026",FR1,25/26
+Jessy Deminguet,539232,€2.50m,"Jan 7, 1998",28,1.78,France,Central Midfield,FC Metz,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Paris Brunner,918414,€1.50m,"Feb 15, 2006",20,1.86,Germany,Centre-Forward,Monaco,,"Aug 16, 2024","Jun 30, 2028",FR1,25/26
+Hans Hateboer,275303,€2.00m,"Jan 9, 1994",32,1.87,Netherlands,Right-Back,Lyon,,"Oct 17, 2025","Jun 30, 2026",FR1,25/26
+Désiré Doué,914562,€90.00m,"Jun 3, 2005",20,1.81,France,Right Winger,PSG,,"Aug 17, 2024","Jun 30, 2029",FR1,25/26
+Dayann Methalie,1191444,€12.00m,"Feb 15, 2006",20,1.88,France,Left-Back,Toulouse,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Aron Dønnum,476836,€5.00m,"Apr 20, 1998",28,1.78,Norway,Right Midfield,Toulouse,,"Sep 1, 2023","Jun 30, 2027",FR1,25/26
+Yanis Zouaoui,691841,€2.50m,"Apr 28, 1998",28,1.83,France,Left-Back,Le Havre AC,,"Jul 5, 2024","Jun 30, 2027",FR1,25/26
+Tylel Tati,1241207,€25.00m,"Jan 19, 2008",18,1.92,France,Centre-Back,FC Nantes,,"Aug 1, 2025","Jun 30, 2030",FR1,25/26
+Issa Soumaré,568698,€7.00m,"Oct 10, 2000",25,1.84,Senegal,Left Winger,Le Havre AC,,"Jul 4, 2023","Jun 30, 2026",FR1,25/26
+Ismaël Guerti,860053,€300k,"Jul 30, 2004",21,1.78,Morocco,Attacking Midfield,FC Metz,,"Jul 1, 2025","Jun 30, 2027",FR1,25/26
+Elisha Owusu,395695,€3.50m,"Nov 7, 1997",28,1.82,Ghana,Defensive Midfield,AJ Auxerre,,"Jan 16, 2023","Jun 30, 2027",FR1,25/26
+Alexis Mirbach,928873,€50k,"Mar 4, 2005",21,1.92,France,Goalkeeper,FC Nantes,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Fodé Sylla,955359,€1.00m,"Apr 16, 2006",20,1.82,France,Defensive Midfield,Lens,,"Jul 1, 2025","Jun 30, 2028",FR1,25/26
+Simon Adingra,658536,€25.00m,"Jan 1, 2002",24,1.75,Cote d'Ivoire,Left Winger,Monaco,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Berke Özer,361256,€10.00m,"May 25, 2000",25,1.91,Türkiye,Goalkeeper,Lille,,"Aug 14, 2025","Jun 30, 2029",FR1,25/26
+Brice Samba,191056,€8.00m,"Apr 25, 1994",32,1.87,France,Goalkeeper,Stade Rennais,,"Jan 8, 2025","Jun 30, 2029",FR1,25/26
+Brice Samba,191056,€8.00m,"Apr 25, 1994",32,1.87,France,Goalkeeper,Stade Rennais,,"Jan 8, 2025","Jun 30, 2029",FR1,25/26
+Yvon Mvogo,147051,€3.00m,"Jun 6, 1994",31,1.9,Switzerland,Goalkeeper,FC Lorient,,"Jul 13, 2022","Jun 30, 2027",FR1,25/26
+Gaëtan Perrin,353404,€6.00m,"Jun 7, 1996",29,1.69,France,Right Winger,Lille,,"Feb 2, 2026","Jun 30, 2028",FR1,25/26
+Herba Guirassy,1119453,€8.00m,"Aug 29, 2006",19,1.86,France,Left Winger,FC Nantes,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Osame Sahraoui,580657,€10.00m,"Jun 11, 2001",24,1.7,Morocco,Left Winger,Lille,,"Aug 1, 2024","Jun 30, 2029",FR1,25/26
+Stefan Bajic,465836,€500k,"Dec 23, 2001",24,1.88,France,Goalkeeper,R. Strasbourg,,"Aug 16, 2025","Jun 30, 2026",FR1,25/26
+Mousa Tamari,551505,€8.00m,"Jun 10, 1997",28,1.78,Jordan,Right Winger,Stade Rennais,,"Feb 3, 2025","Jun 30, 2028",FR1,25/26
+Issa Soumaré,568698,€7.00m,"Oct 10, 2000",25,1.84,Senegal,Left Winger,Le Havre AC,,"Jul 4, 2023","Jun 30, 2026",FR1,25/26
+Haris Belkebla,138055,€2.00m,"Jan 28, 1994",32,1.77,Algeria,Central Midfield,Angers SCO,,"Aug 17, 2024","Jun 30, 2026",FR1,25/26
+Julien Lopez,170506,€200k,"Mar 1, 1992",34,1.73,Algeria,Left Winger,Paris FC,,"Jul 1, 2017","Jun 30, 2026",FR1,25/26
+Nuno Mendes,616341,€75.00m,"Jun 19, 2002",23,1.8,Portugal,Left-Back,PSG,,"Jul 1, 2022","Jun 30, 2029",FR1,25/26
+Pape Demba Diop,949113,€8.00m,"Sep 4, 2003",22,1.82,Senegal,Central Midfield,Toulouse,,"Jan 7, 2026","Jun 30, 2026",FR1,25/26
+Rémy Cabella,113707,€1.50m,"Mar 8, 1990",36,1.72,France,Attacking Midfield,FC Nantes,,"Jan 1, 2026","Jun 30, 2026",FR1,25/26
+Mohamed Kaba,911328,€2.00m,"Oct 27, 2001",24,1.85,Guinea,Central Midfield,FC Nantes,,"Jan 29, 2026","Jun 30, 2026",FR1,25/26
+Luck Zogbé,1144999,€1.50m,"Mar 24, 2005",21,1.78,Cote d'Ivoire,Right-Back,Stade Brestois,,"Oct 26, 2023","Jun 30, 2029",FR1,25/26
+Lilian Brassier,485960,€12.00m,"Nov 2, 1999",26,1.86,France,Centre-Back,Stade Rennais,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Ilan Kebbal,739769,€12.00m,"Jul 10, 1998",27,1.69,Algeria,Right Winger,Paris FC,,"Jul 10, 2023","Jun 30, 2028",FR1,25/26
+Amine Gouiri,418659,€28.00m,"Feb 16, 2000",26,1.81,Algeria,Centre-Forward,Marseille,,"Jan 31, 2025","Jun 30, 2029",FR1,25/26
+Igor Silva,391720,€1.50m,"Aug 21, 1996",29,1.73,Brazil,Right-Back,FC Lorient,,"Jul 23, 2021","Jun 30, 2026",FR1,25/26
+Amine Sbaï,851220,€2.50m,"Nov 5, 2000",25,1.75,Morocco,Left Winger,Angers SCO,,"Oct 8, 2025","Jun 30, 2027",FR1,25/26
+Mathys Silistrie,979761,€200k,"Sep 16, 2005",20,1.88,France,Goalkeeper,Stade Rennais,,"Jul 1, 2025","Jun 30, 2029",FR1,25/26
+Estéban Lepaul,461607,€20.00m,"Apr 18, 2000",26,1.81,France,Centre-Forward,Stade Rennais,,"Aug 28, 2025","Jun 30, 2029",FR1,25/26
+Juma Bah,1121298,€10.00m,"Apr 11, 2006",20,1.95,Sierra Leone,Centre-Back,Nice,,"Jul 1, 2025","Jun 30, 2026",FR1,25/26
+Abdelhamid Ait Boudlal,1134251,€10.00m,"Apr 16, 2006",20,1.9,Morocco,Centre-Back,Stade Rennais,,"Jul 2, 2024","Jun 30, 2028",FR1,25/26
+Leonardo Balerdi,575998,€18.00m,"Jan 26, 1999",27,1.87,Argentina,Centre-Back,Marseille,,"Jul 3, 2021","Jun 30, 2028",FR1,25/26
+Jonathan Clauss,175639,€4.50m,"Sep 25, 1992",33,1.78,France,Right-Back,Nice,,"Jul 25, 2024","Jun 30, 2028",FR1,25/26
+Yann Gboho,463613,€15.00m,"Jan 14, 2001",25,1.78,France,Left Winger,Toulouse,,"Jan 8, 2024","Jun 30, 2027",FR1,25/26
+Paul Argney,988275,€200k,"May 23, 2006",19,1.86,France,Goalkeeper,Le Havre AC,,"Jul 1, 2024","Jun 30, 2027",FR1,25/26
+Clinton Mata,187718,€3.00m,"Nov 7, 1992",33,1.8,Angola,Centre-Back,Lyon,,"Jul 6, 2023","Jun 30, 2028",FR1,25/26
+Thilo Kehrer,228948,€15.00m,"Sep 21, 1996",29,1.86,Germany,Centre-Back,Monaco,,"Jul 1, 2024","Jun 30, 2028",FR1,25/26
+Maxi Oyedele,863204,€4.00m,"Nov 7, 2004",21,1.83,Poland,Defensive Midfield,R. Strasbourg,,"Jul 16, 2025","Jun 30, 2030",FR1,25/26
+Obed Nkambadio,750878,€6.00m,"Feb 7, 2003",23,1.9,France,Goalkeeper,Paris FC,,"Jul 1, 2023","Jun 30, 2027",FR1,25/26
+Giorgi Tsitaishvili,419067,€2.50m,"Nov 18, 2000",25,1.71,Georgia,Left Winger,FC Metz,,"Jul 11, 2025","Jun 30, 2026",FR1,25/26
+Hákon Arnar Haraldsson,652275,€22.00m,"Apr 10, 2003",23,1.78,Iceland,Attacking Midfield,Lille,,"Jul 17, 2023","Jun 30, 2030",FR1,25/26
+Marius Broholm,903359,€6.00m,"Dec 26, 2004",21,1.76,Norway,Right Winger,Lille,,"Jul 1, 2025","Jun 30, 2030",FR1,25/26
+Leonardo Balerdi,575998,€18.00m,"Jan 26, 1999",27,1.87,Argentina,Centre-Back,Marseille,,"Jul 3, 2021","Jun 30, 2028",FR1,25/26
+Aleksandr Golovin,263918,€18.00m,"May 30, 1996",29,1.78,Russia,Attacking Midfield,Monaco,,"Jul 27, 2018","Jun 30, 2029",FR1,25/26
+Noham Kamara,1275040,€3.00m,"Jan 22, 2007",19,1.85,France,Centre-Back,Lyon,,"Feb 2, 2026","Jun 30, 2026",FR1,25/26
+Osame Sahraoui,580657,€10.00m,"Jun 11, 2001",24,1.7,Morocco,Left Winger,Lille,,"Aug 1, 2024","Jun 30, 2029",FR1,25/26
+Steeve Kango,1119391,€800k,"Dec 9, 2006",19,,France,Right-Back,Olymp. Lyon B,,"Jan 1, 2025",-,FR1,25/26
+Julio Enciso,660867,€22.00m,"Jan 23, 2004",22,1.73,Paraguay,Attacking Midfield,R. Strasbourg,,"Sep 1, 2025","Jun 30, 2029",FR1,25/26
+Elías Legendre Quiñónez,1227106,€1.50m,"Apr 22, 2008",18,1.79,Ecuador,Right Winger,Stade Rennais,,"Dec 3, 2025","Jun 30, 2029",FR1,25/26
+Berke Özer,361256,€10.00m,"May 25, 2000",25,1.91,Türkiye,Goalkeeper,Lille,,"Aug 14, 2025","Jun 30, 2029",FR1,25/26

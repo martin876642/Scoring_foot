@@ -1,0 +1,1053 @@
+﻿player,player_id,market_value,date_of_birth,age,height,nationality,position,team,signed_from,joined,contract_expires,league,season
+Nico O'Reilly,743413,€50.00m,"Mar 21, 2005",21,1.93,England,Left-Back,Man City,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26
+David Raya,262749,€35.00m,"Sep 15, 1995",30,1.83,Spain,Goalkeeper,Arsenal,,"Jul 4, 2024","Jun 30, 2028",GB1,25/26
+Mamadou Sarr,910905,€25.00m,"Aug 29, 2005",20,1.94,Senegal,Centre-Back,Chelsea,,"Jun 9, 2025","Jun 30, 2033",GB1,25/26
+Stefan Bajcetic,864799,€5.00m,"Oct 22, 2004",21,1.85,Spain,Defensive Midfield,Liverpool,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Alex Scott,855256,€40.00m,"Aug 21, 2003",22,1.78,England,Central Midfield,Bournemouth,,"Aug 10, 2023","Jun 30, 2028",GB1,25/26
+John Ruddy,29712,€100k,"Oct 24, 1986",39,1.92,England,Goalkeeper,Newcastle,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+Vitaly Janelt,270171,€18.00m,"May 10, 1998",28,1.84,Germany,Defensive Midfield,Brentford,,"Oct 3, 2020","Jun 30, 2030",GB1,25/26
+Christantus Uche,1124005,€15.00m,"May 19, 2003",22,1.9,Nigeria,Centre-Forward,Crystal Palace,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Amad Diallo,536835,€50.00m,"Jul 11, 2002",23,1.73,Cote d'Ivoire,Right Winger,Man Utd,,"Jan 2, 2021","Jun 30, 2030",GB1,25/26
+Levi Colwill,614258,€50.00m,"Feb 26, 2003",23,1.87,England,Centre-Back,Chelsea,,"Jul 1, 2022","Jun 30, 2029",GB1,25/26
+Sandro Tonali,397033,€80.00m,"May 8, 2000",26,1.81,Italy,Defensive Midfield,Newcastle,,"Jul 3, 2023","Jun 30, 2028",GB1,25/26
+Karl Darlow,99397,€200k,"Oct 8, 1990",35,1.9,Wales,Goalkeeper,Leeds,,"Jul 29, 2023","Jun 30, 2026",GB1,25/26
+Giorgi Mamardashvili,502676,€28.00m,"Sep 29, 2000",25,1.97,Georgia,Goalkeeper,Liverpool,,"Aug 27, 2024","Jun 30, 2031",GB1,25/26
+Stefanos Tzimas,950091,€20.00m,"Jan 6, 2006",20,1.86,Greece,Centre-Forward,Brighton,,"Feb 3, 2025","Jun 30, 2030",GB1,25/26
+Jordan Henderson,61651,€2.00m,"Jun 17, 1990",35,1.82,England,Defensive Midfield,Brentford,,"Jul 15, 2025","Jun 30, 2027",GB1,25/26
+Oscar Bobb,661207,€30.00m,"Jul 12, 2003",22,1.75,Norway,Right Winger,Fulham,,"Jan 30, 2026","Jun 30, 2031",GB1,25/26
+Dilane Bakwa,540664,€28.00m,"Aug 26, 2002",23,1.8,France,Right Winger,Nott'm Forest,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Rico Lewis,701057,€32.00m,"Nov 21, 2004",21,1.7,England,Right-Back,Man City,,"Jul 1, 2022","Jun 30, 2030",GB1,25/26
+Omar Alderete,353032,€15.00m,"Dec 26, 1996",29,1.88,Paraguay,Centre-Back,Sunderland,,"Aug 12, 2025","Jun 30, 2029",GB1,25/26
+Dominic Solanke,258889,€35.00m,"Sep 14, 1997",28,1.86,England,Centre-Forward,Tottenham,,"Aug 10, 2024","Jun 30, 2030",GB1,25/26
+Angel Gomes,392770,€12.00m,"Aug 31, 2000",25,1.68,England,Attacking Midfield,Wolves,,"Feb 2, 2026","Jun 30, 2026",GB1,25/26
+Connor Roberts,214666,€2.50m,"Sep 23, 1995",30,1.75,Wales,Right-Back,Burnley,,"Aug 31, 2021","Jun 30, 2027",GB1,25/26
+Yéremy Pino,568157,€35.00m,"Oct 20, 2002",23,1.72,Spain,Right Winger,Crystal Palace,,"Aug 29, 2025","Jun 30, 2030",GB1,25/26
+Alphonse Areola,120629,€5.00m,"Feb 27, 1993",33,1.95,France,Goalkeeper,West Ham,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Estêvão,1056993,€80.00m,"Apr 24, 2007",19,1.76,Brazil,Right Winger,Chelsea,,"Jul 14, 2025","Jun 30, 2033",GB1,25/26
+Chido Obi,1042886,€5.00m,"Nov 29, 2007",18,1.88,Denmark,Centre-Forward,Man Utd,,"Jul 1, 2025",-,GB1,25/26
+Bertrand Traoré,131996,€5.00m,"Sep 6, 1995",30,1.81,Burkina Faso,Right Winger,Sunderland,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Archie Gray,922693,€35.00m,"Mar 12, 2006",20,1.87,England,Central Midfield,Tottenham,,"Jul 2, 2024","Jun 30, 2030",GB1,25/26
+Boubacar Kamara,394327,€40.00m,"Nov 23, 1999",26,1.84,France,Defensive Midfield,Aston Villa,,"Jul 1, 2022","Jun 30, 2030",GB1,25/26
+Bernd Leno,72476,€8.00m,"Mar 4, 1992",34,1.9,Germany,Goalkeeper,Fulham,,"Aug 2, 2022","Jun 30, 2027",GB1,25/26
+James Milner,3333,€750k,"Jan 4, 1986",40,1.75,England,Central Midfield,Brighton,,"Jul 1, 2023","Jun 30, 2026",GB1,25/26
+Milan Aleksic,942738,€700k,"Aug 30, 2005",20,1.79,Serbia,Attacking Midfield,Sunderland,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Archie Gray,922693,€35.00m,"Mar 12, 2006",20,1.87,England,Central Midfield,Tottenham,,"Jul 2, 2024","Jun 30, 2030",GB1,25/26
+Ibrahima Konaté,357119,€50.00m,"May 25, 1999",26,1.94,France,Centre-Back,Liverpool,,"Jul 1, 2021","Jun 30, 2026",GB1,25/26
+Walter Benítez,296802,€5.00m,"Jan 19, 1993",33,1.91,Argentina,Goalkeeper,Crystal Palace,,"Jul 1, 2025",-,GB1,25/26
+Rodrigo Muniz,735571,€25.00m,"May 4, 2001",25,1.86,Brazil,Centre-Forward,Fulham,,"Aug 20, 2021","Jun 30, 2030",GB1,25/26
+Bernardo Silva,241641,€27.00m,"Aug 10, 1994",31,1.73,Portugal,Attacking Midfield,Man City,,"Jul 1, 2017","Jun 30, 2026",GB1,25/26
+Facundo Buonanotte,983989,€16.00m,"Dec 23, 2004",21,1.74,Argentina,Attacking Midfield,Leeds,,"Jan 15, 2026","Jun 30, 2026",GB1,25/26
+Keane Lewis-Potter,644401,€25.00m,"Feb 22, 2001",25,1.7,England,Left Midfield,Brentford,,"Jul 12, 2022","Jun 30, 2031",GB1,25/26
+Noni Madueke,503987,€50.00m,"Mar 10, 2002",24,1.82,England,Right Winger,Arsenal,,"Jul 18, 2025","Jun 30, 2030",GB1,25/26
+Alejandro Garnacho,811779,€40.00m,"Jul 1, 2004",21,1.8,Argentina,Left Winger,Chelsea,,"Aug 30, 2025","Jun 30, 2032",GB1,25/26
+Aaron Hickey,591949,€16.00m,"Jun 10, 2002",23,1.85,Scotland,Right-Back,Brentford,,"Jul 9, 2022","Jun 30, 2028",GB1,25/26
+Harvey Davies,706815,€500k,"Sep 3, 2003",22,1.9,England,Goalkeeper,Liverpool,,"Jul 1, 2024",-,GB1,25/26
+Aaron Wan-Bissaka,477758,€22.00m,"Nov 26, 1997",28,1.83,DR Congo,Right-Back,West Ham,,"Aug 13, 2024","Jun 30, 2031",GB1,25/26
+Joe Gomez,256178,€15.00m,"May 23, 1997",28,1.88,England,Centre-Back,Liverpool,,"Jul 1, 2015","Jun 30, 2027",GB1,25/26
+Willy Boly,142310,€500k,"Feb 3, 1991",35,1.95,Cote d'Ivoire,Centre-Back,Nott'm Forest,,"Sep 1, 2022","Jun 30, 2026",GB1,25/26
+Tolu Arokodare,683571,€22.00m,"Nov 23, 2000",25,1.97,Nigeria,Centre-Forward,Wolves,,"Sep 1, 2025","Jun 30, 2029",GB1,25/26
+John McGinn,193116,€15.00m,"Oct 18, 1994",31,1.78,Scotland,Central Midfield,Aston Villa,,"Aug 8, 2018","Jun 30, 2028",GB1,25/26
+Tim Iroegbunam,696589,€15.00m,"Jun 30, 2003",22,1.83,England,Central Midfield,Everton,,"Jul 1, 2024","Jun 30, 2027",GB1,25/26
+Konstantinos Mavropanos,415912,€15.00m,"Dec 11, 1997",28,1.94,Greece,Centre-Back,West Ham,,"Aug 22, 2023","Jun 30, 2028",GB1,25/26
+Freddie Potts,698164,€10.00m,"Sep 12, 2003",22,1.83,England,Defensive Midfield,West Ham,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Iliman Ndiaye,623570,€50.00m,"Mar 6, 2000",26,1.8,Senegal,Right Winger,Everton,,"Jul 3, 2024","Jun 30, 2029",GB1,25/26
+Santiago Bueno,438001,€10.00m,"Nov 9, 1998",27,1.9,Uruguay,Centre-Back,Wolves,,"Aug 31, 2023","Jun 30, 2028",GB1,25/26
+Adam Aznou,938146,€7.00m,"Jun 2, 2006",19,1.78,Morocco,Left-Back,Everton,,"Jul 29, 2025","Jun 30, 2029",GB1,25/26
+Abdoullah Ba,654412,€2.00m,"Jul 31, 2003",22,1.8,France,Right Midfield,Sunderland,,"Aug 31, 2022","Jun 30, 2027",GB1,25/26
+Jonah Kusi-Asare,1069512,€4.00m,"Jul 4, 2007",18,1.96,Sweden,Centre-Forward,Fulham,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Alex Cairns,194386,€75k,"Jan 4, 1993",33,1.83,England,Goalkeeper,Leeds,,"Jul 8, 2024","Jun 30, 2026",GB1,25/26
+Willy Boly,142310,€500k,"Feb 3, 1991",35,1.95,Cote d'Ivoire,Centre-Back,Nott'm Forest,,"Sep 1, 2022","Jun 30, 2026",GB1,25/26
+Rio Cardines,1047257,€300k,"Jul 1, 2006",19,1.75,Trinidad and Tobago,Left-Back,Crystal Palace,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Jayden Bogle,465717,€12.00m,"Jul 27, 2000",25,1.78,England,Right-Back,Leeds,,"Jul 20, 2024","Jun 30, 2028",GB1,25/26
+Tom Heaton,34130,€150k,"Apr 15, 1986",40,1.88,England,Goalkeeper,Man Utd,,"Jul 2, 2021","Jun 30, 2026",GB1,25/26
+Marc Cucurella,284857,€50.00m,"Jul 22, 1998",27,1.73,Spain,Left-Back,Chelsea,,"Aug 5, 2022","Jun 30, 2028",GB1,25/26
+Sam Johnstone,110864,€3.00m,"Mar 25, 1993",33,1.93,England,Goalkeeper,Wolves,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Malo Gusto,620322,€35.00m,"May 19, 2003",22,1.78,France,Right-Back,Chelsea,,"Jan 29, 2023","Jun 30, 2030",GB1,25/26
+Nathan Patterson,424015,€10.00m,"Oct 16, 2001",24,1.89,Scotland,Right-Back,Everton,,"Jan 4, 2022","Jun 30, 2027",GB1,25/26
+Quilindschy Hartman,514285,€18.00m,"Nov 14, 2001",24,1.83,Netherlands,Left-Back,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Rayan Aït-Nouri,578391,€40.00m,"Jun 6, 2001",24,1.8,Algeria,Left-Back,Man City,,"Jun 9, 2025","Jun 30, 2030",GB1,25/26
+Riccardo Calafiori,502821,€50.00m,"May 19, 2002",23,1.88,Italy,Left-Back,Arsenal,,"Jul 29, 2024","Jun 30, 2029",GB1,25/26
+Wesley Fofana,475411,€28.00m,"Dec 17, 2000",25,1.88,France,Centre-Back,Chelsea,,"Aug 31, 2022","Jun 30, 2029",GB1,25/26
+Ladislav Krejčí,345911,€22.00m,"Apr 20, 1999",27,1.91,Czech Republic,Centre-Back,Wolves,,"Aug 28, 2025","Jun 30, 2026",GB1,25/26
+Piero Hincapié,659813,€50.00m,"Jan 9, 2002",24,1.84,Ecuador,Centre-Back,Arsenal,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Lucas Perri,352041,€13.00m,"Dec 10, 1997",28,1.97,Brazil,Goalkeeper,Leeds,,"Jul 26, 2025","Jun 30, 2029",GB1,25/26
+José Sá,249994,€5.00m,"Jan 17, 1993",33,1.92,Portugal,Goalkeeper,Wolves,,"Jul 15, 2021","Jun 30, 2027",GB1,25/26
+David Raya,262749,€35.00m,"Sep 15, 1995",30,1.83,Spain,Goalkeeper,Arsenal,,"Jul 4, 2024","Jun 30, 2028",GB1,25/26
+Eberechi Eze,479999,€60.00m,"Jun 29, 1998",27,1.78,England,Attacking Midfield,Arsenal,,"Aug 23, 2025","Jun 30, 2029",GB1,25/26
+Jorrel Hato,904802,€35.00m,"Mar 7, 2006",20,1.82,Netherlands,Left-Back,Chelsea,,"Aug 3, 2025","Jun 30, 2032",GB1,25/26
+Phil Foden,406635,€80.00m,"May 28, 2000",25,1.71,England,Attacking Midfield,Man City,,"Jul 1, 2017","Jun 30, 2027",GB1,25/26
+João Gomes,735570,€35.00m,"Feb 12, 2001",25,1.76,Brazil,Central Midfield,Wolves,,"Jan 30, 2023","Jun 30, 2030",GB1,25/26
+Randal Kolo Muani,487969,€22.00m,"Dec 5, 1998",27,1.87,France,Centre-Forward,Tottenham,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Calvin Bassey,461883,€28.00m,"Dec 31, 1999",26,1.85,Nigeria,Centre-Back,Fulham,,"Jul 28, 2023","Jun 30, 2027",GB1,25/26
+Anton Stach,344069,€25.00m,"Nov 15, 1998",27,1.94,Germany,Defensive Midfield,Leeds,,"Jul 22, 2025","Jun 30, 2029",GB1,25/26
+Marcus Bettinelli,116648,€500k,"May 24, 1992",33,1.93,England,Goalkeeper,Man City,,"Jun 10, 2025","Jun 30, 2027",GB1,25/26
+Lorenzo Lucca,572265,€25.00m,"Sep 10, 2000",25,2.01,Italy,Centre-Forward,Nott'm Forest,,"Jan 23, 2026","Jun 30, 2026",GB1,25/26
+Mathias Jensen,319859,€12.00m,"Jan 1, 1996",30,1.8,Denmark,Central Midfield,Brentford,,"Jul 10, 2019","Jun 30, 2026",GB1,25/26
+Adam Armstrong,250426,€8.00m,"Feb 10, 1997",29,1.73,England,Centre-Forward,Wolves,,"Feb 2, 2026","Jun 30, 2029",GB1,25/26
+Mads Hermansen,400536,€15.00m,"Jul 11, 2000",25,1.87,Denmark,Goalkeeper,West Ham,,"Aug 9, 2025","Jun 30, 2030",GB1,25/26
+Diogo Dalot,357147,€30.00m,"Mar 18, 1999",27,1.83,Portugal,Right-Back,Man Utd,,"Jul 1, 2018","Jun 30, 2028",GB1,25/26
+Adam Aznou,938146,€7.00m,"Jun 2, 2006",19,1.78,Morocco,Left-Back,Everton,,"Jul 29, 2025","Jun 30, 2029",GB1,25/26
+Nathan Fraser,863741,€600k,"Feb 22, 2005",21,1.88,Ireland,Centre-Forward,Wolves,,"Jan 1, 2024","Jun 30, 2028",GB1,25/26
+Rico Henry,339556,€15.00m,"Jul 8, 1997",28,1.7,Jamaica,Left-Back,Brentford,,"Aug 31, 2016","Jun 30, 2026",GB1,25/26
+Patrick Dorgu,926952,€35.00m,"Oct 26, 2004",21,1.85,Denmark,Left-Back,Man Utd,,"Feb 2, 2025","Jun 30, 2030",GB1,25/26
+Max Weiß,829299,€4.00m,"Jun 15, 2004",21,1.9,Germany,Goalkeeper,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Ismaïla Sarr,410225,€35.00m,"Feb 25, 1998",28,1.85,Senegal,Right Winger,Crystal Palace,,"Aug 1, 2024","Jun 30, 2029",GB1,25/26
+Adrien Truffert,654539,€25.00m,"Nov 20, 2001",24,1.76,France,Left-Back,Bournemouth,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Borna Sosa,293194,€4.00m,"Jan 21, 1998",28,1.87,Croatia,Left-Back,Crystal Palace,,"Jul 11, 2025","Jun 30, 2028",GB1,25/26
+Junior Kroupi,955357,€40.00m,"Jun 23, 2006",19,1.79,France,Centre-Forward,Bournemouth,,"Feb 3, 2025","Jun 30, 2030",GB1,25/26
+Jarrod Bowen,314875,€35.00m,"Dec 20, 1996",29,1.76,England,Right Winger,West Ham,,"Jan 31, 2020","Jun 30, 2030",GB1,25/26
+Curtis Jones,433188,€35.00m,"Jan 30, 2001",25,1.85,England,Central Midfield,Liverpool,,"Jul 1, 2020","Jun 30, 2027",GB1,25/26
+Antonín Kinský,725912,€13.00m,"Mar 13, 2003",23,1.9,Czech Republic,Goalkeeper,Tottenham,,"Jan 5, 2025","Jun 30, 2029",GB1,25/26
+William Saliba,495666,€90.00m,"Mar 24, 2001",25,1.92,France,Centre-Back,Arsenal,,"Jul 25, 2019","Jun 30, 2030",GB1,25/26
+Chris Richards,578539,€25.00m,"Mar 28, 2000",26,1.88,United States,Centre-Back,Crystal Palace,,"Jul 27, 2022","Jun 30, 2027",GB1,25/26
+Levi Colwill,614258,€50.00m,"Feb 26, 2003",23,1.87,England,Centre-Back,Chelsea,,"Jul 1, 2022","Jun 30, 2029",GB1,25/26
+Riccardo Calafiori,502821,€50.00m,"May 19, 2002",23,1.88,Italy,Left-Back,Arsenal,,"Jul 29, 2024","Jun 30, 2029",GB1,25/26
+Trey Nyoni,1045123,€6.00m,"Jun 30, 2007",18,1.8,England,Central Midfield,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Ross Barkley,131978,€5.00m,"Dec 5, 1993",32,1.89,England,Central Midfield,Aston Villa,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+Brenden Aaronson,393323,€18.00m,"Oct 22, 2000",25,1.77,United States,Attacking Midfield,Leeds,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Pedro Lima,1193867,€4.00m,"Jul 1, 2006",19,1.74,Brazil,Right-Back,Wolves,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Tyrick Mitchell,730893,€25.00m,"Sep 1, 1999",26,1.81,England,Left-Back,Crystal Palace,,"Jul 1, 2020","Jun 30, 2027",GB1,25/26
+Harry Wilson,279455,€25.00m,"Mar 22, 1997",29,1.73,Wales,Right Winger,Fulham,,"Jul 24, 2021","Jun 30, 2026",GB1,25/26
+Jacob Bruun Larsen,293281,€5.00m,"Sep 19, 1998",27,1.83,Denmark,Left Winger,Burnley,,"Jul 11, 2025","Jun 30, 2029",GB1,25/26
+Ryan Gravenberch,478573,€90.00m,"May 16, 2002",24,1.9,Netherlands,Defensive Midfield,Liverpool,,"Sep 1, 2023","Jun 30, 2032",GB1,25/26
+Eliezer Mayenda,967346,€18.00m,"May 8, 2005",21,1.8,Spain,Centre-Forward,Sunderland,,"Jul 28, 2023","Jun 30, 2030",GB1,25/26
+Benjamin Lecomte,127181,€1.20m,"Apr 26, 1991",35,1.86,France,Goalkeeper,Fulham,,"Jul 26, 2025","Jun 30, 2027",GB1,25/26
+Joe Gomez,256178,€15.00m,"May 23, 1997",28,1.88,England,Centre-Back,Liverpool,,"Jul 1, 2015","Jun 30, 2027",GB1,25/26
+Kenny Tete,206746,€11.00m,"Oct 9, 1995",30,1.8,Netherlands,Right-Back,Fulham,,"Sep 10, 2020","Jun 30, 2028",GB1,25/26
+Joe Rodon,297212,€15.00m,"Oct 22, 1997",28,1.93,Wales,Centre-Back,Leeds,,"Jul 2, 2024","Jun 30, 2028",GB1,25/26
+Mikkel Damsgaard,540941,€30.00m,"Jul 3, 2000",25,1.8,Denmark,Attacking Midfield,Brentford,,"Aug 10, 2022","Jun 30, 2030",GB1,25/26
+Pascal Groß,82873,€3.50m,"Jun 15, 1991",34,1.81,Germany,Central Midfield,Brighton,,"Jan 2, 2026","Jun 30, 2027",GB1,25/26
+Evanilson,711337,€35.00m,"Oct 6, 1999",26,1.83,Brazil,Centre-Forward,Bournemouth,,"Aug 16, 2024","Jun 30, 2029",GB1,25/26
+Harrison Armstrong,1107733,€12.00m,"Jan 19, 2007",19,1.85,England,Central Midfield,Everton,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Ashley Barnes,63200,€200k,"Oct 30, 1989",36,1.85,England,Centre-Forward,Burnley,,"Jan 2, 2025","Jun 30, 2026",GB1,25/26
+Axel Disasi,386047,€15.00m,"Mar 11, 1998",28,1.91,France,Centre-Back,West Ham,,"Feb 2, 2026","Jun 30, 2026",GB1,25/26
+Lukas Nmecha,314288,€10.00m,"Dec 14, 1998",27,1.85,Germany,Centre-Forward,Leeds,,"Jul 1, 2025","Jun 30, 2027",GB1,25/26
+Diogo Dalot,357147,€30.00m,"Mar 18, 1999",27,1.83,Portugal,Right-Back,Man Utd,,"Jul 1, 2018","Jun 30, 2028",GB1,25/26
+Pascal Struijk,410708,€22.00m,"Aug 11, 1999",26,1.9,Netherlands,Centre-Back,Leeds,,"Jan 1, 2020","Jun 30, 2027",GB1,25/26
+Quilindschy Hartman,514285,€18.00m,"Nov 14, 2001",24,1.83,Netherlands,Left-Back,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Facundo Buonanotte,983989,€16.00m,"Dec 23, 2004",21,1.74,Argentina,Attacking Midfield,Leeds,,"Jan 15, 2026","Jun 30, 2026",GB1,25/26
+Wesley Fofana,475411,€28.00m,"Dec 17, 2000",25,1.88,France,Centre-Back,Chelsea,,"Aug 31, 2022","Jun 30, 2029",GB1,25/26
+Noah Okafor,346890,€18.00m,"May 24, 2000",25,1.85,Switzerland,Left Winger,Leeds,,"Aug 21, 2025","Jun 30, 2029",GB1,25/26
+Jair Cunha,984096,€12.00m,"Mar 7, 2005",21,1.98,Brazil,Centre-Back,Nott'm Forest,,"Jul 11, 2025","Jun 30, 2030",GB1,25/26
+Daichi Kamada,356141,€12.00m,"Aug 5, 1996",29,1.8,Japan,Attacking Midfield,Crystal Palace,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+El Hadji Malick Diouf,1111589,€28.00m,"Dec 28, 2004",21,1.83,Senegal,Left-Back,West Ham,,"Jul 15, 2025","Jun 30, 2030",GB1,25/26
+Sven Botman,361093,€35.00m,"Jan 12, 2000",26,1.93,Netherlands,Centre-Back,Newcastle,,"Jul 1, 2022","Jun 30, 2030",GB1,25/26
+Andrés García,1063329,€7.00m,"Feb 7, 2003",23,1.85,Spain,Right-Back,Aston Villa,,"Jan 21, 2025",-,GB1,25/26
+Nilson Angulo,903611,€17.00m,"Jun 19, 2003",22,1.83,Ecuador,Left Winger,Sunderland,,"Feb 2, 2026","Jun 30, 2030",GB1,25/26
+James Ward-Prowse,181579,€6.00m,"Nov 1, 1994",31,1.77,England,Central Midfield,Burnley,,"Jan 28, 2026","Jun 30, 2026",GB1,25/26
+Andrey Santos,743600,€45.00m,"May 3, 2004",22,1.8,Brazil,Central Midfield,Chelsea,,"Jan 1, 2023","Jun 30, 2030",GB1,25/26
+Maximilian Kilman,525247,€16.00m,"May 23, 1997",28,1.94,England,Centre-Back,West Ham,,"Jul 6, 2024","Jun 30, 2031",GB1,25/26
+Jaidon Anthony,684210,€18.00m,"Dec 1, 1999",26,1.83,England,Left Winger,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+James Maddison,294057,€25.00m,"Nov 23, 1996",29,1.75,England,Attacking Midfield,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Adama Traoré,204103,€8.00m,"Jan 25, 1996",30,1.78,Spain,Right Winger,West Ham,,"Jan 28, 2026","Jun 30, 2026",GB1,25/26
+Jackson Tchatchoua,848509,€12.00m,"Sep 14, 2001",24,1.8,Cameroon,Right-Back,Wolves,,"Aug 19, 2025","Jun 30, 2030",GB1,25/26
+Curtis Jones,433188,€35.00m,"Jan 30, 2001",25,1.85,England,Central Midfield,Liverpool,,"Jul 1, 2020","Jun 30, 2027",GB1,25/26
+Morato,673492,€14.00m,"Jun 30, 2001",24,1.92,Brazil,Centre-Back,Nott'm Forest,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Jake O'Brien,711544,€18.00m,"May 15, 2001",25,1.97,Ireland,Right-Back,Everton,,"Jul 30, 2024","Jun 30, 2028",GB1,25/26
+Crysencio Summerville,474701,€30.00m,"Oct 30, 2001",24,1.74,Netherlands,Left Winger,West Ham,,"Aug 3, 2024","Jun 30, 2029",GB1,25/26
+Roméo Lavia,628451,€25.00m,"Jan 6, 2004",22,1.81,Belgium,Defensive Midfield,Chelsea,,"Aug 18, 2023","Jun 30, 2030",GB1,25/26
+Amadou Onana,485706,€45.00m,"Aug 16, 2001",24,1.95,Belgium,Defensive Midfield,Aston Villa,,"Jul 22, 2024","Jun 30, 2029",GB1,25/26
+Tammy Abraham,331726,€20.00m,"Oct 2, 1997",28,1.94,England,Centre-Forward,Aston Villa,,"Jan 27, 2026","Jun 30, 2030",GB1,25/26
+Moisés Caicedo,687626,€110.00m,"Nov 2, 2001",24,1.78,Ecuador,Defensive Midfield,Chelsea,,"Aug 14, 2023","Jun 30, 2033",GB1,25/26
+James Garner,505219,€35.00m,"Mar 13, 2001",25,1.82,England,Defensive Midfield,Everton,,"Sep 1, 2022","Jun 30, 2030",GB1,25/26
+Jefferson Lerma,262980,€8.00m,"Oct 25, 1994",31,1.79,Colombia,Defensive Midfield,Crystal Palace,,"Jul 1, 2023","Jun 30, 2026",GB1,25/26
+Alex Cairns,194386,€75k,"Jan 4, 1993",33,1.83,England,Goalkeeper,Leeds,,"Jul 8, 2024","Jun 30, 2026",GB1,25/26
+Casemiro,16306,€8.00m,"Feb 23, 1992",34,1.85,Brazil,Defensive Midfield,Man Utd,,"Aug 22, 2022","Jun 30, 2026",GB1,25/26
+Pau Torres,399776,€22.00m,"Jan 16, 1997",29,1.92,Spain,Centre-Back,Aston Villa,,"Jul 12, 2023","Jun 30, 2028",GB1,25/26
+Aaron Ramsdale,427568,€12.00m,"May 14, 1998",28,1.9,England,Goalkeeper,Newcastle,,"Aug 2, 2025","Jun 30, 2026",GB1,25/26
+Harrison Reed,226973,€3.00m,"Jan 27, 1995",31,1.81,England,Central Midfield,Fulham,,"Aug 30, 2020","Jun 30, 2027",GB1,25/26
+Joachim Andersen,260827,€25.00m,"May 31, 1996",29,1.92,Denmark,Centre-Back,Fulham,,"Aug 23, 2024","Jun 30, 2029",GB1,25/26
+Zeki Amdouni,548729,€9.00m,"Dec 4, 2000",25,1.85,Switzerland,Centre-Forward,Burnley,,"Jul 19, 2023","Jun 30, 2028",GB1,25/26
+Yasin Ayari,667287,€30.00m,"Oct 6, 2003",22,1.72,Sweden,Central Midfield,Brighton,,"Jan 30, 2023","Jun 30, 2027",GB1,25/26
+Neco Williams,503680,€25.00m,"Apr 13, 2001",25,1.83,Wales,Left-Back,Nott'm Forest,,"Jul 10, 2022","Jun 30, 2029",GB1,25/26
+Joe Willock,340329,€16.00m,"Aug 20, 1999",26,1.86,England,Central Midfield,Newcastle,,"Aug 13, 2021","Jun 30, 2027",GB1,25/26
+Antoni Milambo,683620,€20.00m,"Apr 3, 2005",21,1.79,Netherlands,Attacking Midfield,Brentford,,"Jul 3, 2025","Jun 30, 2030",GB1,25/26
+Kevin,900195,€30.00m,"Jan 4, 2003",23,1.76,Brazil,Left Winger,Fulham,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Samuel Chukwueze,401922,€15.00m,"May 22, 1999",26,1.72,Nigeria,Right Winger,Fulham,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Idrissa Gueye,126665,€1.00m,"Sep 26, 1989",36,1.74,Senegal,Defensive Midfield,Everton,,"Sep 1, 2022","Jun 30, 2026",GB1,25/26
+Habib Diarra,876631,€32.00m,"Jan 3, 2004",22,1.78,Senegal,Central Midfield,Sunderland,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Ollie Watkins,324358,€30.00m,"Dec 30, 1995",30,1.8,England,Centre-Forward,Aston Villa,,"Sep 9, 2020","Jun 30, 2028",GB1,25/26
+Daniel Muñoz,493003,€27.00m,"May 26, 1996",29,1.81,Colombia,Right-Back,Crystal Palace,,"Jan 30, 2024","Jun 30, 2028",GB1,25/26
+Alysson,1005583,€10.00m,"May 5, 2006",20,1.84,Brazil,Right Winger,Aston Villa,,"Jan 1, 2026",-,GB1,25/26
+Nikola Milenković,413507,€30.00m,"Oct 12, 1997",28,1.95,Serbia,Centre-Back,Nott'm Forest,,"Jul 18, 2024","Jun 30, 2029",GB1,25/26
+Joe Worrall,415970,€3.00m,"Jan 10, 1997",29,1.9,England,Centre-Back,Burnley,,"Aug 22, 2024","Jun 30, 2028",GB1,25/26
+James Hill,611793,€15.00m,"Jan 10, 2002",24,1.84,England,Centre-Back,Bournemouth,,"Jan 5, 2022","Jun 30, 2029",GB1,25/26
+John Victor,432914,€7.00m,"Feb 13, 1996",30,1.97,Brazil,Goalkeeper,Nott'm Forest,,"Aug 31, 2025","Jun 30, 2028",GB1,25/26
+Nick Pope,192080,€7.00m,"Apr 19, 1992",34,1.98,England,Goalkeeper,Newcastle,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Tyrique George,936874,€22.00m,"Feb 4, 2006",20,1.81,England,Left Winger,Everton,,"Feb 2, 2026","Jun 30, 2026",GB1,25/26
+Hannibal,607224,€16.00m,"Jan 21, 2003",23,1.83,Tunisia,Attacking Midfield,Burnley,,"Aug 28, 2024","Jun 30, 2028",GB1,25/26
+Omari Hutchinson,741238,€30.00m,"Oct 30, 2003",22,1.74,England,Attacking Midfield,Nott'm Forest,,"Aug 16, 2025","Jun 30, 2030",GB1,25/26
+Harvey Elliott,565822,€22.00m,"Apr 4, 2003",23,1.7,England,Attacking Midfield,Aston Villa,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Tomáš Souček,283628,€12.00m,"Feb 27, 1995",31,1.92,Czech Republic,Defensive Midfield,West Ham,,"Jul 27, 2020","Jun 30, 2027",GB1,25/26
+Antoine Semenyo,583255,€75.00m,"Jan 7, 2000",26,1.85,Ghana,Right Winger,Man City,,"Jan 9, 2026","Jun 30, 2031",GB1,25/26
+Ladislav Krejčí,345911,€22.00m,"Apr 20, 1999",27,1.91,Czech Republic,Centre-Back,Wolves,,"Aug 28, 2025","Jun 30, 2026",GB1,25/26
+Djed Spence,483348,€30.00m,"Aug 9, 2000",25,1.84,England,Left-Back,Tottenham,,"Jul 19, 2022","Jun 30, 2029",GB1,25/26
+Dan Burn,134270,€5.00m,"May 9, 1992",34,2.01,England,Centre-Back,Newcastle,,"Jan 31, 2022","Jun 30, 2027",GB1,25/26
+Jack Grealish,203460,€25.00m,"Sep 10, 1995",30,1.8,England,Left Winger,Everton,,"Aug 12, 2025","Jun 30, 2026",GB1,25/26
+João Pedro,626724,€75.00m,"Sep 26, 2001",24,1.82,Brazil,Centre-Forward,Chelsea,,"Jul 2, 2025","Jun 30, 2033",GB1,25/26
+Maxime Estève,842341,€25.00m,"May 26, 2002",23,1.93,France,Centre-Back,Burnley,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26
+Brian Brobbey,473169,€25.00m,"Feb 1, 2002",24,1.8,Netherlands,Centre-Forward,Sunderland,,"Sep 1, 2025","Jun 30, 2029",GB1,25/26
+Justin Devenny,747009,€12.00m,"Oct 11, 2003",22,1.84,Northern Ireland,Attacking Midfield,Crystal Palace,,"Jul 1, 2024","Jun 30, 2027",GB1,25/26
+Walter Benítez,296802,€5.00m,"Jan 19, 1993",33,1.91,Argentina,Goalkeeper,Crystal Palace,,"Jul 1, 2025",-,GB1,25/26
+Crysencio Summerville,474701,€30.00m,"Oct 30, 2001",24,1.74,Netherlands,Left Winger,West Ham,,"Aug 3, 2024","Jun 30, 2029",GB1,25/26
+Jocelin Ta Bi,1322090,€3.00m,"Feb 9, 2005",21,1.75,Cote d'Ivoire,Right Winger,Sunderland,,"Jan 16, 2026","Jun 30, 2030",GB1,25/26
+Murillo,1005649,€50.00m,"Jul 4, 2002",23,1.8,Brazil,Centre-Back,Nott'm Forest,,"Aug 31, 2023","Jun 30, 2029",GB1,25/26
+Mark Travers,357658,€4.00m,"May 18, 1999",26,1.91,Ireland,Goalkeeper,Everton,,"Jul 15, 2025","Jun 30, 2029",GB1,25/26
+Yerson Mosquera,716276,€12.00m,"May 2, 2001",25,1.88,Colombia,Centre-Back,Wolves,,"Jul 1, 2021","Jun 30, 2030",GB1,25/26
+Nordi Mukiele,348026,€18.00m,"Nov 1, 1997",28,1.87,France,Right-Back,Sunderland,,"Aug 17, 2025","Jun 30, 2029",GB1,25/26
+Christos Mandas,481675,€10.00m,"Sep 17, 2001",24,1.89,Greece,Goalkeeper,Bournemouth,,"Jan 27, 2026","Jun 30, 2026",GB1,25/26
+Calvin Ramsay,633652,€1.50m,"Jul 31, 2003",22,1.77,Scotland,Right-Back,Liverpool,,"Jul 1, 2025","Jun 30, 2027",GB1,25/26
+Sander Berge,333014,€25.00m,"Feb 14, 1998",28,1.95,Norway,Defensive Midfield,Fulham,,"Aug 22, 2024","Jun 30, 2029",GB1,25/26
+Connor Roberts,214666,€2.50m,"Sep 23, 1995",30,1.75,Wales,Right-Back,Burnley,,"Aug 31, 2021","Jun 30, 2027",GB1,25/26
+Lucas Bergvall,866246,€40.00m,"Feb 2, 2006",20,1.87,Sweden,Central Midfield,Tottenham,,"Jul 1, 2024","Jun 30, 2031",GB1,25/26
+William Osula,609556,€15.00m,"Aug 4, 2003",22,1.91,Denmark,Centre-Forward,Newcastle,,"Aug 8, 2024","Jun 30, 2029",GB1,25/26
+Brennan Johnson,470607,€35.00m,"May 23, 2001",24,1.86,Wales,Right Winger,Crystal Palace,,"Jan 2, 2026","Jun 30, 2030",GB1,25/26
+Loum Tchaouna,607226,€15.00m,"Sep 8, 2003",22,1.8,France,Right Winger,Burnley,,"Jul 2, 2025","Jun 30, 2030",GB1,25/26
+Jurriën Timber,420243,€70.00m,"Jun 17, 2001",24,1.79,Netherlands,Right-Back,Arsenal,,"Jul 14, 2023","Jun 30, 2028",GB1,25/26
+Joshua Zirkzee,435648,€22.00m,"May 22, 2001",24,1.93,Netherlands,Centre-Forward,Man Utd,,"Jul 14, 2024","Jun 30, 2029",GB1,25/26
+Dwight McNeil,584769,€20.00m,"Nov 22, 1999",26,1.83,England,Left Winger,Everton,,"Jul 28, 2022","Jun 30, 2027",GB1,25/26
+João Pedro,626724,€75.00m,"Sep 26, 2001",24,1.82,Brazil,Centre-Forward,Chelsea,,"Jul 2, 2025","Jun 30, 2033",GB1,25/26
+Wataru Endo,146310,€5.00m,"Feb 9, 1993",33,1.78,Japan,Defensive Midfield,Liverpool,,"Aug 18, 2023","Jun 30, 2027",GB1,25/26
+Ryan Sessegnon,392775,€20.00m,"May 18, 2000",25,1.78,England,Left-Back,Fulham,,"Jul 26, 2024","Jun 30, 2027",GB1,25/26
+Mark Travers,357658,€4.00m,"May 18, 1999",26,1.91,Ireland,Goalkeeper,Everton,,"Jul 15, 2025","Jun 30, 2029",GB1,25/26
+David Møller Wolfe,661427,€10.00m,"Apr 23, 2002",24,1.87,Norway,Left-Back,Wolves,,"Aug 2, 2025","Jun 30, 2030",GB1,25/26
+Liam Delap,610849,€32.00m,"Feb 8, 2003",23,1.86,England,Centre-Forward,Chelsea,,"Jun 4, 2025","Jun 30, 2031",GB1,25/26
+Hee-chan Hwang,292246,€8.00m,"Jan 26, 1996",30,1.77,"Korea, South",Centre-Forward,Wolves,,"Jul 1, 2022","Jun 30, 2028",GB1,25/26
+Amine Adli,532776,€20.00m,"May 10, 2000",26,1.8,Morocco,Left Winger,Bournemouth,,"Aug 21, 2025","Jun 30, 2030",GB1,25/26
+Robert Sánchez,403151,€22.00m,"Nov 18, 1997",28,1.97,Spain,Goalkeeper,Chelsea,,"Aug 5, 2023","Jun 30, 2030",GB1,25/26
+Trevoh Chalobah,346314,€40.00m,"Jul 5, 1999",26,1.92,England,Centre-Back,Chelsea,,"Jul 1, 2021","Jun 30, 2028",GB1,25/26
+Marc Guiu,938158,€12.00m,"Jan 4, 2006",20,1.87,Spain,Centre-Forward,Chelsea,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Abdukodir Khusanov,763079,€35.00m,"Feb 29, 2004",22,1.86,Uzbekistan,Centre-Back,Man City,,"Jan 20, 2025","Jun 30, 2029",GB1,25/26
+Angus Gunn,201574,€1.50m,"Jan 22, 1996",30,1.96,Scotland,Goalkeeper,Nott'm Forest,,"Aug 6, 2025","Jun 30, 2026",GB1,25/26
+Solly March,209212,€2.00m,"Jul 20, 1994",31,1.8,England,Right Winger,Brighton,,"Jul 1, 2013","Jun 30, 2026",GB1,25/26
+Matt O'Riley,406634,€20.00m,"Nov 21, 2000",25,1.89,Denmark,Central Midfield,Brighton,,"Aug 26, 2024","Jun 30, 2029",GB1,25/26
+Harvey Davies,706815,€500k,"Sep 3, 2003",22,1.9,England,Goalkeeper,Liverpool,,"Jul 1, 2024",-,GB1,25/26
+Dan Ballard,503686,€20.00m,"Sep 22, 1999",26,1.87,Northern Ireland,Centre-Back,Sunderland,,"Jul 1, 2022","Jun 30, 2029",GB1,25/26
+Jean-Clair Todibo,605184,€23.00m,"Dec 30, 1999",26,1.9,France,Centre-Back,West Ham,,"Jul 1, 2025",-,GB1,25/26
+Malick Thiaw,521964,€45.00m,"Aug 8, 2001",24,1.94,Germany,Centre-Back,Newcastle,,"Aug 12, 2025","Jun 30, 2029",GB1,25/26
+Adam Armstrong,250426,€8.00m,"Feb 10, 1997",29,1.73,England,Centre-Forward,Wolves,,"Feb 2, 2026","Jun 30, 2029",GB1,25/26
+Enso González,1060740,€3.00m,"Jan 20, 2005",21,1.69,Paraguay,Left Winger,Wolves,,"Aug 31, 2023","Jun 30, 2029",GB1,25/26
+Senne Lammens,503883,€30.00m,"Jul 7, 2002",23,1.93,Belgium,Goalkeeper,Man Utd,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Emil Krafth,184528,€1.00m,"Aug 2, 1994",31,1.84,Sweden,Right-Back,Newcastle,,"Aug 8, 2019","Jun 30, 2026",GB1,25/26
+Caleb Kporha,1047261,€1.00m,"Jul 15, 2006",19,,England,Right-Back,Crystal Palace,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Igor Julio,380350,€12.00m,"Feb 7, 1998",28,1.88,Brazil,Centre-Back,Brighton,,"Jul 26, 2023","Jun 30, 2027",GB1,25/26
+Matty Cash,425334,€22.00m,"Aug 7, 1997",28,1.85,Poland,Right-Back,Aston Villa,,"Sep 3, 2020","Jun 30, 2029",GB1,25/26
+Yéremy Pino,568157,€35.00m,"Oct 20, 2002",23,1.72,Spain,Right Winger,Crystal Palace,,"Aug 29, 2025","Jun 30, 2030",GB1,25/26
+Wilfried Gnonto,627626,€18.00m,"Nov 5, 2003",22,1.7,Italy,Right Winger,Leeds,,"Sep 1, 2022","Jun 30, 2028",GB1,25/26
+Séamus Coleman,68390,€300k,"Oct 11, 1988",37,1.77,Ireland,Right-Back,Everton,,"Jan 1, 2009","Jun 30, 2026",GB1,25/26
+Max Dowman,1187629,€20.00m,"Dec 31, 2009",16,1.83,England,Right Winger,Arsenal,,"Jul 1, 2025",-,GB1,25/26
+Lucas Bergvall,866246,€40.00m,"Feb 2, 2006",20,1.87,Sweden,Central Midfield,Tottenham,,"Jul 1, 2024","Jun 30, 2031",GB1,25/26
+Ola Aina,236490,€20.00m,"Oct 8, 1996",29,1.84,Nigeria,Right-Back,Nott'm Forest,,"Jul 22, 2023","Jun 30, 2028",GB1,25/26
+Kyle Walker,95424,€2.50m,"May 28, 1990",35,1.83,England,Right-Back,Burnley,,"Jul 5, 2025","Jun 30, 2027",GB1,25/26
+Cody Gakpo,434675,€65.00m,"May 7, 1999",27,1.93,Netherlands,Left Winger,Liverpool,,"Jan 1, 2023","Jun 30, 2030",GB1,25/26
+Lesley Ugochukwu,711999,€25.00m,"Mar 26, 2004",22,1.9,France,Defensive Midfield,Burnley,,"Aug 6, 2025","Jun 30, 2030",GB1,25/26
+Bernardo Silva,241641,€27.00m,"Aug 10, 1994",31,1.73,Portugal,Attacking Midfield,Man City,,"Jul 1, 2017","Jun 30, 2026",GB1,25/26
+Caoimhín Kelleher,340918,€25.00m,"Nov 23, 1998",27,1.88,Ireland,Goalkeeper,Brentford,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Maxence Lacroix,434224,€40.00m,"Apr 6, 2000",26,1.9,France,Centre-Back,Crystal Palace,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Joël Veltman,111195,€2.50m,"Jan 15, 1992",34,1.84,Netherlands,Right-Back,Brighton,,"Jul 29, 2020","Jun 30, 2026",GB1,25/26
+Michael Keane,118534,€4.00m,"Jan 11, 1993",33,1.88,England,Centre-Back,Everton,,"Jul 3, 2017","Jun 30, 2027",GB1,25/26
+Bruno Guimarães,520624,€75.00m,"Nov 16, 1997",28,1.82,Brazil,Central Midfield,Newcastle,,"Jan 30, 2022","Jun 30, 2028",GB1,25/26
+Jack Grealish,203460,€25.00m,"Sep 10, 1995",30,1.8,England,Left Winger,Everton,,"Aug 12, 2025","Jun 30, 2026",GB1,25/26
+Taty Castellanos,522784,€28.00m,"Oct 3, 1998",27,1.78,Argentina,Centre-Forward,West Ham,,"Jan 5, 2026","Jun 30, 2030",GB1,25/26
+Matty Cash,425334,€22.00m,"Aug 7, 1997",28,1.85,Poland,Right-Back,Aston Villa,,"Sep 3, 2020","Jun 30, 2029",GB1,25/26
+Rayan Cherki,607223,€65.00m,"Aug 17, 2003",22,1.77,France,Attacking Midfield,Man City,,"Jun 10, 2025","Jun 30, 2030",GB1,25/26
+Tommy Setford,848753,,"Mar 13, 2006",20,1.85,England,Goalkeeper,Arsenal,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Harvey Barnes,398065,€32.00m,"Dec 9, 1997",28,1.82,England,Left Winger,Newcastle,,"Jul 23, 2023","Jun 30, 2028",GB1,25/26
+James Justin,413220,€12.00m,"Feb 23, 1998",28,1.83,England,Right-Back,Leeds,,"Aug 25, 2025","Jun 30, 2029",GB1,25/26
+Martin Dúbravka,74960,€750k,"Jan 15, 1989",37,1.91,Slovakia,Goalkeeper,Burnley,,"Aug 7, 2025","Jun 30, 2026",GB1,25/26
+Carlos Baleba,973085,€55.00m,"Jan 3, 2004",22,1.79,Cameroon,Defensive Midfield,Brighton,,"Aug 29, 2023","Jun 30, 2028",GB1,25/26
+Calvin Ramsay,633652,€1.50m,"Jul 31, 2003",22,1.77,Scotland,Right-Back,Liverpool,,"Jul 1, 2025","Jun 30, 2027",GB1,25/26
+Nico González,466805,€45.00m,"Jan 3, 2002",24,1.88,Spain,Defensive Midfield,Man City,,"Feb 3, 2025","Jun 30, 2029",GB1,25/26
+Luke Shaw,183288,€10.00m,"Jul 12, 1995",30,1.78,England,Left-Back,Man Utd,,"Jul 1, 2014","Jun 30, 2027",GB1,25/26
+Diego Gómez,996897,€25.00m,"Mar 27, 2003",23,1.85,Paraguay,Central Midfield,Brighton,,"Jan 1, 2025",-,GB1,25/26
+Christian Nørgaard,148367,€7.00m,"Mar 10, 1994",32,1.87,Denmark,Defensive Midfield,Arsenal,,"Jul 10, 2025","Jun 30, 2027",GB1,25/26
+Ilia Gruev,381753,€12.00m,"May 6, 2000",26,1.85,Bulgaria,Defensive Midfield,Leeds,,"Aug 31, 2023","Jun 30, 2027",GB1,25/26
+Martin Ødegaard,316264,€65.00m,"Dec 17, 1998",27,1.78,Norway,Attacking Midfield,Arsenal,,"Aug 20, 2021","Jun 30, 2028",GB1,25/26
+Federico Chiesa,341092,€15.00m,"Oct 25, 1997",28,1.75,Italy,Right Winger,Liverpool,,"Aug 29, 2024","Jun 30, 2028",GB1,25/26
+Kai Havertz,309400,€50.00m,"Jun 11, 1999",26,1.93,Germany,Centre-Forward,Arsenal,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Melker Ellborg,605426,€3.00m,"May 22, 2003",22,1.91,Sweden,Goalkeeper,Sunderland,,"Feb 1, 2026","Jun 30, 2030",GB1,25/26
+Liam Delap,610849,€32.00m,"Feb 8, 2003",23,1.86,England,Centre-Forward,Chelsea,,"Jun 4, 2025","Jun 30, 2031",GB1,25/26
+Adam Wharton,744149,€60.00m,"Feb 6, 2004",22,1.82,England,Defensive Midfield,Crystal Palace,,"Feb 1, 2024","Jun 30, 2029",GB1,25/26
+Josh Dasilva,340321,€2.00m,"Oct 23, 1998",27,1.84,England,Central Midfield,Brentford,,"Oct 23, 2025","Jun 30, 2026",GB1,25/26
+Matheus Cunha,517894,€70.00m,"May 27, 1999",26,1.83,Brazil,Centre-Forward,Man Utd,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Brandon Austin,428016,€500k,"Jan 8, 1999",27,1.88,England,Goalkeeper,Tottenham,,"Aug 1, 2021","Jun 30, 2029",GB1,25/26
+Fábio Carvalho,559263,€10.00m,"Aug 30, 2002",23,1.7,Portugal,Attacking Midfield,Brentford,,"Aug 12, 2024","Jun 30, 2029",GB1,25/26
+Reece James,472423,€60.00m,"Dec 8, 1999",26,1.8,England,Right-Back,Chelsea,,"Jul 1, 2019","Jun 30, 2032",GB1,25/26
+Mykhaylo Mudryk,537860,,"Jan 5, 2001",25,1.75,Ukraine,Left Winger,Chelsea,,"Jan 15, 2023","Jun 30, 2031",GB1,25/26
+Noussair Mazraoui,340456,€20.00m,"Nov 14, 1997",28,1.83,Morocco,Right-Back,Man Utd,,"Aug 13, 2024","Jun 30, 2028",GB1,25/26
+Zach Abbott,933017,€3.00m,"May 13, 2006",20,1.8,England,Centre-Back,Nott'm Forest,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+João Palhinha,257455,€18.00m,"Jul 9, 1995",30,1.9,Portugal,Defensive Midfield,Tottenham,,"Aug 3, 2025","Jun 30, 2026",GB1,25/26
+Marc Guiu,938158,€12.00m,"Jan 4, 2006",20,1.87,Spain,Centre-Forward,Chelsea,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Jason Steele,73564,€750k,"Aug 18, 1990",35,1.88,England,Goalkeeper,Brighton,,"Jul 1, 2018","Jun 30, 2027",GB1,25/26
+Tom McGill,406556,€500k,"Mar 25, 2000",26,1.85,Canada,Goalkeeper,Brighton,,"Jul 29, 2022","Jun 30, 2027",GB1,25/26
+Josh Laurent,314241,€2.00m,"May 6, 1995",31,1.88,England,Central Midfield,Burnley,,"Aug 30, 2024","Jun 30, 2026",GB1,25/26
+Reiss Nelson,340325,€12.00m,"Dec 10, 1999",26,1.75,England,Left Winger,Brentford,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Loum Tchaouna,607226,€15.00m,"Sep 8, 2003",22,1.8,France,Right Winger,Burnley,,"Jul 2, 2025","Jun 30, 2030",GB1,25/26
+Enzo Fernández,648195,€90.00m,"Jan 17, 2001",25,1.78,Argentina,Central Midfield,Chelsea,,"Jan 31, 2023","Jun 30, 2032",GB1,25/26
+Florentino,357162,€20.00m,"Aug 19, 1999",26,1.84,Portugal,Defensive Midfield,Burnley,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Zach Abbott,933017,€3.00m,"May 13, 2006",20,1.8,England,Centre-Back,Nott'm Forest,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Illan Meslier,542586,€10.00m,"Mar 2, 2000",26,1.97,France,Goalkeeper,Leeds,,"Jul 27, 2020","Jun 30, 2026",GB1,25/26
+Sebastiaan Bornauw,338629,€8.00m,"Mar 22, 1999",27,1.91,Belgium,Centre-Back,Leeds,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Sebastiaan Bornauw,338629,€8.00m,"Mar 22, 1999",27,1.91,Belgium,Centre-Back,Leeds,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Yoane Wissa,388165,€30.00m,"Sep 3, 1996",29,1.76,DR Congo,Centre-Forward,Newcastle,,"Sep 1, 2025",-,GB1,25/26
+Souza,1086258,€12.00m,"Jun 16, 2006",19,1.83,Brazil,Left-Back,Tottenham,,"Jan 22, 2026","Jun 30, 2031",GB1,25/26
+Alisson,105470,€17.00m,"Oct 2, 1992",33,1.93,Brazil,Goalkeeper,Liverpool,,"Jul 19, 2018","Jun 30, 2027",GB1,25/26
+Jorrel Hato,904802,€35.00m,"Mar 7, 2006",20,1.82,Netherlands,Left-Back,Chelsea,,"Aug 3, 2025","Jun 30, 2032",GB1,25/26
+Cole Palmer,568177,€110.00m,"May 6, 2002",24,1.85,England,Attacking Midfield,Chelsea,,"Sep 1, 2023","Jun 30, 2033",GB1,25/26
+Lucas Perri,352041,€13.00m,"Dec 10, 1997",28,1.97,Brazil,Goalkeeper,Leeds,,"Jul 26, 2025","Jun 30, 2029",GB1,25/26
+Sepp van den Berg,541231,€32.00m,"Dec 20, 2001",24,1.92,Netherlands,Centre-Back,Brentford,,"Aug 22, 2024","Jun 30, 2029",GB1,25/26
+Max Weiß,829299,€4.00m,"Jun 15, 2004",21,1.9,Germany,Goalkeeper,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Reinildo Mandava,240692,€5.00m,"Jan 21, 1994",32,1.8,Mozambique,Left-Back,Sunderland,,"Jul 8, 2025","Jun 30, 2027",GB1,25/26
+Lutsharel Geertruida,420210,€20.00m,"Jul 18, 2000",25,1.84,Netherlands,Right-Back,Sunderland,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Leon Bailey,387626,€16.00m,"Aug 9, 1997",28,1.78,Jamaica,Right Winger,Aston Villa,,"Aug 4, 2021","Jun 30, 2027",GB1,25/26
+Kobbie Mainoo,820374,€50.00m,"Apr 19, 2005",21,1.84,England,Central Midfield,Man Utd,,"Jan 1, 2023","Jun 30, 2031",GB1,25/26
+Rayan,1012564,€40.00m,"Aug 3, 2006",19,1.85,Brazil,Right Winger,Bournemouth,,"Jan 27, 2026","Jun 30, 2031",GB1,25/26
+Angel Gomes,392770,€12.00m,"Aug 31, 2000",25,1.68,England,Attacking Midfield,Wolves,,"Feb 2, 2026","Jun 30, 2026",GB1,25/26
+Ilia Gruev,381753,€12.00m,"May 6, 2000",26,1.85,Bulgaria,Defensive Midfield,Leeds,,"Aug 31, 2023","Jun 30, 2027",GB1,25/26
+Radu Drăgușin,568559,€20.00m,"Feb 3, 2002",24,1.91,Romania,Centre-Back,Tottenham,,"Jan 11, 2024","Jun 30, 2030",GB1,25/26
+Stefan Ortega,85941,€5.00m,"Nov 6, 1992",33,1.85,Germany,Goalkeeper,Nott'm Forest,,"Feb 1, 2026","Jun 30, 2026",GB1,25/26
+Jaka Bijol,371851,€18.00m,"Feb 5, 1999",27,1.9,Slovenia,Centre-Back,Leeds,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Omar Marmoush,445939,€60.00m,"Feb 7, 1999",27,1.83,Egypt,Centre-Forward,Man City,,"Jan 23, 2025","Jun 30, 2029",GB1,25/26
+Yankuba Minteh,1012534,€40.00m,"Jul 22, 2004",21,1.8,The Gambia,Right Winger,Brighton,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Nathan Fraser,863741,€600k,"Feb 22, 2005",21,1.88,Ireland,Centre-Forward,Wolves,,"Jan 1, 2024","Jun 30, 2028",GB1,25/26
+Ferdi Kadıoğlu,369316,€30.00m,"Oct 7, 1999",26,1.74,Türkiye,Left-Back,Brighton,,"Aug 24, 2024","Jun 30, 2028",GB1,25/26
+Daniel James,319301,€12.00m,"Nov 10, 1997",28,1.71,Wales,Right Winger,Leeds,,"Aug 31, 2021","Jun 30, 2029",GB1,25/26
+Timothy Castagne,262226,€10.00m,"Dec 5, 1995",30,1.85,Belgium,Right-Back,Fulham,,"Aug 29, 2023","Jun 30, 2027",GB1,25/26
+Sverre Nypan,911736,€15.00m,"Dec 19, 2006",19,1.82,Norway,Central Midfield,Man City,,"Jul 17, 2025","Jun 30, 2030",GB1,25/26
+Mats Wieffer,415381,€25.00m,"Nov 16, 1999",26,1.88,Netherlands,Right-Back,Brighton,,"Jul 5, 2024","Jun 30, 2029",GB1,25/26
+Eberechi Eze,479999,€60.00m,"Jun 29, 1998",27,1.78,England,Attacking Midfield,Arsenal,,"Aug 23, 2025","Jun 30, 2029",GB1,25/26
+Mats Wieffer,415381,€25.00m,"Nov 16, 1999",26,1.88,Netherlands,Right-Back,Brighton,,"Jul 5, 2024","Jun 30, 2029",GB1,25/26
+Nathan Patterson,424015,€10.00m,"Oct 16, 2001",24,1.89,Scotland,Right-Back,Everton,,"Jan 4, 2022","Jun 30, 2027",GB1,25/26
+Tyler Adams,332705,€25.00m,"Feb 14, 1999",27,1.75,United States,Defensive Midfield,Bournemouth,,"Aug 20, 2023","Jun 30, 2028",GB1,25/26
+John Stones,186590,€15.00m,"May 28, 1994",31,1.88,England,Centre-Back,Man City,,"Aug 9, 2016","Jun 30, 2026",GB1,25/26
+Rayan Aït-Nouri,578391,€40.00m,"Jun 6, 2001",24,1.8,Algeria,Left-Back,Man City,,"Jun 9, 2025","Jun 30, 2030",GB1,25/26
+Will Hughes,207014,€6.00m,"Apr 17, 1995",31,1.85,England,Central Midfield,Crystal Palace,,"Aug 28, 2021","Jun 30, 2027",GB1,25/26
+Justin Kluivert,330659,€30.00m,"May 5, 1999",27,1.72,Netherlands,Attacking Midfield,Bournemouth,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Dominic Solanke,258889,€35.00m,"Sep 14, 1997",28,1.86,England,Centre-Forward,Tottenham,,"Aug 10, 2024","Jun 30, 2030",GB1,25/26
+Issa Diop,272622,€10.00m,"Jan 9, 1997",29,1.94,Morocco,Centre-Back,Fulham,,"Aug 10, 2022","Jun 30, 2027",GB1,25/26
+Samuel Chukwueze,401922,€15.00m,"May 22, 1999",26,1.72,Nigeria,Right Winger,Fulham,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Josh Acheampong,1004708,€25.00m,"May 5, 2006",20,1.9,England,Right-Back,Chelsea,,"Dec 18, 2024","Jun 30, 2029",GB1,25/26
+Tyrone Mings,253677,€4.00m,"Mar 13, 1993",33,1.96,England,Centre-Back,Aston Villa,,"Jul 8, 2019","Jun 30, 2027",GB1,25/26
+Jordan Henderson,61651,€2.00m,"Jun 17, 1990",35,1.82,England,Defensive Midfield,Brentford,,"Jul 15, 2025","Jun 30, 2027",GB1,25/26
+Konstantinos Mavropanos,415912,€15.00m,"Dec 11, 1997",28,1.94,Greece,Centre-Back,West Ham,,"Aug 22, 2023","Jun 30, 2028",GB1,25/26
+Yves Bissouma,410425,€12.00m,"Aug 30, 1996",29,1.82,Mali,Defensive Midfield,Tottenham,,"Jul 1, 2022","Jun 30, 2026",GB1,25/26
+Wilson Odobert,743498,€20.00m,"Nov 28, 2004",21,1.82,France,Left Winger,Tottenham,,"Aug 16, 2024","Jun 30, 2029",GB1,25/26
+Benjamin Sesko,627442,€65.00m,"May 31, 2003",22,1.95,Slovenia,Centre-Forward,Man Utd,,"Aug 9, 2025","Jun 30, 2030",GB1,25/26
+Callum Wilson,123682,€5.00m,"Feb 27, 1992",34,1.8,England,Centre-Forward,West Ham,,"Aug 2, 2025","Jun 30, 2026",GB1,25/26
+Harry Maguire,177907,€10.00m,"Mar 5, 1993",33,1.94,England,Centre-Back,Man Utd,,"Aug 5, 2019","Jun 30, 2027",GB1,25/26
+Ian Maatsen,485585,€30.00m,"Mar 10, 2002",24,1.78,Netherlands,Left-Back,Aston Villa,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26
+Thierno Barry,937941,€30.00m,"Oct 21, 2002",23,1.95,France,Centre-Forward,Everton,,"Jul 9, 2025","Jun 30, 2029",GB1,25/26
+Wilson Odobert,743498,€20.00m,"Nov 28, 2004",21,1.82,France,Left Winger,Tottenham,,"Aug 16, 2024","Jun 30, 2029",GB1,25/26
+Jacob Ramsey,503749,€35.00m,"May 28, 2001",24,1.8,England,Central Midfield,Newcastle,,"Aug 17, 2025","Jun 30, 2030",GB1,25/26
+Gabriel Martinelli,655488,€45.00m,"Jun 18, 2001",24,1.78,Brazil,Left Winger,Arsenal,,"Jul 2, 2019","Jun 30, 2027",GB1,25/26
+Joël Veltman,111195,€2.50m,"Jan 15, 1992",34,1.84,Netherlands,Right-Back,Brighton,,"Jul 29, 2020","Jun 30, 2026",GB1,25/26
+Stefanos Tzimas,950091,€20.00m,"Jan 6, 2006",20,1.86,Greece,Centre-Forward,Brighton,,"Feb 3, 2025","Jun 30, 2030",GB1,25/26
+Ao Tanaka,489359,€10.00m,"Sep 10, 1998",27,1.8,Japan,Central Midfield,Leeds,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Sam Byram,236953,€600k,"Sep 16, 1993",32,1.83,England,Left-Back,Leeds,,"Aug 5, 2023","Jun 30, 2026",GB1,25/26
+Michael Kayode,823486,€35.00m,"Jul 10, 2004",21,1.79,Italy,Right-Back,Brentford,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Mike Tresor,381963,€3.00m,"May 28, 1999",26,1.72,Belgium,Attacking Midfield,Burnley,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Marc Cucurella,284857,€50.00m,"Jul 22, 1998",27,1.73,Spain,Left-Back,Chelsea,,"Aug 5, 2022","Jun 30, 2028",GB1,25/26
+Thierno Barry,937941,€30.00m,"Oct 21, 2002",23,1.95,France,Centre-Forward,Everton,,"Jul 9, 2025","Jun 30, 2029",GB1,25/26
+Mateus Fernandes,880245,€35.00m,"Jul 10, 2004",21,1.8,Portugal,Central Midfield,West Ham,,"Aug 29, 2025","Jun 30, 2030",GB1,25/26
+Tosin Adarabioyo,258878,€18.00m,"Sep 24, 1997",28,1.97,England,Centre-Back,Chelsea,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Morgan Gibbs-White,429014,€60.00m,"Jan 27, 2000",26,1.71,England,Attacking Midfield,Nott'm Forest,,"Aug 19, 2022","Jun 30, 2028",GB1,25/26
+Brandon Austin,428016,€500k,"Jan 8, 1999",27,1.88,England,Goalkeeper,Tottenham,,"Aug 1, 2021","Jun 30, 2029",GB1,25/26
+Max Alleyne,843595,€8.00m,"Jul 21, 2005",20,1.85,England,Centre-Back,Man City,,"Jan 6, 2026","Jun 30, 2030",GB1,25/26
+Adam Webster,212847,€5.00m,"Jan 4, 1995",31,1.9,England,Centre-Back,Brighton,,"Aug 3, 2019","Jun 30, 2026",GB1,25/26
+Florian Wirtz,598577,€110.00m,"May 3, 2003",23,1.77,Germany,Attacking Midfield,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Georginio Rutter,538977,€30.00m,"Apr 20, 2002",24,1.82,France,Centre-Forward,Brighton,,"Aug 19, 2024","Jun 30, 2028",GB1,25/26
+Jean-Clair Todibo,605184,€23.00m,"Dec 30, 1999",26,1.9,France,Centre-Back,West Ham,,"Jul 1, 2025",-,GB1,25/26
+Dennis Cirkin,568006,€8.00m,"Apr 6, 2002",24,1.82,Latvia,Left-Back,Sunderland,,"Aug 11, 2021","Jun 30, 2026",GB1,25/26
+Chris Rigg,947411,€25.00m,"Jun 18, 2007",18,1.77,England,Attacking Midfield,Sunderland,,"Jul 1, 2023","Jun 30, 2030",GB1,25/26
+Tino Livramento,503981,€40.00m,"Nov 12, 2002",23,1.82,England,Right-Back,Newcastle,,"Aug 8, 2023","Jun 30, 2028",GB1,25/26
+Daniel Muñoz,493003,€27.00m,"May 26, 1996",29,1.81,Colombia,Right-Back,Crystal Palace,,"Jan 30, 2024","Jun 30, 2028",GB1,25/26
+Kenny Tete,206746,€11.00m,"Oct 9, 1995",30,1.8,Netherlands,Right-Back,Fulham,,"Sep 10, 2020","Jun 30, 2028",GB1,25/26
+Lamare Bogarde,645686,€15.00m,"Jan 5, 2004",22,1.85,Netherlands,Defensive Midfield,Aston Villa,,"Jul 1, 2024",-,GB1,25/26
+Trevoh Chalobah,346314,€40.00m,"Jul 5, 1999",26,1.92,England,Centre-Back,Chelsea,,"Jul 1, 2021","Jun 30, 2028",GB1,25/26
+Jamie Gittens,670882,€35.00m,"Aug 8, 2004",21,1.78,England,Left Winger,Chelsea,,"Jul 5, 2025","Jun 30, 2032",GB1,25/26
+James Tarkowski,173504,€7.00m,"Nov 19, 1992",33,1.85,England,Centre-Back,Everton,,"Jul 2, 2022","Jun 30, 2028",GB1,25/26
+Rodrigo Muniz,735571,€25.00m,"May 4, 2001",25,1.86,Brazil,Centre-Forward,Fulham,,"Aug 20, 2021","Jun 30, 2030",GB1,25/26
+Mamadou Sarr,910905,€25.00m,"Aug 29, 2005",20,1.94,Senegal,Centre-Back,Chelsea,,"Jun 9, 2025","Jun 30, 2033",GB1,25/26
+Armando Broja,571743,€8.00m,"Sep 10, 2001",24,1.91,Albania,Centre-Forward,Burnley,,"Aug 8, 2025","Jun 30, 2030",GB1,25/26
+Trai Hume,515544,€22.00m,"Mar 18, 2002",24,1.8,Northern Ireland,Right-Back,Sunderland,,"Jan 4, 2022","Jun 30, 2030",GB1,25/26
+Harrison Jones,937840,€150k,"Dec 25, 2004",21,1.85,England,Attacking Midfield,Sunderland,,"Jul 1, 2025","Jun 30, 2026",GB1,25/26
+Mason Mount,346483,€30.00m,"Jan 10, 1999",27,1.81,England,Attacking Midfield,Man Utd,,"Jul 5, 2023","Jun 30, 2028",GB1,25/26
+Antonee Robinson,349701,€25.00m,"Aug 8, 1997",28,1.83,United States,Left-Back,Fulham,,"Aug 20, 2020","Jun 30, 2028",GB1,25/26
+Ellery Balcombe,456292,€400k,"Oct 15, 1999",26,1.9,England,Goalkeeper,Brentford,,"Jul 1, 2018","Jun 30, 2027",GB1,25/26
+Kristoffer Ajer,328658,€18.00m,"Apr 17, 1998",28,1.98,Norway,Centre-Back,Brentford,,"Jul 21, 2021","Jun 30, 2030",GB1,25/26
+Youri Tielemans,249565,€35.00m,"May 7, 1997",29,1.77,Belgium,Central Midfield,Aston Villa,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Yankuba Minteh,1012534,€40.00m,"Jul 22, 2004",21,1.8,The Gambia,Right Winger,Brighton,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Elliot Anderson,567576,€60.00m,"Nov 6, 2002",23,1.79,England,Central Midfield,Nott'm Forest,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Rúben Dias,258004,€60.00m,"May 14, 1997",29,1.87,Portugal,Centre-Back,Man City,,"Sep 29, 2020","Jun 30, 2029",GB1,25/26
+Sam Johnstone,110864,€3.00m,"Mar 25, 1993",33,1.93,England,Goalkeeper,Wolves,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Boubacar Kamara,394327,€40.00m,"Nov 23, 1999",26,1.84,France,Defensive Midfield,Aston Villa,,"Jul 1, 2022","Jun 30, 2030",GB1,25/26
+Jarrod Bowen,314875,€35.00m,"Dec 20, 1996",29,1.76,England,Right Winger,West Ham,,"Jan 31, 2020","Jun 30, 2030",GB1,25/26
+Gianluigi Donnarumma,315858,€45.00m,"Feb 25, 1999",27,1.96,Italy,Goalkeeper,Man City,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Carlos Baleba,973085,€55.00m,"Jan 3, 2004",22,1.79,Cameroon,Defensive Midfield,Brighton,,"Aug 29, 2023","Jun 30, 2028",GB1,25/26
+Séamus Coleman,68390,€300k,"Oct 11, 1988",37,1.77,Ireland,Right-Back,Everton,,"Jan 1, 2009","Jun 30, 2026",GB1,25/26
+Joachim Andersen,260827,€25.00m,"May 31, 1996",29,1.92,Denmark,Centre-Back,Fulham,,"Aug 23, 2024","Jun 30, 2029",GB1,25/26
+Marcus Edwards,314367,€8.00m,"Dec 3, 1998",27,1.68,England,Right Winger,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+James Justin,413220,€12.00m,"Feb 23, 1998",28,1.83,England,Right-Back,Leeds,,"Aug 25, 2025","Jun 30, 2029",GB1,25/26
+Mathys Tel,801734,€25.00m,"Apr 27, 2005",21,1.83,France,Centre-Forward,Tottenham,,"Jul 1, 2025","Jun 30, 2031",GB1,25/26
+Caoimhín Kelleher,340918,€25.00m,"Nov 23, 1998",27,1.88,Ireland,Goalkeeper,Brentford,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+James Hillson,503765,,"Jan 14, 2001",25,1.87,England,Goalkeeper,Chelsea,,"Feb 26, 2026",-,GB1,25/26
+Chadi Riad,689637,€12.00m,"Jun 17, 2003",22,1.87,Morocco,Centre-Back,Crystal Palace,,"Jul 2, 2024","Jun 30, 2029",GB1,25/26
+Nico González,466805,€45.00m,"Jan 3, 2002",24,1.88,Spain,Defensive Midfield,Man City,,"Feb 3, 2025","Jun 30, 2029",GB1,25/26
+Martin Dúbravka,74960,€750k,"Jan 15, 1989",37,1.91,Slovakia,Goalkeeper,Burnley,,"Aug 7, 2025","Jun 30, 2026",GB1,25/26
+Ibrahima Konaté,357119,€50.00m,"May 25, 1999",26,1.94,France,Centre-Back,Liverpool,,"Jul 1, 2021","Jun 30, 2026",GB1,25/26
+Jurriën Timber,420243,€70.00m,"Jun 17, 2001",24,1.79,Netherlands,Right-Back,Arsenal,,"Jul 14, 2023","Jun 30, 2028",GB1,25/26
+Matz Sels,127202,€4.00m,"Feb 26, 1992",34,1.88,Belgium,Goalkeeper,Nott'm Forest,,"Feb 1, 2024","Jun 30, 2027",GB1,25/26
+Vitaliy Mykolenko,404842,€25.00m,"May 29, 1999",26,1.8,Ukraine,Left-Back,Everton,,"Jan 1, 2022","Jun 30, 2027",GB1,25/26
+João Gomes,735570,€35.00m,"Feb 12, 2001",25,1.76,Brazil,Central Midfield,Wolves,,"Jan 30, 2023","Jun 30, 2030",GB1,25/26
+Benjamin Lecomte,127181,€1.20m,"Apr 26, 1991",35,1.86,France,Goalkeeper,Fulham,,"Jul 26, 2025","Jun 30, 2027",GB1,25/26
+Sven Botman,361093,€35.00m,"Jan 12, 2000",26,1.93,Netherlands,Centre-Back,Newcastle,,"Jul 1, 2022","Jun 30, 2030",GB1,25/26
+Djordje Petrovic,465555,€28.00m,"Oct 8, 1999",26,1.94,Serbia,Goalkeeper,Bournemouth,,"Jul 16, 2025","Jun 30, 2030",GB1,25/26
+Youri Tielemans,249565,€35.00m,"May 7, 1997",29,1.77,Belgium,Central Midfield,Aston Villa,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Nathan Aké,177476,€15.00m,"Feb 18, 1995",31,1.8,Netherlands,Centre-Back,Man City,,"Aug 5, 2020","Jun 30, 2027",GB1,25/26
+Taiwo Awoniyi,295313,€9.00m,"Aug 12, 1997",28,1.83,Nigeria,Centre-Forward,Nott'm Forest,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Dejan Kulusevski,431755,€35.00m,"Apr 25, 2000",26,1.86,Sweden,Attacking Midfield,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Rio Cardines,1047257,€300k,"Jul 1, 2006",19,1.75,Trinidad and Tobago,Left-Back,Crystal Palace,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Patrick Dorgu,926952,€35.00m,"Oct 26, 2004",21,1.85,Denmark,Left-Back,Man Utd,,"Feb 2, 2025","Jun 30, 2030",GB1,25/26
+Melker Ellborg,605426,€3.00m,"May 22, 2003",22,1.91,Sweden,Goalkeeper,Sunderland,,"Feb 1, 2026","Jun 30, 2030",GB1,25/26
+Viktor Gyökeres,325443,€65.00m,"Jun 4, 1998",27,1.89,Sweden,Centre-Forward,Arsenal,,"Jul 26, 2025","Jun 30, 2030",GB1,25/26
+Giovanni Leoni,1086619,€25.00m,"Dec 21, 2006",19,1.96,Italy,Centre-Back,Liverpool,,"Aug 15, 2025","Jun 30, 2031",GB1,25/26
+Mikel Merino,338424,€30.00m,"Jun 22, 1996",29,1.89,Spain,Central Midfield,Arsenal,,"Aug 27, 2024","Jun 30, 2028",GB1,25/26
+Bart Verbruggen,565093,€40.00m,"Aug 18, 2002",23,1.94,Netherlands,Goalkeeper,Brighton,,"Jul 3, 2023","Jun 30, 2028",GB1,25/26
+Maximilian Kilman,525247,€16.00m,"May 23, 1997",28,1.94,England,Centre-Back,West Ham,,"Jul 6, 2024","Jun 30, 2031",GB1,25/26
+João Palhinha,257455,€18.00m,"Jul 9, 1995",30,1.9,Portugal,Defensive Midfield,Tottenham,,"Aug 3, 2025","Jun 30, 2026",GB1,25/26
+Keane Lewis-Potter,644401,€25.00m,"Feb 22, 2001",25,1.7,England,Left Midfield,Brentford,,"Jul 12, 2022","Jun 30, 2031",GB1,25/26
+Tijjani Reijnders,460939,€60.00m,"Jul 29, 1998",27,1.85,Netherlands,Central Midfield,Man City,,"Jun 10, 2025","Jun 30, 2030",GB1,25/26
+James Milner,3333,€750k,"Jan 4, 1986",40,1.75,England,Central Midfield,Brighton,,"Jul 1, 2023","Jun 30, 2026",GB1,25/26
+Oliver Scarles,922563,€10.00m,"Dec 12, 2005",20,1.8,England,Left-Back,West Ham,,"Jan 1, 2025","Jun 30, 2028",GB1,25/26
+Mohamadou Kanté,1081995,€300k,"Sep 20, 2005",20,1.89,France,Defensive Midfield,West Ham,,"Oct 27, 2025","Jun 30, 2031",GB1,25/26
+Rodri,357565,€65.00m,"Jun 22, 1996",29,1.91,Spain,Defensive Midfield,Man City,,"Jul 4, 2019","Jun 30, 2027",GB1,25/26
+Guglielmo Vicario,286047,€23.00m,"Oct 7, 1996",29,1.94,Italy,Goalkeeper,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Lamare Bogarde,645686,€15.00m,"Jan 5, 2004",22,1.85,Netherlands,Defensive Midfield,Aston Villa,,"Jul 1, 2024",-,GB1,25/26
+Igor Thiago,739443,€50.00m,"Jun 26, 2001",24,1.91,Brazil,Centre-Forward,Brentford,,"Jul 1, 2024","Jun 30, 2031",GB1,25/26
+Wilson Isidor,494237,€18.00m,"Aug 27, 2000",25,1.86,Haiti,Centre-Forward,Sunderland,,"Feb 1, 2025","Jun 30, 2028",GB1,25/26
+Gabriel Slonina,656316,€3.50m,"May 15, 2004",22,1.93,United States,Goalkeeper,Chelsea,,"Aug 2, 2022","Jun 30, 2028",GB1,25/26
+Taiwo Awoniyi,295313,€9.00m,"Aug 12, 1997",28,1.83,Nigeria,Centre-Forward,Nott'm Forest,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Kaden Rodney,860078,€200k,"Oct 7, 2004",21,1.89,England,Defensive Midfield,Crystal Palace,,"Jan 1, 2026","Jun 30, 2026",GB1,25/26
+Nicolás Domínguez,497291,€16.00m,"Jun 28, 1998",27,1.79,Argentina,Central Midfield,Nott'm Forest,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Jason Steele,73564,€750k,"Aug 18, 1990",35,1.88,England,Goalkeeper,Brighton,,"Jul 1, 2018","Jun 30, 2027",GB1,25/26
+Destiny Udogie,556385,€35.00m,"Nov 28, 2002",23,1.88,Italy,Left-Back,Tottenham,,"Aug 16, 2022","Jun 30, 2030",GB1,25/26
+Tyler Dibling,866655,€22.00m,"Feb 17, 2006",20,1.78,England,Right Winger,Everton,,"Aug 25, 2025","Jun 30, 2029",GB1,25/26
+Chris Rigg,947411,€25.00m,"Jun 18, 2007",18,1.77,England,Attacking Midfield,Sunderland,,"Jul 1, 2023","Jun 30, 2030",GB1,25/26
+Mateus Mané,1230661,€20.00m,"Sep 16, 2007",18,1.75,Portugal,Attacking Midfield,Wolves,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Ashley Barnes,63200,€200k,"Oct 30, 1989",36,1.85,England,Centre-Forward,Burnley,,"Jan 2, 2025","Jun 30, 2026",GB1,25/26
+Fabian Schär,135343,€6.00m,"Dec 20, 1991",34,1.86,Switzerland,Centre-Back,Newcastle,,"Jul 26, 2018","Jun 30, 2026",GB1,25/26
+Roméo Lavia,628451,€25.00m,"Jan 6, 2004",22,1.81,Belgium,Defensive Midfield,Chelsea,,"Aug 18, 2023","Jun 30, 2030",GB1,25/26
+Rayan Cherki,607223,€65.00m,"Aug 17, 2003",22,1.77,France,Attacking Midfield,Man City,,"Jun 10, 2025","Jun 30, 2030",GB1,25/26
+Mikel Merino,338424,€30.00m,"Jun 22, 1996",29,1.89,Spain,Central Midfield,Arsenal,,"Aug 27, 2024","Jun 30, 2028",GB1,25/26
+Rhys Williams,503679,€500k,"Feb 3, 2001",25,1.95,England,Centre-Back,Liverpool,,"Jul 1, 2020","Jun 30, 2026",GB1,25/26
+Tyrell Malacia,339340,€5.00m,"Aug 17, 1999",26,1.69,Netherlands,Left-Back,Man Utd,,"Jul 5, 2022","Jun 30, 2026",GB1,25/26
+Anthony Elanga,583189,€40.00m,"Apr 27, 2002",24,1.78,Sweden,Right Winger,Newcastle,,"Jul 11, 2025","Jun 30, 2030",GB1,25/26
+Trai Hume,515544,€22.00m,"Mar 18, 2002",24,1.8,Northern Ireland,Right-Back,Sunderland,,"Jan 4, 2022","Jun 30, 2030",GB1,25/26
+Reinildo Mandava,240692,€5.00m,"Jan 21, 1994",32,1.8,Mozambique,Left-Back,Sunderland,,"Jul 8, 2025","Jun 30, 2027",GB1,25/26
+Florentino,357162,€20.00m,"Aug 19, 1999",26,1.84,Portugal,Defensive Midfield,Burnley,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Luke Shaw,183288,€10.00m,"Jul 12, 1995",30,1.78,England,Left-Back,Man Utd,,"Jul 1, 2014","Jun 30, 2027",GB1,25/26
+Anthony Elanga,583189,€40.00m,"Apr 27, 2002",24,1.78,Sweden,Right Winger,Newcastle,,"Jul 11, 2025","Jun 30, 2030",GB1,25/26
+Amine Adli,532776,€20.00m,"May 10, 2000",26,1.8,Morocco,Left Winger,Bournemouth,,"Aug 21, 2025","Jun 30, 2030",GB1,25/26
+Dango Ouattara,823231,€35.00m,"Feb 11, 2002",24,1.77,Burkina Faso,Right Winger,Brentford,,"Aug 16, 2025","Jun 30, 2030",GB1,25/26
+Ibrahim Sangaré,375885,€22.00m,"Dec 2, 1997",28,1.91,Cote d'Ivoire,Defensive Midfield,Nott'm Forest,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Maxence Lacroix,434224,€40.00m,"Apr 6, 2000",26,1.9,France,Centre-Back,Crystal Palace,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Toti,606718,€20.00m,"Jan 16, 1999",27,1.87,Portugal,Centre-Back,Wolves,,"Sep 2, 2020","Jun 30, 2029",GB1,25/26
+Alexander Isak,349066,€100.00m,"Sep 21, 1999",26,1.92,Sweden,Centre-Forward,Liverpool,,"Sep 1, 2025","Jun 30, 2031",GB1,25/26
+Emile Smith Rowe,392765,€22.00m,"Jul 28, 2000",25,1.82,England,Attacking Midfield,Fulham,,"Aug 2, 2024","Jun 30, 2029",GB1,25/26
+Noah Sadiki,727089,€30.00m,"Dec 17, 2004",21,1.73,DR Congo,Central Midfield,Sunderland,,"Jul 4, 2025","Jun 30, 2030",GB1,25/26
+Trey Nyoni,1045123,€6.00m,"Jun 30, 2007",18,1.8,England,Central Midfield,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Teddy Sharman-Lowe,731466,€550k,"Mar 30, 2003",23,1.89,England,Goalkeeper,Chelsea,,"Jan 19, 2026","Jun 30, 2028",GB1,25/26
+Lukasz Fabianski,29692,€250k,"Apr 18, 1985",41,1.9,Poland,Goalkeeper,West Ham,,"Sep 10, 2025","Jun 30, 2026",GB1,25/26
+Harvey Elliott,565822,€22.00m,"Apr 4, 2003",23,1.7,England,Attacking Midfield,Aston Villa,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Nordi Mukiele,348026,€18.00m,"Nov 1, 1997",28,1.87,France,Right-Back,Sunderland,,"Aug 17, 2025","Jun 30, 2029",GB1,25/26
+Marcus Bettinelli,116648,€500k,"May 24, 1992",33,1.93,England,Goalkeeper,Man City,,"Jun 10, 2025","Jun 30, 2027",GB1,25/26
+Ben Gannon-Doak,719673,€16.00m,"Nov 11, 2005",20,1.76,Scotland,Right Winger,Bournemouth,,"Aug 18, 2025","Jun 30, 2030",GB1,25/26
+Gabriel Gudmundsson,362108,€20.00m,"Apr 29, 1999",27,1.8,Sweden,Left-Back,Leeds,,"Jul 8, 2025","Jun 30, 2029",GB1,25/26
+Veljko Milosavljevic,989112,€20.00m,"Jun 28, 2007",18,1.92,Serbia,Centre-Back,Bournemouth,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Adam Smith,61841,€500k,"Apr 29, 1991",35,1.74,England,Right-Back,Bournemouth,,"Jan 28, 2014","Jun 30, 2027",GB1,25/26
+Ezra Mayers,1107726,€1.20m,"Jan 16, 2007",19,1.83,England,Centre-Back,West Ham U21,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Carlos Alcaraz,748319,€15.00m,"Nov 30, 2002",23,1.76,Argentina,Central Midfield,Everton,,"Jul 1, 2025","Jun 30, 2027",GB1,25/26
+Emiliano Buendía,321247,€18.00m,"Dec 25, 1996",29,1.72,Argentina,Attacking Midfield,Aston Villa,,"Jul 1, 2021","Jun 30, 2027",GB1,25/26
+Mohamed Salah,148455,€30.00m,"Jun 15, 1992",33,1.75,Egypt,Right Winger,Liverpool,,"Jul 1, 2017","Jun 30, 2027",GB1,25/26
+Alex Iwobi,242631,€25.00m,"May 3, 1996",30,1.83,Nigeria,Left Winger,Fulham,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Cheick Doucouré,543387,€13.00m,"Jan 8, 2000",26,1.8,Mali,Defensive Midfield,Crystal Palace,,"Jul 11, 2022","Jun 30, 2029",GB1,25/26
+Harrison Armstrong,1107733,€12.00m,"Jan 19, 2007",19,1.85,England,Central Midfield,Everton,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Rico Lewis,701057,€32.00m,"Nov 21, 2004",21,1.7,England,Right-Back,Man City,,"Jul 1, 2022","Jun 30, 2030",GB1,25/26
+Leandro Trossard,144028,€20.00m,"Dec 4, 1994",31,1.72,Belgium,Left Winger,Arsenal,,"Jan 20, 2023","Jun 30, 2027",GB1,25/26
+Karl Darlow,99397,€200k,"Oct 8, 1990",35,1.9,Wales,Goalkeeper,Leeds,,"Jul 29, 2023","Jun 30, 2026",GB1,25/26
+Joe Rodon,297212,€15.00m,"Oct 22, 1997",28,1.93,Wales,Centre-Back,Leeds,,"Jul 2, 2024","Jun 30, 2028",GB1,25/26
+Luca Netz,524285,€6.00m,"May 15, 2003",23,1.84,Germany,Left-Back,Nott'm Forest,,"Feb 2, 2026","Jun 30, 2030",GB1,25/26
+Tosin Adarabioyo,258878,€18.00m,"Sep 24, 1997",28,1.97,England,Centre-Back,Chelsea,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Stefan Ortega,85941,€5.00m,"Nov 6, 1992",33,1.85,Germany,Goalkeeper,Nott'm Forest,,"Feb 1, 2026","Jun 30, 2026",GB1,25/26
+Kieran Trippier,95810,€2.50m,"Sep 19, 1990",35,1.73,England,Right-Back,Newcastle,,"Jan 7, 2022","Jun 30, 2026",GB1,25/26
+Abdoullah Ba,654412,€2.00m,"Jul 31, 2003",22,1.8,France,Right Midfield,Sunderland,,"Aug 31, 2022","Jun 30, 2027",GB1,25/26
+Jacob Bruun Larsen,293281,€5.00m,"Sep 19, 1998",27,1.83,Denmark,Left Winger,Burnley,,"Jul 11, 2025","Jun 30, 2029",GB1,25/26
+Alex Murphy,900601,€1.50m,"Jun 25, 2004",21,1.88,Ireland,Left-Back,Newcastle,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Conor Gallagher,488362,€35.00m,"Feb 6, 2000",26,1.82,England,Central Midfield,Tottenham,,"Jan 14, 2026","Jun 30, 2031",GB1,25/26
+Álex Jiménez,741257,€22.00m,"May 8, 2005",21,1.77,Spain,Right-Back,Bournemouth,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Bertrand Traoré,131996,€5.00m,"Sep 6, 1995",30,1.81,Burkina Faso,Right Winger,Sunderland,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Leny Yoro,923831,€50.00m,"Nov 13, 2005",20,1.9,France,Centre-Back,Man Utd,,"Jul 18, 2024","Jun 30, 2029",GB1,25/26
+Kiernan Dewsbury-Hall,475188,€32.00m,"Sep 6, 1998",27,1.76,England,Central Midfield,Everton,,"Aug 6, 2025","Jun 30, 2030",GB1,25/26
+Dwight McNeil,584769,€20.00m,"Nov 22, 1999",26,1.83,England,Left Winger,Everton,,"Jul 28, 2022","Jun 30, 2027",GB1,25/26
+Savinho,743591,€40.00m,"Apr 10, 2004",22,1.76,Brazil,Left Winger,Man City,,"Jul 18, 2024","Jun 30, 2031",GB1,25/26
+Ao Tanaka,489359,€10.00m,"Sep 10, 1998",27,1.8,Japan,Central Midfield,Leeds,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Jack Hinshelwood,867688,€22.00m,"Apr 11, 2005",21,1.82,England,Defensive Midfield,Brighton,,"Jul 1, 2023","Jun 30, 2029",GB1,25/26
+Lewis Dunk,148153,€4.00m,"Nov 21, 1991",34,1.92,England,Centre-Back,Brighton,,"Jul 1, 2010","Jun 30, 2027",GB1,25/26
+Omar Alderete,353032,€15.00m,"Dec 26, 1996",29,1.88,Paraguay,Centre-Back,Sunderland,,"Aug 12, 2025","Jun 30, 2029",GB1,25/26
+Cristian Romero,355915,€50.00m,"Apr 27, 1998",28,1.85,Argentina,Centre-Back,Tottenham,,"Aug 30, 2022","Jun 30, 2029",GB1,25/26
+Ellery Balcombe,456292,€400k,"Oct 15, 1999",26,1.9,England,Goalkeeper,Brentford,,"Jul 1, 2018","Jun 30, 2027",GB1,25/26
+David Brooks,277033,€14.00m,"Jul 8, 1997",28,1.73,Wales,Right Winger,Bournemouth,,"Jul 1, 2018","Jun 30, 2029",GB1,25/26
+Evann Guessand,500689,€28.00m,"Jul 1, 2001",24,1.88,Cote d'Ivoire,Right Winger,Crystal Palace,,"Jan 30, 2026","Jun 30, 2026",GB1,25/26
+Ola Aina,236490,€20.00m,"Oct 8, 1996",29,1.84,Nigeria,Right-Back,Nott'm Forest,,"Jul 22, 2023","Jun 30, 2028",GB1,25/26
+Pedro Neto,487465,€60.00m,"Mar 9, 2000",26,1.74,Portugal,Right Winger,Chelsea,,"Aug 11, 2024","Jun 30, 2031",GB1,25/26
+Kai Havertz,309400,€50.00m,"Jun 11, 1999",26,1.93,Germany,Centre-Forward,Arsenal,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Kevin Danso,263236,€20.00m,"Sep 19, 1998",27,1.9,Austria,Centre-Back,Tottenham,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Elliot Anderson,567576,€60.00m,"Nov 6, 2002",23,1.79,England,Central Midfield,Nott'm Forest,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Gianluigi Donnarumma,315858,€45.00m,"Feb 25, 1999",27,1.96,Italy,Goalkeeper,Man City,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Tyler Dibling,866655,€22.00m,"Feb 17, 2006",20,1.78,England,Right Winger,Everton,,"Aug 25, 2025","Jun 30, 2029",GB1,25/26
+Bashir Humphreys,612517,€15.00m,"Mar 15, 2003",23,1.86,England,Centre-Back,Burnley,,"Jul 1, 2025",-,GB1,25/26
+Igor Julio,380350,€12.00m,"Feb 7, 1998",28,1.88,Brazil,Centre-Back,Brighton,,"Jul 26, 2023","Jun 30, 2027",GB1,25/26
+Erling Haaland,418560,€200.00m,"Jul 21, 2000",25,1.95,Norway,Centre-Forward,Man City,,"Jul 1, 2022","Jun 30, 2034",GB1,25/26
+Evanilson,711337,€35.00m,"Oct 6, 1999",26,1.83,Brazil,Centre-Forward,Bournemouth,,"Aug 16, 2024","Jun 30, 2029",GB1,25/26
+Noah Sadiki,727089,€30.00m,"Dec 17, 2004",21,1.73,DR Congo,Central Midfield,Sunderland,,"Jul 4, 2025","Jun 30, 2030",GB1,25/26
+Lukasz Fabianski,29692,€250k,"Apr 18, 1985",41,1.9,Poland,Goalkeeper,West Ham,,"Sep 10, 2025","Jun 30, 2026",GB1,25/26
+Romaine Mundle,696181,€8.00m,"Apr 24, 2003",23,1.72,England,Left Winger,Sunderland,,"Feb 1, 2024","Jun 30, 2028",GB1,25/26
+Evann Guessand,500689,€28.00m,"Jul 1, 2001",24,1.88,Cote d'Ivoire,Right Winger,Crystal Palace,,"Jan 30, 2026","Jun 30, 2026",GB1,25/26
+Marcus Tavernier,399434,€23.00m,"Mar 22, 1999",27,1.78,England,Attacking Midfield,Bournemouth,,"Aug 1, 2022","Jun 30, 2029",GB1,25/26
+Enzo Le Fée,633992,€25.00m,"Feb 3, 2000",26,1.73,France,Central Midfield,Sunderland,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Pablo,817665,€18.00m,"Jan 2, 2004",22,1.84,Brazil,Centre-Forward,West Ham,,"Jan 2, 2026","Jun 30, 2030",GB1,25/26
+Lyle Foster,467623,€10.00m,"Sep 3, 2000",25,1.85,South Africa,Centre-Forward,Burnley,,"Jan 25, 2023","Jun 30, 2028",GB1,25/26
+Josh King,1011131,€20.00m,"Jan 3, 2007",19,1.73,England,Attacking Midfield,Fulham,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Nathan Collins,469050,€30.00m,"Apr 30, 2001",25,1.93,Ireland,Centre-Back,Brentford,,"Jul 4, 2023","Jun 30, 2029",GB1,25/26
+Granit Xhaka,111455,€10.00m,"Sep 27, 1992",33,1.86,Switzerland,Defensive Midfield,Sunderland,,"Jul 30, 2025","Jun 30, 2028",GB1,25/26
+Antonee Robinson,349701,€25.00m,"Aug 8, 1997",28,1.83,United States,Left-Back,Fulham,,"Aug 20, 2020","Jun 30, 2028",GB1,25/26
+Hjalmar Ekdal,392179,€6.00m,"Oct 21, 1998",27,1.87,Sweden,Centre-Back,Burnley,,"Jan 21, 2023","Jun 30, 2027",GB1,25/26
+Rodrigo Bentancur,354362,€22.00m,"Jun 25, 1997",28,1.87,Uruguay,Defensive Midfield,Tottenham,,"Jan 31, 2022",-,GB1,25/26
+Milos Kerkez,730861,€40.00m,"Nov 7, 2003",22,1.8,Hungary,Left-Back,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Kevin Schade,473050,€35.00m,"Nov 27, 2001",24,1.85,Germany,Left Winger,Brentford,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Bernd Leno,72476,€8.00m,"Mar 4, 1992",34,1.9,Germany,Goalkeeper,Fulham,,"Aug 2, 2022","Jun 30, 2027",GB1,25/26
+James Trafford,566799,€25.00m,"Oct 10, 2002",23,1.92,England,Goalkeeper,Man City,,"Jul 29, 2025","Jun 30, 2030",GB1,25/26
+Jean-Ricner Bellegarde,450050,€16.00m,"Jun 27, 1998",27,1.72,Haiti,Central Midfield,Wolves,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Robin Roefs,646991,€25.00m,"Jan 17, 2003",23,1.93,Netherlands,Goalkeeper,Sunderland,,"Aug 1, 2025","Jun 30, 2030",GB1,25/26
+Morgan Gibbs-White,429014,€60.00m,"Jan 27, 2000",26,1.71,England,Attacking Midfield,Nott'm Forest,,"Aug 19, 2022","Jun 30, 2028",GB1,25/26
+Mason Mount,346483,€30.00m,"Jan 10, 1999",27,1.81,England,Attacking Midfield,Man Utd,,"Jul 5, 2023","Jun 30, 2028",GB1,25/26
+Harvey Barnes,398065,€32.00m,"Dec 9, 1997",28,1.82,England,Left Winger,Newcastle,,"Jul 23, 2023","Jun 30, 2028",GB1,25/26
+Bukayo Saka,433177,€120.00m,"Sep 5, 2001",24,1.78,England,Right Winger,Arsenal,,"Jul 1, 2019","Jun 30, 2030",GB1,25/26
+Dennis Cirkin,568006,€8.00m,"Apr 6, 2002",24,1.82,Latvia,Left-Back,Sunderland,,"Aug 11, 2021","Jun 30, 2026",GB1,25/26
+Idrissa Gueye,126665,€1.00m,"Sep 26, 1989",36,1.74,Senegal,Defensive Midfield,Everton,,"Sep 1, 2022","Jun 30, 2026",GB1,25/26
+Erling Haaland,418560,€200.00m,"Jul 21, 2000",25,1.95,Norway,Centre-Forward,Man City,,"Jul 1, 2022","Jun 30, 2034",GB1,25/26
+Leon Bailey,387626,€16.00m,"Aug 9, 1997",28,1.78,Jamaica,Right Winger,Aston Villa,,"Aug 4, 2021","Jun 30, 2027",GB1,25/26
+Dango Ouattara,823231,€35.00m,"Feb 11, 2002",24,1.77,Burkina Faso,Right Winger,Brentford,,"Aug 16, 2025","Jun 30, 2030",GB1,25/26
+Kristoffer Ajer,328658,€18.00m,"Apr 17, 1998",28,1.98,Norway,Centre-Back,Brentford,,"Jul 21, 2021","Jun 30, 2030",GB1,25/26
+Altay Bayındır,336077,€7.00m,"Apr 14, 1998",28,1.98,Türkiye,Goalkeeper,Man Utd,,"Sep 1, 2023","Jun 30, 2027",GB1,25/26
+Bafodé Diakité,463605,€30.00m,"Jan 6, 2001",25,1.84,France,Centre-Back,Bournemouth,,"Aug 13, 2025","Jun 30, 2030",GB1,25/26
+Julio Soler,1009658,€8.00m,"Feb 16, 2005",21,1.75,Argentina,Left-Back,Bournemouth,,"Jan 7, 2025","Jun 30, 2029",GB1,25/26
+Matt O'Riley,406634,€20.00m,"Nov 21, 2000",25,1.89,Denmark,Central Midfield,Brighton,,"Aug 26, 2024","Jun 30, 2029",GB1,25/26
+Kaoru Mitoma,504849,€25.00m,"May 20, 1997",28,1.78,Japan,Left Winger,Brighton,,"Aug 10, 2021","Jun 30, 2027",GB1,25/26
+Daniel Bentley,136401,€1.00m,"Jul 13, 1993",32,1.93,England,Goalkeeper,Wolves,,"Jan 25, 2023","Jun 30, 2027",GB1,25/26
+Álex Jiménez,741257,€22.00m,"May 8, 2005",21,1.77,Spain,Right-Back,Bournemouth,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Calvin Bassey,461883,€28.00m,"Dec 31, 1999",26,1.85,Nigeria,Centre-Back,Fulham,,"Jul 28, 2023","Jun 30, 2027",GB1,25/26
+Maxime Estève,842341,€25.00m,"May 26, 2002",23,1.93,France,Centre-Back,Burnley,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26
+Dilane Bakwa,540664,€28.00m,"Aug 26, 2002",23,1.8,France,Right Winger,Nott'm Forest,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Maxim De Cuyper,429915,€22.00m,"Dec 22, 2000",25,1.82,Belgium,Left-Back,Brighton,,"Jul 5, 2025","Jun 30, 2030",GB1,25/26
+Emil Krafth,184528,€1.00m,"Aug 2, 1994",31,1.84,Sweden,Right-Back,Newcastle,,"Aug 8, 2019","Jun 30, 2026",GB1,25/26
+Charlie Crew,883539,€150k,"Jun 15, 2006",19,1.85,Wales,Defensive Midfield,Leeds,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Benoît Badiashile,463603,€18.00m,"Mar 26, 2001",25,1.94,France,Centre-Back,Chelsea,,"Jan 5, 2023","Jun 30, 2030",GB1,25/26
+Mathias Jensen,319859,€12.00m,"Jan 1, 1996",30,1.8,Denmark,Central Midfield,Brentford,,"Jul 10, 2019","Jun 30, 2026",GB1,25/26
+Romelle Donovan,1091562,€3.50m,"Nov 30, 2006",19,1.71,England,Right Winger,Brentford,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Fraser Forster,52570,€600k,"Mar 17, 1988",38,2.01,England,Goalkeeper,Bournemouth,,"Jan 2, 2026","Jun 30, 2026",GB1,25/26
+James Trafford,566799,€25.00m,"Oct 10, 2002",23,1.92,England,Goalkeeper,Man City,,"Jul 29, 2025","Jun 30, 2030",GB1,25/26
+Marcus Tavernier,399434,€23.00m,"Mar 22, 1999",27,1.78,England,Attacking Midfield,Bournemouth,,"Aug 1, 2022","Jun 30, 2029",GB1,25/26
+Lutsharel Geertruida,420210,€20.00m,"Jul 18, 2000",25,1.84,Netherlands,Right-Back,Sunderland,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Tijjani Reijnders,460939,€60.00m,"Jul 29, 1998",27,1.85,Netherlands,Central Midfield,Man City,,"Jun 10, 2025","Jun 30, 2030",GB1,25/26
+Harrison Jones,937840,€150k,"Dec 25, 2004",21,1.85,England,Attacking Midfield,Sunderland,,"Jul 1, 2025","Jun 30, 2026",GB1,25/26
+Ahmed Abdullahi,1015619,€1.00m,"Jun 19, 2004",21,,Nigeria,Centre-Forward,Sunderland,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Kevin Schade,473050,€35.00m,"Nov 27, 2001",24,1.85,Germany,Left Winger,Brentford,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Tom King,215810,€150k,"Mar 9, 1995",31,1.94,Wales,Goalkeeper,Everton,,"Aug 15, 2025","Jun 30, 2027",GB1,25/26
+Jørgen Strand Larsen,429983,€45.00m,"Feb 6, 2000",26,1.93,Norway,Centre-Forward,Crystal Palace,,"Feb 2, 2026","Jun 30, 2030",GB1,25/26
+Issa Diop,272622,€10.00m,"Jan 9, 1997",29,1.94,Morocco,Centre-Back,Fulham,,"Aug 10, 2022","Jun 30, 2027",GB1,25/26
+Dan Ballard,503686,€20.00m,"Sep 22, 1999",26,1.87,Northern Ireland,Centre-Back,Sunderland,,"Jul 1, 2022","Jun 30, 2029",GB1,25/26
+Sandro Tonali,397033,€80.00m,"May 8, 2000",26,1.81,Italy,Defensive Midfield,Newcastle,,"Jul 3, 2023","Jun 30, 2028",GB1,25/26
+Tyrick Mitchell,730893,€25.00m,"Sep 1, 1999",26,1.81,England,Left-Back,Crystal Palace,,"Jul 1, 2020","Jun 30, 2027",GB1,25/26
+Yerson Mosquera,716276,€12.00m,"May 2, 2001",25,1.88,Colombia,Centre-Back,Wolves,,"Jul 1, 2021","Jun 30, 2030",GB1,25/26
+Axel Tuanzebe,342046,€5.00m,"Nov 14, 1997",28,1.85,DR Congo,Centre-Back,Burnley,,"Jul 1, 2025",-,GB1,25/26
+Michael Keane,118534,€4.00m,"Jan 11, 1993",33,1.88,England,Centre-Back,Everton,,"Jul 3, 2017","Jun 30, 2027",GB1,25/26
+Josh Acheampong,1004708,€25.00m,"May 5, 2006",20,1.9,England,Right-Back,Chelsea,,"Dec 18, 2024","Jun 30, 2029",GB1,25/26
+Dan Ndoye,365108,€35.00m,"Oct 25, 2000",25,1.84,Switzerland,Right Winger,Nott'm Forest,,"Jul 31, 2025","Jun 30, 2030",GB1,25/26
+James Hill,611793,€15.00m,"Jan 10, 2002",24,1.84,England,Centre-Back,Bournemouth,,"Jan 5, 2022","Jun 30, 2029",GB1,25/26
+Yegor Yarmolyuk,717411,€30.00m,"Mar 1, 2004",22,1.8,Ukraine,Central Midfield,Brentford,,"Jul 1, 2023","Jun 30, 2031",GB1,25/26
+Nikola Milenković,413507,€30.00m,"Oct 12, 1997",28,1.95,Serbia,Centre-Back,Nott'm Forest,,"Jul 18, 2024","Jun 30, 2029",GB1,25/26
+Robert Sánchez,403151,€22.00m,"Nov 18, 1997",28,1.97,Spain,Goalkeeper,Chelsea,,"Aug 5, 2023","Jun 30, 2030",GB1,25/26
+Andrew Robertson,234803,€10.00m,"Mar 11, 1994",32,1.78,Scotland,Left-Back,Liverpool,,"Jul 21, 2017","Jun 30, 2026",GB1,25/26
+Sam Byram,236953,€600k,"Sep 16, 1993",32,1.83,England,Left-Back,Leeds,,"Aug 5, 2023","Jun 30, 2026",GB1,25/26
+Keiber Lamadrid,1004203,€1.20m,"Nov 18, 2003",22,1.77,Venezuela,Left Winger,West Ham,,"Jan 22, 2026","Jun 30, 2026",GB1,25/26
+Ethan Pinnock,442248,€4.00m,"May 29, 1993",32,1.94,Jamaica,Centre-Back,Brentford,,"Jul 2, 2019","Jun 30, 2027",GB1,25/26
+Marcus Edwards,314367,€8.00m,"Dec 3, 1998",27,1.68,England,Right Winger,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+James Ward-Prowse,181579,€6.00m,"Nov 1, 1994",31,1.77,England,Central Midfield,Burnley,,"Jan 28, 2026","Jun 30, 2026",GB1,25/26
+Josh King,1011131,€20.00m,"Jan 3, 2007",19,1.73,England,Attacking Midfield,Fulham,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Zeki Amdouni,548729,€9.00m,"Dec 4, 2000",25,1.85,Switzerland,Centre-Forward,Burnley,,"Jul 19, 2023","Jun 30, 2028",GB1,25/26
+Amad Diallo,536835,€50.00m,"Jul 11, 2002",23,1.73,Cote d'Ivoire,Right Winger,Man Utd,,"Jan 2, 2021","Jun 30, 2030",GB1,25/26
+Emiliano Martínez,111873,€15.00m,"Sep 2, 1992",33,1.95,Argentina,Goalkeeper,Aston Villa,,"Sep 16, 2020","Jun 30, 2029",GB1,25/26
+Tom Cairney,123275,€750k,"Jan 20, 1991",35,1.85,Scotland,Central Midfield,Fulham,,"Jul 1, 2015","Jun 30, 2027",GB1,25/26
+Giovanni Leoni,1086619,€25.00m,"Dec 21, 2006",19,1.96,Italy,Centre-Back,Liverpool,,"Aug 15, 2025","Jun 30, 2031",GB1,25/26
+Joël Piroe,369962,€13.00m,"Aug 2, 1999",26,1.85,Suriname,Centre-Forward,Leeds,,"Aug 24, 2023","Jun 30, 2027",GB1,25/26
+Rayan,1012564,€40.00m,"Aug 3, 2006",19,1.85,Brazil,Right Winger,Bournemouth,,"Jan 27, 2026","Jun 30, 2031",GB1,25/26
+Josh Laurent,314241,€2.00m,"May 6, 1995",31,1.88,England,Central Midfield,Burnley,,"Aug 30, 2024","Jun 30, 2026",GB1,25/26
+Tyler Adams,332705,€25.00m,"Feb 14, 1999",27,1.75,United States,Defensive Midfield,Bournemouth,,"Aug 20, 2023","Jun 30, 2028",GB1,25/26
+Merlin Röhl,608832,€16.00m,"Jul 5, 2002",23,1.92,Germany,Attacking Midfield,Everton,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Callum Hudson-Odoi,392768,€30.00m,"Nov 7, 2000",25,1.78,England,Left Winger,Nott'm Forest,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Adam Wharton,744149,€60.00m,"Feb 6, 2004",22,1.82,England,Defensive Midfield,Crystal Palace,,"Feb 1, 2024","Jun 30, 2029",GB1,25/26
+Sander Berge,333014,€25.00m,"Feb 14, 1998",28,1.95,Norway,Defensive Midfield,Fulham,,"Aug 22, 2024","Jun 30, 2029",GB1,25/26
+Kieran Trippier,95810,€2.50m,"Sep 19, 1990",35,1.73,England,Right-Back,Newcastle,,"Jan 7, 2022","Jun 30, 2026",GB1,25/26
+Lucas Digne,126664,€8.00m,"Jul 20, 1993",32,1.78,France,Left-Back,Aston Villa,,"Jan 13, 2022","Jun 30, 2028",GB1,25/26
+Gabriel Slonina,656316,€3.50m,"May 15, 2004",22,1.93,United States,Goalkeeper,Chelsea,,"Aug 2, 2022","Jun 30, 2028",GB1,25/26
+Omari Hutchinson,741238,€30.00m,"Oct 30, 2003",22,1.74,England,Attacking Midfield,Nott'm Forest,,"Aug 16, 2025","Jun 30, 2030",GB1,25/26
+Simon Moore,123536,€100k,"May 19, 1990",35,1.91,England,Goalkeeper,Sunderland,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+Cole Palmer,568177,€110.00m,"May 6, 2002",24,1.85,England,Attacking Midfield,Chelsea,,"Sep 1, 2023","Jun 30, 2033",GB1,25/26
+Mohamed Salah,148455,€30.00m,"Jun 15, 1992",33,1.75,Egypt,Right Winger,Liverpool,,"Jul 1, 2017","Jun 30, 2027",GB1,25/26
+Charlie Crew,883539,€150k,"Jun 15, 2006",19,1.85,Wales,Defensive Midfield,Leeds,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Zian Flemming,411537,€12.00m,"Aug 1, 1998",27,1.85,Netherlands,Centre-Forward,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Cristhian Mosquera,646750,€35.00m,"Jun 27, 2004",21,1.91,Spain,Centre-Back,Arsenal,,"Jul 24, 2025","Jun 30, 2030",GB1,25/26
+Angus Gunn,201574,€1.50m,"Jan 22, 1996",30,1.96,Scotland,Goalkeeper,Nott'm Forest,,"Aug 6, 2025","Jun 30, 2026",GB1,25/26
+Josh Cullen,242606,€6.00m,"Apr 7, 1996",30,1.75,Ireland,Central Midfield,Burnley,,"Jul 12, 2022","Jun 30, 2027",GB1,25/26
+Jordan Beyer,403898,€2.50m,"May 19, 2000",25,1.87,Germany,Centre-Back,Burnley,,"Jul 1, 2023","Jun 30, 2027",GB1,25/26
+Lucas Pires,927768,€5.00m,"Mar 24, 2001",25,1.82,Brazil,Left-Back,Burnley,,"Jul 16, 2024","Jun 30, 2028",GB1,25/26
+Santiago Bueno,438001,€10.00m,"Nov 9, 1998",27,1.9,Uruguay,Centre-Back,Wolves,,"Aug 31, 2023","Jun 30, 2028",GB1,25/26
+Carlos Alcaraz,748319,€15.00m,"Nov 30, 2002",23,1.76,Argentina,Central Midfield,Everton,,"Jul 1, 2025","Jun 30, 2027",GB1,25/26
+Eric da Silva Moreira,897481,€1.00m,"May 3, 2006",20,1.85,Germany,Right-Back,Nott'm Forest,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Gabriel Jesus,363205,€20.00m,"Apr 3, 1997",29,1.75,Brazil,Centre-Forward,Arsenal,,"Jul 4, 2022","Jun 30, 2027",GB1,25/26
+Igor Jesus,432164,€22.00m,"Feb 25, 2001",25,1.79,Brazil,Centre-Forward,Nott'm Forest,,"Jul 5, 2025","Jun 30, 2029",GB1,25/26
+Dominik Szoboszlai,451276,€100.00m,"Oct 25, 2000",25,1.87,Hungary,Attacking Midfield,Liverpool,,"Jul 2, 2023","Jun 30, 2028",GB1,25/26
+Bryan Mbeumo,413039,€80.00m,"Aug 7, 1999",26,1.71,Cameroon,Right Winger,Man Utd,,"Jul 21, 2025","Jun 30, 2030",GB1,25/26
+Josko Gvardiol,475959,€70.00m,"Jan 23, 2002",24,1.85,Croatia,Centre-Back,Man City,,"Aug 5, 2023","Jun 30, 2028",GB1,25/26
+Martin Ødegaard,316264,€65.00m,"Dec 17, 1998",27,1.78,Norway,Attacking Midfield,Arsenal,,"Aug 20, 2021","Jun 30, 2028",GB1,25/26
+Viktor Gyökeres,325443,€65.00m,"Jun 4, 1998",27,1.89,Sweden,Centre-Forward,Arsenal,,"Jul 26, 2025","Jun 30, 2030",GB1,25/26
+Ezra Mayers,1107726,€1.20m,"Jan 16, 2007",19,1.83,England,Centre-Back,West Ham U21,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Gabriel,435338,€75.00m,"Dec 19, 1997",28,1.9,Brazil,Centre-Back,Arsenal,,"Sep 1, 2020","Jun 30, 2029",GB1,25/26
+Junior Kroupi,955357,€40.00m,"Jun 23, 2006",19,1.79,France,Centre-Forward,Bournemouth,,"Feb 3, 2025","Jun 30, 2030",GB1,25/26
+Aaron Hickey,591949,€16.00m,"Jun 10, 2002",23,1.85,Scotland,Right-Back,Brentford,,"Jul 9, 2022","Jun 30, 2028",GB1,25/26
+Olivier Boscagli,318508,€15.00m,"Nov 18, 1997",28,1.81,France,Centre-Back,Brighton,,"Jul 2, 2025","Jun 30, 2030",GB1,25/26
+Alysson,1005583,€10.00m,"May 5, 2006",20,1.84,Brazil,Right Winger,Aston Villa,,"Jan 1, 2026",-,GB1,25/26
+Benoît Badiashile,463603,€18.00m,"Mar 26, 2001",25,1.94,France,Centre-Back,Chelsea,,"Jan 5, 2023","Jun 30, 2030",GB1,25/26
+Adrien Truffert,654539,€25.00m,"Nov 20, 2001",24,1.76,France,Left-Back,Bournemouth,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Nathan Aké,177476,€15.00m,"Feb 18, 1995",31,1.8,Netherlands,Centre-Back,Man City,,"Aug 5, 2020","Jun 30, 2027",GB1,25/26
+Manuel Ugarte,476701,€30.00m,"Apr 11, 2001",25,1.82,Uruguay,Defensive Midfield,Man Utd,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Mark Gillespie,142389,€150k,"Mar 27, 1992",34,1.91,England,Goalkeeper,Newcastle,,"Jul 3, 2020","Jun 30, 2026",GB1,25/26
+Vitaliy Mykolenko,404842,€25.00m,"May 29, 1999",26,1.8,Ukraine,Left-Back,Everton,,"Jan 1, 2022","Jun 30, 2027",GB1,25/26
+Caleb Kporha,1047261,€1.00m,"Jul 15, 2006",19,,England,Right-Back,Crystal Palace,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Pablo,817665,€18.00m,"Jan 2, 2004",22,1.84,Brazil,Centre-Forward,West Ham,,"Jan 2, 2026","Jun 30, 2030",GB1,25/26
+Joelinton,333241,€30.00m,"Aug 14, 1996",29,1.86,Brazil,Central Midfield,Newcastle,,"Jul 23, 2019","Jun 30, 2028",GB1,25/26
+Max Alleyne,843595,€8.00m,"Jul 21, 2005",20,1.85,England,Centre-Back,Man City,,"Jan 6, 2026","Jun 30, 2030",GB1,25/26
+Matthijs de Ligt,326031,€40.00m,"Aug 12, 1999",26,1.89,Netherlands,Centre-Back,Man Utd,,"Aug 13, 2024","Jun 30, 2029",GB1,25/26
+Jan Paul van Hecke,576314,€35.00m,"Jun 8, 2000",25,1.89,Netherlands,Centre-Back,Brighton,,"Sep 10, 2020","Jun 30, 2027",GB1,25/26
+Ryan Yates,425902,€8.00m,"Nov 21, 1997",28,1.9,England,Central Midfield,Nott'm Forest,,"Jul 1, 2016","Jun 30, 2028",GB1,25/26
+Djordje Petrovic,465555,€28.00m,"Oct 8, 1999",26,1.94,Serbia,Goalkeeper,Bournemouth,,"Jul 16, 2025","Jun 30, 2030",GB1,25/26
+Alex Scott,855256,€40.00m,"Aug 21, 2003",22,1.78,England,Central Midfield,Bournemouth,,"Aug 10, 2023","Jun 30, 2028",GB1,25/26
+Djed Spence,483348,€30.00m,"Aug 9, 2000",25,1.84,England,Left-Back,Tottenham,,"Jul 19, 2022","Jun 30, 2029",GB1,25/26
+Freddie Potts,698164,€10.00m,"Sep 12, 2003",22,1.83,England,Defensive Midfield,West Ham,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Nick Woltemade,455661,€65.00m,"Feb 14, 2002",24,1.98,Germany,Centre-Forward,Newcastle,,"Aug 30, 2025","Jul 1, 2031",GB1,25/26
+Alex Tóth,998101,€12.00m,"Oct 23, 2005",20,1.81,Hungary,Central Midfield,Bournemouth,,"Jan 20, 2026","Jun 30, 2031",GB1,25/26
+Antoni Milambo,683620,€20.00m,"Apr 3, 2005",21,1.79,Netherlands,Attacking Midfield,Brentford,,"Jul 3, 2025","Jun 30, 2030",GB1,25/26
+Ferdi Kadıoğlu,369316,€30.00m,"Oct 7, 1999",26,1.74,Türkiye,Left-Back,Brighton,,"Aug 24, 2024","Jun 30, 2028",GB1,25/26
+Daniel Bentley,136401,€1.00m,"Jul 13, 1993",32,1.93,England,Goalkeeper,Wolves,,"Jan 25, 2023","Jun 30, 2027",GB1,25/26
+Jeremie Frimpong,484547,€35.00m,"Dec 10, 2000",25,1.72,Netherlands,Right-Back,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Jarrad Branthwaite,661053,€45.00m,"Jun 27, 2002",23,1.95,England,Centre-Back,Everton,,"Jan 13, 2020","Jun 30, 2030",GB1,25/26
+Dominic Calvert-Lewin,306024,€22.00m,"Mar 16, 1997",29,1.89,England,Centre-Forward,Leeds,,"Aug 15, 2025","Jun 30, 2028",GB1,25/26
+Mateo Kovacic,51471,€12.00m,"May 6, 1994",32,1.77,Croatia,Central Midfield,Man City,,"Jul 1, 2023","Jun 30, 2027",GB1,25/26
+Josh Dasilva,340321,€2.00m,"Oct 23, 1998",27,1.84,England,Central Midfield,Brentford,,"Oct 23, 2025","Jun 30, 2026",GB1,25/26
+Matz Sels,127202,€4.00m,"Feb 26, 1992",34,1.88,Belgium,Goalkeeper,Nott'm Forest,,"Feb 1, 2024","Jun 30, 2027",GB1,25/26
+Filip Jørgensen,585323,€15.00m,"Apr 16, 2002",24,1.92,Denmark,Goalkeeper,Chelsea,,"Jul 30, 2024","Jun 30, 2031",GB1,25/26
+Ben Davies,192765,€5.00m,"Apr 24, 1993",33,1.81,Wales,Centre-Back,Tottenham,,"Jul 23, 2014","Jun 30, 2026",GB1,25/26
+Milan Aleksic,942738,€700k,"Aug 30, 2005",20,1.79,Serbia,Attacking Midfield,Sunderland,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Filip Jørgensen,585323,€15.00m,"Apr 16, 2002",24,1.92,Denmark,Goalkeeper,Chelsea,,"Jul 30, 2024","Jun 30, 2031",GB1,25/26
+Jaydee Canvot,1006411,€20.00m,"Jul 29, 2006",19,1.88,France,Centre-Back,Crystal Palace,,"Sep 1, 2025","Jun 30, 2029",GB1,25/26
+Joshua Zirkzee,435648,€22.00m,"May 22, 2001",24,1.93,Netherlands,Centre-Forward,Man Utd,,"Jul 14, 2024","Jun 30, 2029",GB1,25/26
+Christos Mandas,481675,€10.00m,"Sep 17, 2001",24,1.89,Greece,Goalkeeper,Bournemouth,,"Jan 27, 2026","Jun 30, 2026",GB1,25/26
+Sepp van den Berg,541231,€32.00m,"Dec 20, 2001",24,1.92,Netherlands,Centre-Back,Brentford,,"Aug 22, 2024","Jun 30, 2029",GB1,25/26
+Axel Tuanzebe,342046,€5.00m,"Nov 14, 1997",28,1.85,DR Congo,Centre-Back,Burnley,,"Jul 1, 2025",-,GB1,25/26
+Aaron Ramsdale,427568,€12.00m,"May 14, 1998",28,1.9,England,Goalkeeper,Newcastle,,"Aug 2, 2025","Jun 30, 2026",GB1,25/26
+Tammy Abraham,331726,€20.00m,"Oct 2, 1997",28,1.94,England,Centre-Forward,Aston Villa,,"Jan 27, 2026","Jun 30, 2030",GB1,25/26
+Christian Nørgaard,148367,€7.00m,"Mar 10, 1994",32,1.87,Denmark,Defensive Midfield,Arsenal,,"Jul 10, 2025","Jun 30, 2027",GB1,25/26
+Keiber Lamadrid,1004203,€1.20m,"Nov 18, 2003",22,1.77,Venezuela,Left Winger,West Ham,,"Jan 22, 2026","Jun 30, 2026",GB1,25/26
+Pedro Lima,1193867,€4.00m,"Jul 1, 2006",19,1.74,Brazil,Right-Back,Wolves,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Tom Heaton,34130,€150k,"Apr 15, 1986",40,1.88,England,Goalkeeper,Man Utd,,"Jul 2, 2021","Jun 30, 2026",GB1,25/26
+James Maddison,294057,€25.00m,"Nov 23, 1996",29,1.75,England,Attacking Midfield,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Alisson,105470,€17.00m,"Oct 2, 1992",33,1.93,Brazil,Goalkeeper,Liverpool,,"Jul 19, 2018","Jun 30, 2027",GB1,25/26
+Nathaniel Clyne,85177,€500k,"Apr 5, 1991",35,1.75,England,Right-Back,Crystal Palace,,"Oct 14, 2020","Jun 30, 2026",GB1,25/26
+Yasin Ayari,667287,€30.00m,"Oct 6, 2003",22,1.72,Sweden,Central Midfield,Brighton,,"Jan 30, 2023","Jun 30, 2027",GB1,25/26
+Jayden Bogle,465717,€12.00m,"Jul 27, 2000",25,1.78,England,Right-Back,Leeds,,"Jul 20, 2024","Jun 30, 2028",GB1,25/26
+Gabriel,435338,€75.00m,"Dec 19, 1997",28,1.9,Brazil,Centre-Back,Arsenal,,"Sep 1, 2020","Jun 30, 2029",GB1,25/26
+Leandro Trossard,144028,€20.00m,"Dec 4, 1994",31,1.72,Belgium,Left Winger,Arsenal,,"Jan 20, 2023","Jun 30, 2027",GB1,25/26
+Bart Verbruggen,565093,€40.00m,"Aug 18, 2002",23,1.94,Netherlands,Goalkeeper,Brighton,,"Jul 3, 2023","Jun 30, 2028",GB1,25/26
+Marco Bizot,124884,€2.50m,"Mar 10, 1991",35,1.93,Netherlands,Goalkeeper,Aston Villa,,"Jul 15, 2025","Jun 30, 2027",GB1,25/26
+Oscar Bobb,661207,€30.00m,"Jul 12, 2003",22,1.75,Norway,Right Winger,Fulham,,"Jan 30, 2026","Jun 30, 2031",GB1,25/26
+Dan Burn,134270,€5.00m,"May 9, 1992",34,2.01,England,Centre-Back,Newcastle,,"Jan 31, 2022","Jun 30, 2027",GB1,25/26
+Ross Barkley,131978,€5.00m,"Dec 5, 1993",32,1.89,England,Central Midfield,Aston Villa,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+Enzo Le Fée,633992,€25.00m,"Feb 3, 2000",26,1.73,France,Central Midfield,Sunderland,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Conor Bradley,624258,€30.00m,"Jul 9, 2003",22,1.81,Northern Ireland,Right-Back,Liverpool,,"Jul 1, 2023","Jun 30, 2029",GB1,25/26
+Enes Ünal,251106,€8.00m,"May 10, 1997",29,1.87,Türkiye,Centre-Forward,Bournemouth,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Marc Guéhi,392757,€65.00m,"Jul 13, 2000",25,1.82,England,Centre-Back,Man City,,"Jan 19, 2026","Jun 30, 2031",GB1,25/26
+Dejan Kulusevski,431755,€35.00m,"Apr 25, 2000",26,1.86,Sweden,Attacking Midfield,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Antonín Kinský,725912,€13.00m,"Mar 13, 2003",23,1.9,Czech Republic,Goalkeeper,Tottenham,,"Jan 5, 2025","Jun 30, 2029",GB1,25/26
+Mohammed Kudus,543499,€55.00m,"Aug 2, 2000",25,1.77,Ghana,Right Winger,Tottenham,,"Jul 10, 2025","Jun 30, 2031",GB1,25/26
+Pedro Porro,553875,€40.00m,"Sep 13, 1999",26,1.73,Spain,Right-Back,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Lucas Pires,927768,€5.00m,"Mar 24, 2001",25,1.82,Brazil,Left-Back,Burnley,,"Jul 16, 2024","Jun 30, 2028",GB1,25/26
+Tyrone Mings,253677,€4.00m,"Mar 13, 1993",33,1.96,England,Centre-Back,Aston Villa,,"Jul 8, 2019","Jun 30, 2027",GB1,25/26
+Kevin,900195,€30.00m,"Jan 4, 2003",23,1.76,Brazil,Left Winger,Fulham,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Pedro Porro,553875,€40.00m,"Sep 13, 1999",26,1.73,Spain,Right-Back,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Victor Lindelöf,184573,€6.00m,"Jul 17, 1994",31,1.87,Sweden,Centre-Back,Aston Villa,,"Sep 1, 2025","Jun 30, 2027",GB1,25/26
+Kepa Arrizabalaga,192279,€7.00m,"Oct 3, 1994",31,1.88,Spain,Goalkeeper,Arsenal,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Remi Matthews,196722,€300k,"Feb 10, 1994",32,1.83,England,Goalkeeper,Crystal Palace,,"Jul 12, 2021","Jun 30, 2027",GB1,25/26
+Kaoru Mitoma,504849,€25.00m,"May 20, 1997",28,1.78,Japan,Left Winger,Brighton,,"Aug 10, 2021","Jun 30, 2027",GB1,25/26
+Kyle Walker-Peters,341051,€13.00m,"Apr 13, 1997",29,1.73,England,Right-Back,West Ham,,"Jul 20, 2025","Jun 30, 2028",GB1,25/26
+Victor Lindelöf,184573,€6.00m,"Jul 17, 1994",31,1.87,Sweden,Centre-Back,Aston Villa,,"Sep 1, 2025","Jun 30, 2027",GB1,25/26
+Joël Piroe,369962,€13.00m,"Aug 2, 1999",26,1.85,Suriname,Centre-Forward,Leeds,,"Aug 24, 2023","Jun 30, 2027",GB1,25/26
+David Møller Wolfe,661427,€10.00m,"Apr 23, 2002",24,1.87,Norway,Left-Back,Wolves,,"Aug 2, 2025","Jun 30, 2030",GB1,25/26
+Morgan Rogers,503743,€80.00m,"Jul 26, 2002",23,1.87,England,Attacking Midfield,Aston Villa,,"Feb 1, 2024","Jun 30, 2031",GB1,25/26
+Chris Richards,578539,€25.00m,"Mar 28, 2000",26,1.88,United States,Centre-Back,Crystal Palace,,"Jul 27, 2022","Jun 30, 2027",GB1,25/26
+William Osula,609556,€15.00m,"Aug 4, 2003",22,1.91,Denmark,Centre-Forward,Newcastle,,"Aug 8, 2024","Jun 30, 2029",GB1,25/26
+Luke O'Nien,282939,€1.00m,"Nov 21, 1994",31,1.74,England,Centre-Back,Sunderland,,"Jul 30, 2018","Jun 30, 2027",GB1,25/26
+Harry Maguire,177907,€10.00m,"Mar 5, 1993",33,1.94,England,Centre-Back,Man Utd,,"Aug 5, 2019","Jun 30, 2027",GB1,25/26
+Christantus Uche,1124005,€15.00m,"May 19, 2003",22,1.9,Nigeria,Centre-Forward,Crystal Palace,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Nicolò Savona,708072,€18.00m,"Mar 19, 2003",23,1.92,Italy,Right-Back,Nott'm Forest,,"Aug 30, 2025","Jun 30, 2030",GB1,25/26
+Alexis Mac Allister,534033,€80.00m,"Dec 24, 1998",27,1.76,Argentina,Central Midfield,Liverpool,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Kyle Walker-Peters,341051,€13.00m,"Apr 13, 1997",29,1.73,England,Right-Back,West Ham,,"Jul 20, 2025","Jun 30, 2028",GB1,25/26
+John McGinn,193116,€15.00m,"Oct 18, 1994",31,1.78,Scotland,Central Midfield,Aston Villa,,"Aug 8, 2018","Jun 30, 2028",GB1,25/26
+Conor Bradley,624258,€30.00m,"Jul 9, 2003",22,1.81,Northern Ireland,Right-Back,Liverpool,,"Jul 1, 2023","Jun 30, 2029",GB1,25/26
+Romelle Donovan,1091562,€3.50m,"Nov 30, 2006",19,1.71,England,Right Winger,Brentford,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Hannibal,607224,€16.00m,"Jan 21, 2003",23,1.83,Tunisia,Attacking Midfield,Burnley,,"Aug 28, 2024","Jun 30, 2028",GB1,25/26
+Gabriel Gudmundsson,362108,€20.00m,"Apr 29, 1999",27,1.8,Sweden,Left-Back,Leeds,,"Jul 8, 2025","Jun 30, 2029",GB1,25/26
+Micky van de Ven,557459,€65.00m,"Apr 19, 2001",25,1.93,Netherlands,Centre-Back,Tottenham,,"Aug 8, 2023","Jun 30, 2029",GB1,25/26
+Kaye Furo,1011936,€8.00m,"Feb 6, 2007",19,1.9,Belgium,Centre-Forward,Brentford,,"Jan 11, 2026","Jun 30, 2031",GB1,25/26
+Tyrique George,936874,€22.00m,"Feb 4, 2006",20,1.81,England,Left Winger,Everton,,"Feb 2, 2026","Jun 30, 2026",GB1,25/26
+Dominik Szoboszlai,451276,€100.00m,"Oct 25, 2000",25,1.87,Hungary,Attacking Midfield,Liverpool,,"Jul 2, 2023","Jun 30, 2028",GB1,25/26
+Reiss Nelson,340325,€12.00m,"Dec 10, 1999",26,1.75,England,Left Winger,Brentford,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Douglas Luiz,447661,€20.00m,"May 9, 1998",28,1.77,Brazil,Central Midfield,Aston Villa,,"Jan 28, 2026","Jun 30, 2026",GB1,25/26
+Vitaly Janelt,270171,€18.00m,"May 10, 1998",28,1.84,Germany,Defensive Midfield,Brentford,,"Oct 3, 2020","Jun 30, 2030",GB1,25/26
+Zian Flemming,411537,€12.00m,"Aug 1, 1998",27,1.85,Netherlands,Centre-Forward,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+John Stones,186590,€15.00m,"May 28, 1994",31,1.88,England,Centre-Back,Man City,,"Aug 9, 2016","Jun 30, 2026",GB1,25/26
+Freddie Woodman,226049,€3.00m,"Mar 4, 1997",29,1.88,England,Goalkeeper,Liverpool,,"Jul 1, 2025","Jun 30, 2026",GB1,25/26
+Teddy Sharman-Lowe,731466,€550k,"Mar 30, 2003",23,1.89,England,Goalkeeper,Chelsea,,"Jan 19, 2026","Jun 30, 2028",GB1,25/26
+Bryan Mbeumo,413039,€80.00m,"Aug 7, 1999",26,1.71,Cameroon,Right Winger,Man Utd,,"Jul 21, 2025","Jun 30, 2030",GB1,25/26
+Mohamadou Kanté,1081995,€300k,"Sep 20, 2005",20,1.89,France,Defensive Midfield,West Ham,,"Oct 27, 2025","Jun 30, 2031",GB1,25/26
+Reece James,472423,€60.00m,"Dec 8, 1999",26,1.8,England,Right-Back,Chelsea,,"Jul 1, 2019","Jun 30, 2032",GB1,25/26
+Bruno Guimarães,520624,€75.00m,"Nov 16, 1997",28,1.82,Brazil,Central Midfield,Newcastle,,"Jan 30, 2022","Jun 30, 2028",GB1,25/26
+Chris Wood,108725,€6.00m,"Dec 7, 1991",34,1.91,New Zealand,Centre-Forward,Nott'm Forest,,"Jul 1, 2023","Jun 30, 2027",GB1,25/26
+Dean Henderson,258919,€28.00m,"Mar 12, 1997",29,1.88,England,Goalkeeper,Crystal Palace,,"Aug 31, 2023","Jun 30, 2028",GB1,25/26
+Daichi Kamada,356141,€12.00m,"Aug 5, 1996",29,1.8,Japan,Attacking Midfield,Crystal Palace,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+Michael Kayode,823486,€35.00m,"Jul 10, 2004",21,1.79,Italy,Right-Back,Brentford,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+James Garner,505219,€35.00m,"Mar 13, 2001",25,1.82,England,Defensive Midfield,Everton,,"Sep 1, 2022","Jun 30, 2030",GB1,25/26
+Tom Cairney,123275,€750k,"Jan 20, 1991",35,1.85,Scotland,Central Midfield,Fulham,,"Jul 1, 2015","Jun 30, 2027",GB1,25/26
+Ethan Ampadu,392771,€25.00m,"Sep 14, 2000",25,1.82,Wales,Defensive Midfield,Leeds,,"Jul 19, 2023","Jun 30, 2027",GB1,25/26
+Jean-Ricner Bellegarde,450050,€16.00m,"Jun 27, 1998",27,1.72,Haiti,Central Midfield,Wolves,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Pape Matar Sarr,568693,€32.00m,"Sep 14, 2002",23,1.84,Senegal,Central Midfield,Tottenham,,"Aug 27, 2021","Jun 30, 2030",GB1,25/26
+Andrew Robertson,234803,€10.00m,"Mar 11, 1994",32,1.78,Scotland,Left-Back,Liverpool,,"Jul 21, 2017","Jun 30, 2026",GB1,25/26
+Igor Jesus,432164,€22.00m,"Feb 25, 2001",25,1.79,Brazil,Centre-Forward,Nott'm Forest,,"Jul 5, 2025","Jun 30, 2029",GB1,25/26
+Yoane Wissa,388165,€30.00m,"Sep 3, 1996",29,1.76,DR Congo,Centre-Forward,Newcastle,,"Sep 1, 2025",-,GB1,25/26
+Matt Doherty,171679,€1.50m,"Jan 16, 1992",34,1.85,Ireland,Right-Back,Wolves,,"Jul 20, 2023","Jun 30, 2026",GB1,25/26
+Jack Hinshelwood,867688,€22.00m,"Apr 11, 2005",21,1.82,England,Defensive Midfield,Brighton,,"Jul 1, 2023","Jun 30, 2029",GB1,25/26
+Tim Iroegbunam,696589,€15.00m,"Jun 30, 2003",22,1.83,England,Central Midfield,Everton,,"Jul 1, 2024","Jun 30, 2027",GB1,25/26
+Kepa Arrizabalaga,192279,€7.00m,"Oct 3, 1994",31,1.88,Spain,Goalkeeper,Arsenal,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Lorenzo Lucca,572265,€25.00m,"Sep 10, 2000",25,2.01,Italy,Centre-Forward,Nott'm Forest,,"Jan 23, 2026","Jun 30, 2026",GB1,25/26
+Rodrigo Bentancur,354362,€22.00m,"Jun 25, 1997",28,1.87,Uruguay,Defensive Midfield,Tottenham,,"Jan 31, 2022",-,GB1,25/26
+Julian Eyestone,1008553,,"Apr 21, 2006",20,2.0,United States,Goalkeeper,Brentford,,"Jul 4, 2025","Jun 30, 2031",GB1,25/26
+Alex Murphy,900601,€1.50m,"Jun 25, 2004",21,1.88,Ireland,Left-Back,Newcastle,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Jérémy Doku,486049,€65.00m,"May 27, 2002",23,1.73,Belgium,Left Winger,Man City,,"Aug 24, 2023","Jun 30, 2028",GB1,25/26
+Romaine Mundle,696181,€8.00m,"Apr 24, 2003",23,1.72,England,Left Winger,Sunderland,,"Feb 1, 2024","Jun 30, 2028",GB1,25/26
+Chemsdine Talbi,743384,€25.00m,"May 9, 2005",21,1.75,Morocco,Right Winger,Sunderland,,"Jul 9, 2025","Jun 30, 2030",GB1,25/26
+Hee-chan Hwang,292246,€8.00m,"Jan 26, 1996",30,1.77,"Korea, South",Centre-Forward,Wolves,,"Jul 1, 2022","Jun 30, 2028",GB1,25/26
+Lewis Dunk,148153,€4.00m,"Nov 21, 1991",34,1.92,England,Centre-Back,Brighton,,"Jul 1, 2010","Jun 30, 2027",GB1,25/26
+Jocelin Ta Bi,1322090,€3.00m,"Feb 9, 2005",21,1.75,Cote d'Ivoire,Right Winger,Sunderland,,"Jan 16, 2026","Jun 30, 2030",GB1,25/26
+Ryan Yates,425902,€8.00m,"Nov 21, 1997",28,1.9,England,Central Midfield,Nott'm Forest,,"Jul 1, 2016","Jun 30, 2028",GB1,25/26
+Tom McGill,406556,€500k,"Mar 25, 2000",26,1.85,Canada,Goalkeeper,Brighton,,"Jul 29, 2022","Jun 30, 2027",GB1,25/26
+Federico Chiesa,341092,€15.00m,"Oct 25, 1997",28,1.75,Italy,Right Winger,Liverpool,,"Aug 29, 2024","Jun 30, 2028",GB1,25/26
+Chido Obi,1042886,€5.00m,"Nov 29, 2007",18,1.88,Denmark,Centre-Forward,Man Utd,,"Jul 1, 2025",-,GB1,25/26
+Lewis Hall,670858,€35.00m,"Sep 8, 2004",21,1.79,England,Left-Back,Newcastle,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Jean-Philippe Mateta,420002,€35.00m,"Jun 28, 1997",28,1.92,France,Centre-Forward,Crystal Palace,,"Jan 31, 2022","Jun 30, 2027",GB1,25/26
+Beto,595809,€20.00m,"Jan 31, 1998",28,1.94,Guinea-Bissau,Centre-Forward,Everton,,"Aug 29, 2023","Jun 30, 2027",GB1,25/26
+Brenden Aaronson,393323,€18.00m,"Oct 22, 2000",25,1.77,United States,Attacking Midfield,Leeds,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Enes Ünal,251106,€8.00m,"May 10, 1997",29,1.87,Türkiye,Centre-Forward,Bournemouth,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Toti,606718,€20.00m,"Jan 16, 1999",27,1.87,Portugal,Centre-Back,Wolves,,"Sep 2, 2020","Jun 30, 2029",GB1,25/26
+Enzo Fernández,648195,€90.00m,"Jan 17, 2001",25,1.78,Argentina,Central Midfield,Chelsea,,"Jan 31, 2023","Jun 30, 2032",GB1,25/26
+Rhys Williams,503679,€500k,"Feb 3, 2001",25,1.95,England,Centre-Back,Liverpool,,"Jul 1, 2020","Jun 30, 2026",GB1,25/26
+Casemiro,16306,€8.00m,"Feb 23, 1992",34,1.85,Brazil,Defensive Midfield,Man Utd,,"Aug 22, 2022","Jun 30, 2026",GB1,25/26
+Nathaniel Clyne,85177,€500k,"Apr 5, 1991",35,1.75,England,Right-Back,Crystal Palace,,"Oct 14, 2020","Jun 30, 2026",GB1,25/26
+Danny Welbeck,67063,€4.00m,"Nov 26, 1990",35,1.85,England,Centre-Forward,Brighton,,"Oct 18, 2020","Jun 30, 2027",GB1,25/26
+Wataru Endo,146310,€5.00m,"Feb 9, 1993",33,1.78,Japan,Defensive Midfield,Liverpool,,"Aug 18, 2023","Jun 30, 2027",GB1,25/26
+Adama Traoré,204103,€8.00m,"Jan 25, 1996",30,1.78,Spain,Right Winger,West Ham,,"Jan 28, 2026","Jun 30, 2026",GB1,25/26
+Rio Ngumoha,1108466,€20.00m,"Aug 29, 2008",17,1.7,England,Left Winger,Liverpool,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Caleb Wiley,746833,€8.00m,"Dec 22, 2004",21,1.8,United States,Left-Back,Chelsea,,"Jul 22, 2024","Jun 30, 2030",GB1,25/26
+Lewis Hall,670858,€35.00m,"Sep 8, 2004",21,1.79,England,Left-Back,Newcastle,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Anthony Gordon,503733,€60.00m,"Feb 24, 2001",25,1.83,England,Left Winger,Newcastle,,"Jan 29, 2023","Jul 1, 2030",GB1,25/26
+Jacob Murphy,199527,€15.00m,"Feb 24, 1995",31,1.79,England,Right Winger,Newcastle,,"Jul 19, 2017","Jun 30, 2027",GB1,25/26
+Stefan Bajcetic,864799,€5.00m,"Oct 22, 2004",21,1.85,Spain,Defensive Midfield,Liverpool,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Ian Maatsen,485585,€30.00m,"Mar 10, 2002",24,1.78,Netherlands,Left-Back,Aston Villa,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26
+Neco Williams,503680,€25.00m,"Apr 13, 2001",25,1.83,Wales,Left-Back,Nott'm Forest,,"Jul 10, 2022","Jun 30, 2029",GB1,25/26
+Cheick Doucouré,543387,€13.00m,"Jan 8, 2000",26,1.8,Mali,Defensive Midfield,Crystal Palace,,"Jul 11, 2022","Jun 30, 2029",GB1,25/26
+Anton Stach,344069,€25.00m,"Nov 15, 1998",27,1.94,Germany,Defensive Midfield,Leeds,,"Jul 22, 2025","Jun 30, 2029",GB1,25/26
+Jordan Beyer,403898,€2.50m,"May 19, 2000",25,1.87,Germany,Centre-Back,Burnley,,"Jul 1, 2023","Jun 30, 2027",GB1,25/26
+Solly March,209212,€2.00m,"Jul 20, 1994",31,1.8,England,Right Winger,Brighton,,"Jul 1, 2013","Jun 30, 2026",GB1,25/26
+Mateus Fernandes,880245,€35.00m,"Jul 10, 2004",21,1.8,Portugal,Central Midfield,West Ham,,"Aug 29, 2025","Jun 30, 2030",GB1,25/26
+Richarlison,378710,€28.00m,"May 10, 1997",29,1.84,Brazil,Centre-Forward,Tottenham,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Lewis Miley,922769,€25.00m,"May 1, 2006",20,1.89,England,Central Midfield,Newcastle,,"Jul 1, 2023","Jun 30, 2029",GB1,25/26
+Bafodé Diakité,463605,€30.00m,"Jan 6, 2001",25,1.84,France,Centre-Back,Bournemouth,,"Aug 13, 2025","Jun 30, 2030",GB1,25/26
+Harrison Reed,226973,€3.00m,"Jan 27, 1995",31,1.81,England,Central Midfield,Fulham,,"Aug 30, 2020","Jun 30, 2027",GB1,25/26
+Pape Matar Sarr,568693,€32.00m,"Sep 14, 2002",23,1.84,Senegal,Central Midfield,Tottenham,,"Aug 27, 2021","Jun 30, 2030",GB1,25/26
+Radu Drăgușin,568559,€20.00m,"Feb 3, 2002",24,1.91,Romania,Centre-Back,Tottenham,,"Jan 11, 2024","Jun 30, 2030",GB1,25/26
+Yegor Yarmolyuk,717411,€30.00m,"Mar 1, 2004",22,1.8,Ukraine,Central Midfield,Brentford,,"Jul 1, 2023","Jun 30, 2031",GB1,25/26
+Josh Cullen,242606,€6.00m,"Apr 7, 1996",30,1.75,Ireland,Central Midfield,Burnley,,"Jul 12, 2022","Jun 30, 2027",GB1,25/26
+Cristian Romero,355915,€50.00m,"Apr 27, 1998",28,1.85,Argentina,Centre-Back,Tottenham,,"Aug 30, 2022","Jun 30, 2029",GB1,25/26
+Noussair Mazraoui,340456,€20.00m,"Nov 14, 1997",28,1.83,Morocco,Right-Back,Man Utd,,"Aug 13, 2024","Jun 30, 2028",GB1,25/26
+Manuel Ugarte,476701,€30.00m,"Apr 11, 2001",25,1.82,Uruguay,Defensive Midfield,Man Utd,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Benjamin Sesko,627442,€65.00m,"May 31, 2003",22,1.95,Slovenia,Centre-Forward,Man Utd,,"Aug 9, 2025","Jun 30, 2030",GB1,25/26
+El Hadji Malick Diouf,1111589,€28.00m,"Dec 28, 2004",21,1.83,Senegal,Left-Back,West Ham,,"Jul 15, 2025","Jun 30, 2030",GB1,25/26
+Eric da Silva Moreira,897481,€1.00m,"May 3, 2006",20,1.85,Germany,Right-Back,Nott'm Forest,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Lisandro Martínez,480762,€40.00m,"Jan 18, 1998",28,1.75,Argentina,Centre-Back,Man Utd,,"Jul 27, 2022","Jun 30, 2027",GB1,25/26
+Tino Livramento,503981,€40.00m,"Nov 12, 2002",23,1.82,England,Right-Back,Newcastle,,"Aug 8, 2023","Jun 30, 2028",GB1,25/26
+Justin Devenny,747009,€12.00m,"Oct 11, 2003",22,1.84,Northern Ireland,Attacking Midfield,Crystal Palace,,"Jul 1, 2024","Jun 30, 2027",GB1,25/26
+Gabriel Martinelli,655488,€45.00m,"Jun 18, 2001",24,1.78,Brazil,Left Winger,Arsenal,,"Jul 2, 2019","Jun 30, 2027",GB1,25/26
+Matai Akinmboni,994604,€1.00m,"Oct 17, 2006",19,1.88,United States,Centre-Back,Bournemouth,,"Jan 3, 2025","Jun 30, 2026",GB1,25/26
+Tolu Arokodare,683571,€22.00m,"Nov 23, 2000",25,1.97,Nigeria,Centre-Forward,Wolves,,"Sep 1, 2025","Jun 30, 2029",GB1,25/26
+Jérémy Doku,486049,€65.00m,"May 27, 2002",23,1.73,Belgium,Left Winger,Man City,,"Aug 24, 2023","Jun 30, 2028",GB1,25/26
+Ryan Gravenberch,478573,€90.00m,"May 16, 2002",24,1.9,Netherlands,Defensive Midfield,Liverpool,,"Sep 1, 2023","Jun 30, 2032",GB1,25/26
+Jefferson Lerma,262980,€8.00m,"Oct 25, 1994",31,1.79,Colombia,Defensive Midfield,Crystal Palace,,"Jul 1, 2023","Jun 30, 2026",GB1,25/26
+Beto,595809,€20.00m,"Jan 31, 1998",28,1.94,Guinea-Bissau,Centre-Forward,Everton,,"Aug 29, 2023","Jun 30, 2027",GB1,25/26
+Jeremie Frimpong,484547,€35.00m,"Dec 10, 2000",25,1.72,Netherlands,Right-Back,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Ethan Ampadu,392771,€25.00m,"Sep 14, 2000",25,1.82,Wales,Defensive Midfield,Leeds,,"Jul 19, 2023","Jun 30, 2027",GB1,25/26
+Jørgen Strand Larsen,429983,€45.00m,"Feb 6, 2000",26,1.93,Norway,Centre-Forward,Crystal Palace,,"Feb 2, 2026","Jun 30, 2030",GB1,25/26
+John Victor,432914,€7.00m,"Feb 13, 1996",30,1.97,Brazil,Goalkeeper,Nott'm Forest,,"Aug 31, 2025","Jun 30, 2028",GB1,25/26
+Declan Rice,357662,€120.00m,"Jan 14, 1999",27,1.88,England,Central Midfield,Arsenal,,"Jul 15, 2023","Jun 30, 2028",GB1,25/26
+Matt Doherty,171679,€1.50m,"Jan 16, 1992",34,1.85,Ireland,Right-Back,Wolves,,"Jul 20, 2023","Jun 30, 2026",GB1,25/26
+Fabian Schär,135343,€6.00m,"Dec 20, 1991",34,1.86,Switzerland,Centre-Back,Newcastle,,"Jul 26, 2018","Jun 30, 2026",GB1,25/26
+Emiliano Buendía,321247,€18.00m,"Dec 25, 1996",29,1.72,Argentina,Attacking Midfield,Aston Villa,,"Jul 1, 2021","Jun 30, 2027",GB1,25/26
+Matai Akinmboni,994604,€1.00m,"Oct 17, 2006",19,1.88,United States,Centre-Back,Bournemouth,,"Jan 3, 2025","Jun 30, 2026",GB1,25/26
+Ryan Christie,188077,€9.00m,"Feb 22, 1995",31,1.78,Scotland,Central Midfield,Bournemouth,,"Aug 31, 2021","Jun 30, 2027",GB1,25/26
+Lucas Digne,126664,€8.00m,"Jul 20, 1993",32,1.78,France,Left-Back,Aston Villa,,"Jan 13, 2022","Jun 30, 2028",GB1,25/26
+Kaden Rodney,860078,€200k,"Oct 7, 2004",21,1.89,England,Defensive Midfield,Crystal Palace,,"Jan 1, 2026","Jun 30, 2026",GB1,25/26
+Florian Wirtz,598577,€110.00m,"May 3, 2003",23,1.77,Germany,Attacking Midfield,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Lewis Cook,249089,€13.00m,"Feb 3, 1997",29,1.75,England,Central Midfield,Bournemouth,,"Jul 8, 2016","Jun 30, 2028",GB1,25/26
+Jorge Cuenca,494880,€8.00m,"Nov 17, 1999",26,1.9,Spain,Centre-Back,Fulham,,"Aug 3, 2024","Jun 30, 2028",GB1,25/26
+Rodrigo Gomes,667121,€15.00m,"Jul 7, 2003",22,1.75,Portugal,Left Midfield,Wolves,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Soungoutou Magassa,745181,€17.00m,"Oct 8, 2003",22,1.9,France,Defensive Midfield,West Ham,,"Aug 29, 2025","Jun 30, 2031",GB1,25/26
+Pedro Neto,487465,€60.00m,"Mar 9, 2000",26,1.74,Portugal,Right Winger,Chelsea,,"Aug 11, 2024","Jun 30, 2031",GB1,25/26
+John Ruddy,29712,€100k,"Oct 24, 1986",39,1.92,England,Goalkeeper,Newcastle,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+Phil Foden,406635,€80.00m,"May 28, 2000",25,1.71,England,Attacking Midfield,Man City,,"Jul 1, 2017","Jun 30, 2027",GB1,25/26
+Pau Torres,399776,€22.00m,"Jan 16, 1997",29,1.92,Spain,Centre-Back,Aston Villa,,"Jul 12, 2023","Jun 30, 2028",GB1,25/26
+Illan Meslier,542586,€10.00m,"Mar 2, 2000",26,1.97,France,Goalkeeper,Leeds,,"Jul 27, 2020","Jun 30, 2026",GB1,25/26
+Jake O'Brien,711544,€18.00m,"May 15, 2001",25,1.97,Ireland,Right-Back,Everton,,"Jul 30, 2024","Jun 30, 2028",GB1,25/26
+Danny Welbeck,67063,€4.00m,"Nov 26, 1990",35,1.85,England,Centre-Forward,Brighton,,"Oct 18, 2020","Jun 30, 2027",GB1,25/26
+Kobbie Mainoo,820374,€50.00m,"Apr 19, 2005",21,1.84,England,Central Midfield,Man Utd,,"Jan 1, 2023","Jun 30, 2031",GB1,25/26
+Giorgi Mamardashvili,502676,€28.00m,"Sep 29, 2000",25,1.97,Georgia,Goalkeeper,Liverpool,,"Aug 27, 2024","Jun 30, 2031",GB1,25/26
+Jackson Tchatchoua,848509,€12.00m,"Sep 14, 2001",24,1.8,Cameroon,Right-Back,Wolves,,"Aug 19, 2025","Jun 30, 2030",GB1,25/26
+Conor Gallagher,488362,€35.00m,"Feb 6, 2000",26,1.82,England,Central Midfield,Tottenham,,"Jan 14, 2026","Jun 30, 2031",GB1,25/26
+Antoine Semenyo,583255,€75.00m,"Jan 7, 2000",26,1.85,Ghana,Right Winger,Man City,,"Jan 9, 2026","Jun 30, 2031",GB1,25/26
+David Brooks,277033,€14.00m,"Jul 8, 1997",28,1.73,Wales,Right Winger,Bournemouth,,"Jul 1, 2018","Jun 30, 2029",GB1,25/26
+Wilfried Gnonto,627626,€18.00m,"Nov 5, 2003",22,1.7,Italy,Right Winger,Leeds,,"Sep 1, 2022","Jun 30, 2028",GB1,25/26
+Remi Matthews,196722,€300k,"Feb 10, 1994",32,1.83,England,Goalkeeper,Crystal Palace,,"Jul 12, 2021","Jun 30, 2027",GB1,25/26
+Bruno Fernandes,240306,€40.00m,"Sep 8, 1994",31,1.79,Portugal,Attacking Midfield,Man Utd,,"Jan 29, 2020","Jun 30, 2027",GB1,25/26
+Chemsdine Talbi,743384,€25.00m,"May 9, 2005",21,1.75,Morocco,Right Winger,Sunderland,,"Jul 9, 2025","Jun 30, 2030",GB1,25/26
+Mads Hermansen,400536,€15.00m,"Jul 11, 2000",25,1.87,Denmark,Goalkeeper,West Ham,,"Aug 9, 2025","Jun 30, 2030",GB1,25/26
+Tomáš Souček,283628,€12.00m,"Feb 27, 1995",31,1.92,Czech Republic,Defensive Midfield,West Ham,,"Jul 27, 2020","Jun 30, 2027",GB1,25/26
+Marc Guéhi,392757,€65.00m,"Jul 13, 2000",25,1.82,England,Centre-Back,Man City,,"Jan 19, 2026","Jun 30, 2031",GB1,25/26
+Sverre Nypan,911736,€15.00m,"Dec 19, 2006",19,1.82,Norway,Central Midfield,Man City,,"Jul 17, 2025","Jun 30, 2030",GB1,25/26
+Dário Essugo,670717,€17.00m,"Mar 14, 2005",21,1.78,Portugal,Defensive Midfield,Chelsea,,"Jun 10, 2025","Jun 30, 2033",GB1,25/26
+Dan Ndoye,365108,€35.00m,"Oct 25, 2000",25,1.84,Switzerland,Right Winger,Nott'm Forest,,"Jul 31, 2025","Jun 30, 2030",GB1,25/26
+Eliezer Mayenda,967346,€18.00m,"May 8, 2005",21,1.8,Spain,Centre-Forward,Sunderland,,"Jul 28, 2023","Jun 30, 2030",GB1,25/26
+Lesley Ugochukwu,711999,€25.00m,"Mar 26, 2004",22,1.9,France,Defensive Midfield,Burnley,,"Aug 6, 2025","Jun 30, 2030",GB1,25/26
+Richarlison,378710,€28.00m,"May 10, 1997",29,1.84,Brazil,Centre-Forward,Tottenham,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Hugo Ekitiké,709726,€90.00m,"Jun 20, 2002",23,1.9,France,Centre-Forward,Liverpool,,"Jul 23, 2025","Jun 30, 2031",GB1,25/26
+Pascal Struijk,410708,€22.00m,"Aug 11, 1999",26,1.9,Netherlands,Centre-Back,Leeds,,"Jan 1, 2020","Jun 30, 2027",GB1,25/26
+Olivier Boscagli,318508,€15.00m,"Nov 18, 1997",28,1.81,France,Centre-Back,Brighton,,"Jul 2, 2025","Jun 30, 2030",GB1,25/26
+Veljko Milosavljevic,989112,€20.00m,"Jun 28, 2007",18,1.92,Serbia,Centre-Back,Bournemouth,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Lisandro Martínez,480762,€40.00m,"Jan 18, 1998",28,1.75,Argentina,Centre-Back,Man Utd,,"Jul 27, 2022","Jun 30, 2027",GB1,25/26
+Jean-Philippe Mateta,420002,€35.00m,"Jun 28, 1997",28,1.92,France,Centre-Forward,Crystal Palace,,"Jan 31, 2022","Jun 30, 2027",GB1,25/26
+Ibrahim Sangaré,375885,€22.00m,"Dec 2, 1997",28,1.91,Cote d'Ivoire,Defensive Midfield,Nott'm Forest,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Jarrad Branthwaite,661053,€45.00m,"Jun 27, 2002",23,1.95,England,Centre-Back,Everton,,"Jan 13, 2020","Jun 30, 2030",GB1,25/26
+Jair Cunha,984096,€12.00m,"Mar 7, 2005",21,1.98,Brazil,Centre-Back,Nott'm Forest,,"Jul 11, 2025","Jun 30, 2030",GB1,25/26
+Malo Gusto,620322,€35.00m,"May 19, 2003",22,1.78,France,Right-Back,Chelsea,,"Jan 29, 2023","Jun 30, 2030",GB1,25/26
+Ayden Heaven,1078163,€20.00m,"Sep 22, 2006",19,1.89,England,Centre-Back,Man Utd,,"Feb 1, 2025","Jun 30, 2029",GB1,25/26
+Rio Ngumoha,1108466,€20.00m,"Aug 29, 2008",17,1.7,England,Left Winger,Liverpool,,"Jul 1, 2025","Jun 30, 2028",GB1,25/26
+Morato,673492,€14.00m,"Jun 30, 2001",24,1.92,Brazil,Centre-Back,Nott'm Forest,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+James McAtee,583199,€20.00m,"Oct 18, 2002",23,1.8,England,Attacking Midfield,Nott'm Forest,,"Aug 16, 2025","Jun 30, 2030",GB1,25/26
+Raúl Jiménez,206040,€4.00m,"May 5, 1991",35,1.87,Mexico,Centre-Forward,Fulham,,"Jul 25, 2023","Jun 30, 2026",GB1,25/26
+Taty Castellanos,522784,€28.00m,"Oct 3, 1998",27,1.78,Argentina,Centre-Forward,West Ham,,"Jan 5, 2026","Jun 30, 2030",GB1,25/26
+Adam Smith,61841,€500k,"Apr 29, 1991",35,1.74,England,Right-Back,Bournemouth,,"Jan 28, 2014","Jun 30, 2027",GB1,25/26
+Rúben Dias,258004,€60.00m,"May 14, 1997",29,1.87,Portugal,Centre-Back,Man City,,"Sep 29, 2020","Jun 30, 2029",GB1,25/26
+Hugo Ekitiké,709726,€90.00m,"Jun 20, 2002",23,1.9,France,Centre-Forward,Liverpool,,"Jul 23, 2025","Jun 30, 2031",GB1,25/26
+Micky van de Ven,557459,€65.00m,"Apr 19, 2001",25,1.93,Netherlands,Centre-Back,Tottenham,,"Aug 8, 2023","Jun 30, 2029",GB1,25/26
+Aaron Wan-Bissaka,477758,€22.00m,"Nov 26, 1997",28,1.83,DR Congo,Right-Back,West Ham,,"Aug 13, 2024","Jun 30, 2031",GB1,25/26
+Noni Madueke,503987,€50.00m,"Mar 10, 2002",24,1.82,England,Right Winger,Arsenal,,"Jul 18, 2025","Jun 30, 2030",GB1,25/26
+Enso González,1060740,€3.00m,"Jan 20, 2005",21,1.69,Paraguay,Left Winger,Wolves,,"Aug 31, 2023","Jun 30, 2029",GB1,25/26
+Estêvão,1056993,€80.00m,"Apr 24, 2007",19,1.76,Brazil,Right Winger,Chelsea,,"Jul 14, 2025","Jun 30, 2033",GB1,25/26
+Nicolò Savona,708072,€18.00m,"Mar 19, 2003",23,1.92,Italy,Right-Back,Nott'm Forest,,"Aug 30, 2025","Jun 30, 2030",GB1,25/26
+Moisés Caicedo,687626,€110.00m,"Nov 2, 2001",24,1.78,Ecuador,Defensive Midfield,Chelsea,,"Aug 14, 2023","Jun 30, 2033",GB1,25/26
+Rodri,357565,€65.00m,"Jun 22, 1996",29,1.91,Spain,Defensive Midfield,Man City,,"Jul 4, 2019","Jun 30, 2027",GB1,25/26
+Jadon Sancho,401173,€20.00m,"Mar 25, 2000",26,1.8,England,Left Winger,Aston Villa,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Leny Yoro,923831,€50.00m,"Nov 13, 2005",20,1.9,France,Centre-Back,Man Utd,,"Jul 18, 2024","Jun 30, 2029",GB1,25/26
+Cody Gakpo,434675,€65.00m,"May 7, 1999",27,1.93,Netherlands,Left Winger,Liverpool,,"Jan 1, 2023","Jun 30, 2030",GB1,25/26
+Bruno Fernandes,240306,€40.00m,"Sep 8, 1994",31,1.79,Portugal,Attacking Midfield,Man Utd,,"Jan 29, 2020","Jun 30, 2027",GB1,25/26
+Nathan Collins,469050,€30.00m,"Apr 30, 2001",25,1.93,Ireland,Centre-Back,Brentford,,"Jul 4, 2023","Jun 30, 2029",GB1,25/26
+André,800176,€25.00m,"Jul 16, 2001",24,1.76,Brazil,Defensive Midfield,Wolves,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Nick Woltemade,455661,€65.00m,"Feb 14, 2002",24,1.98,Germany,Centre-Forward,Newcastle,,"Aug 30, 2025","Jul 1, 2031",GB1,25/26
+Lyle Foster,467623,€10.00m,"Sep 3, 2000",25,1.85,South Africa,Centre-Forward,Burnley,,"Jan 25, 2023","Jun 30, 2028",GB1,25/26
+Amadou Onana,485706,€45.00m,"Aug 16, 2001",24,1.95,Belgium,Defensive Midfield,Aston Villa,,"Jul 22, 2024","Jun 30, 2029",GB1,25/26
+Marcos Senesi,469781,€22.00m,"May 10, 1997",29,1.84,Argentina,Centre-Back,Bournemouth,,"Aug 8, 2022","Jun 30, 2026",GB1,25/26
+Bukayo Saka,433177,€120.00m,"Sep 5, 2001",24,1.78,England,Right Winger,Arsenal,,"Jul 1, 2019","Jun 30, 2030",GB1,25/26
+Ismaïla Sarr,410225,€35.00m,"Feb 25, 1998",28,1.85,Senegal,Right Winger,Crystal Palace,,"Aug 1, 2024","Jun 30, 2029",GB1,25/26
+Caleb Wiley,746833,€8.00m,"Dec 22, 2004",21,1.8,United States,Left-Back,Chelsea,,"Jul 22, 2024","Jun 30, 2030",GB1,25/26
+Emile Smith Rowe,392765,€22.00m,"Jul 28, 2000",25,1.82,England,Attacking Midfield,Fulham,,"Aug 2, 2024","Jun 30, 2029",GB1,25/26
+Malick Thiaw,521964,€45.00m,"Aug 8, 2001",24,1.94,Germany,Centre-Back,Newcastle,,"Aug 12, 2025","Jun 30, 2029",GB1,25/26
+Joe Willock,340329,€16.00m,"Aug 20, 1999",26,1.86,England,Central Midfield,Newcastle,,"Aug 13, 2021","Jun 30, 2027",GB1,25/26
+Marcos Senesi,469781,€22.00m,"May 10, 1997",29,1.84,Argentina,Centre-Back,Bournemouth,,"Aug 8, 2022","Jun 30, 2026",GB1,25/26
+Hjalmar Ekdal,392179,€6.00m,"Oct 21, 1998",27,1.87,Sweden,Centre-Back,Burnley,,"Jan 21, 2023","Jun 30, 2027",GB1,25/26
+Chadi Riad,689637,€12.00m,"Jun 17, 2003",22,1.87,Morocco,Centre-Back,Crystal Palace,,"Jul 2, 2024","Jun 30, 2029",GB1,25/26
+Granit Xhaka,111455,€10.00m,"Sep 27, 1992",33,1.86,Switzerland,Defensive Midfield,Sunderland,,"Jul 30, 2025","Jun 30, 2028",GB1,25/26
+Diego Gómez,996897,€25.00m,"Mar 27, 2003",23,1.85,Paraguay,Central Midfield,Brighton,,"Jan 1, 2025",-,GB1,25/26
+Morgan Rogers,503743,€80.00m,"Jul 26, 2002",23,1.87,England,Attacking Midfield,Aston Villa,,"Feb 1, 2024","Jun 30, 2031",GB1,25/26
+Mathys Tel,801734,€25.00m,"Apr 27, 2005",21,1.83,France,Centre-Forward,Tottenham,,"Jul 1, 2025","Jun 30, 2031",GB1,25/26
+Lewis Cook,249089,€13.00m,"Feb 3, 1997",29,1.75,England,Central Midfield,Bournemouth,,"Jul 8, 2016","Jun 30, 2028",GB1,25/26
+Saša Lukić,245056,€12.00m,"Aug 13, 1996",29,1.82,Serbia,Central Midfield,Fulham,,"Jan 31, 2023","Jun 30, 2027",GB1,25/26
+Eddie Nketiah,340324,€14.00m,"May 30, 1999",26,1.75,England,Centre-Forward,Crystal Palace,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Max Dowman,1187629,€20.00m,"Dec 31, 2009",16,1.83,England,Right Winger,Arsenal,,"Jul 1, 2025",-,GB1,25/26
+Souza,1086258,€12.00m,"Jun 16, 2006",19,1.83,Brazil,Left-Back,Tottenham,,"Jan 22, 2026","Jun 30, 2031",GB1,25/26
+Mohammed Kudus,543499,€55.00m,"Aug 2, 2000",25,1.77,Ghana,Right Winger,Tottenham,,"Jul 10, 2025","Jun 30, 2031",GB1,25/26
+Timothy Castagne,262226,€10.00m,"Dec 5, 1995",30,1.85,Belgium,Right-Back,Fulham,,"Aug 29, 2023","Jun 30, 2027",GB1,25/26
+Kiernan Dewsbury-Hall,475188,€32.00m,"Sep 6, 1998",27,1.76,England,Central Midfield,Everton,,"Aug 6, 2025","Jun 30, 2030",GB1,25/26
+Cristhian Mosquera,646750,€35.00m,"Jun 27, 2004",21,1.91,Spain,Centre-Back,Arsenal,,"Jul 24, 2025","Jun 30, 2030",GB1,25/26
+Fábio Carvalho,559263,€10.00m,"Aug 30, 2002",23,1.7,Portugal,Attacking Midfield,Brentford,,"Aug 12, 2024","Jun 30, 2029",GB1,25/26
+Callum Hudson-Odoi,392768,€30.00m,"Nov 7, 2000",25,1.78,England,Left Winger,Nott'm Forest,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Georginio Rutter,538977,€30.00m,"Apr 20, 2002",24,1.82,France,Centre-Forward,Brighton,,"Aug 19, 2024","Jun 30, 2028",GB1,25/26
+Jamie Gittens,670882,€35.00m,"Aug 8, 2004",21,1.78,England,Left Winger,Chelsea,,"Jul 5, 2025","Jun 30, 2032",GB1,25/26
+Raúl Jiménez,206040,€4.00m,"May 5, 1991",35,1.87,Mexico,Centre-Forward,Fulham,,"Jul 25, 2023","Jun 30, 2026",GB1,25/26
+Ben White,335721,€30.00m,"Oct 8, 1997",28,1.86,England,Right-Back,Arsenal,,"Jul 30, 2021","Jun 30, 2028",GB1,25/26
+Yves Bissouma,410425,€12.00m,"Aug 30, 1996",29,1.82,Mali,Defensive Midfield,Tottenham,,"Jul 1, 2022","Jun 30, 2026",GB1,25/26
+Joelinton,333241,€30.00m,"Aug 14, 1996",29,1.86,Brazil,Central Midfield,Newcastle,,"Jul 23, 2019","Jun 30, 2028",GB1,25/26
+Noah Okafor,346890,€18.00m,"May 24, 2000",25,1.85,Switzerland,Left Winger,Leeds,,"Aug 21, 2025","Jun 30, 2029",GB1,25/26
+Ben Davies,192765,€5.00m,"Apr 24, 1993",33,1.81,Wales,Centre-Back,Tottenham,,"Jul 23, 2014","Jun 30, 2026",GB1,25/26
+Alejandro Garnacho,811779,€40.00m,"Jul 1, 2004",21,1.8,Argentina,Left Winger,Chelsea,,"Aug 30, 2025","Jun 30, 2032",GB1,25/26
+Myles Lewis-Skelly,890721,€35.00m,"Sep 26, 2006",19,1.78,England,Left-Back,Arsenal,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26
+Nick Pope,192080,€7.00m,"Apr 19, 1992",34,1.98,England,Goalkeeper,Newcastle,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Kevin Danso,263236,€20.00m,"Sep 19, 1998",27,1.9,Austria,Centre-Back,Tottenham,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Anthony Gordon,503733,€60.00m,"Feb 24, 2001",25,1.83,England,Left Winger,Newcastle,,"Jan 29, 2023","Jul 1, 2030",GB1,25/26
+Pascal Groß,82873,€3.50m,"Jun 15, 1991",34,1.81,Germany,Central Midfield,Brighton,,"Jan 2, 2026","Jun 30, 2027",GB1,25/26
+Jaidon Anthony,684210,€18.00m,"Dec 1, 1999",26,1.83,England,Left Winger,Burnley,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Jacob Ramsey,503749,€35.00m,"May 28, 2001",24,1.8,England,Central Midfield,Newcastle,,"Aug 17, 2025","Jun 30, 2030",GB1,25/26
+Iliman Ndiaye,623570,€50.00m,"Mar 6, 2000",26,1.8,Senegal,Right Winger,Everton,,"Jul 3, 2024","Jun 30, 2029",GB1,25/26
+Brennan Johnson,470607,€35.00m,"May 23, 2001",24,1.86,Wales,Right Winger,Crystal Palace,,"Jan 2, 2026","Jun 30, 2030",GB1,25/26
+Jadon Sancho,401173,€20.00m,"Mar 25, 2000",26,1.8,England,Left Winger,Aston Villa,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Declan Rice,357662,€120.00m,"Jan 14, 1999",27,1.88,England,Central Midfield,Arsenal,,"Jul 15, 2023","Jun 30, 2028",GB1,25/26
+Destiny Udogie,556385,€35.00m,"Nov 28, 2002",23,1.88,Italy,Left-Back,Tottenham,,"Aug 16, 2022","Jun 30, 2030",GB1,25/26
+Ryan Christie,188077,€9.00m,"Feb 22, 1995",31,1.78,Scotland,Central Midfield,Bournemouth,,"Aug 31, 2021","Jun 30, 2027",GB1,25/26
+Hákon Valdimarsson,488935,€2.50m,"Oct 13, 2001",24,1.95,Iceland,Goalkeeper,Brentford,,"Jan 26, 2024","Jun 30, 2030",GB1,25/26
+Jordan Pickford,130164,€15.00m,"Mar 7, 1994",32,1.85,England,Goalkeeper,Everton,,"Jul 1, 2017","Jun 30, 2029",GB1,25/26
+Ahmed Abdullahi,1015619,€1.00m,"Jun 19, 2004",21,,Nigeria,Centre-Forward,Sunderland,,"Aug 30, 2024","Jun 30, 2028",GB1,25/26
+Senne Lammens,503883,€30.00m,"Jul 7, 2002",23,1.93,Belgium,Goalkeeper,Man Utd,,"Sep 1, 2025","Jun 30, 2030",GB1,25/26
+Matheus Cunha,517894,€70.00m,"May 27, 1999",26,1.83,Brazil,Centre-Forward,Man Utd,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Matheus Nunes,601883,€45.00m,"Aug 27, 1998",27,1.83,Portugal,Right-Back,Man City,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Ryan Sessegnon,392775,€20.00m,"May 18, 2000",25,1.78,England,Left-Back,Fulham,,"Jul 26, 2024","Jun 30, 2027",GB1,25/26
+Soungoutou Magassa,745181,€17.00m,"Oct 8, 2003",22,1.9,France,Defensive Midfield,West Ham,,"Aug 29, 2025","Jun 30, 2031",GB1,25/26
+Jacob Murphy,199527,€15.00m,"Feb 24, 1995",31,1.79,England,Right Winger,Newcastle,,"Jul 19, 2017","Jun 30, 2027",GB1,25/26
+José Sá,249994,€5.00m,"Jan 17, 1993",33,1.92,Portugal,Goalkeeper,Wolves,,"Jul 15, 2021","Jun 30, 2027",GB1,25/26
+Omar Marmoush,445939,€60.00m,"Feb 7, 1999",27,1.83,Egypt,Centre-Forward,Man City,,"Jan 23, 2025","Jun 30, 2029",GB1,25/26
+Robin Roefs,646991,€25.00m,"Jan 17, 2003",23,1.93,Netherlands,Goalkeeper,Sunderland,,"Aug 1, 2025","Jun 30, 2030",GB1,25/26
+Hugo Bueno,698678,€12.00m,"Sep 18, 2002",23,1.8,Spain,Left-Back,Wolves,,"Jul 1, 2022","Jun 30, 2028",GB1,25/26
+Piero Hincapié,659813,€50.00m,"Jan 9, 2002",24,1.84,Ecuador,Centre-Back,Arsenal,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Xavi Simons,566931,€50.00m,"Apr 21, 2003",23,1.79,Netherlands,Attacking Midfield,Tottenham,,"Aug 29, 2025","Jun 30, 2030",GB1,25/26
+Eddie Nketiah,340324,€14.00m,"May 30, 1999",26,1.75,England,Centre-Forward,Crystal Palace,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Julio Soler,1009658,€8.00m,"Feb 16, 2005",21,1.75,Argentina,Left-Back,Bournemouth,,"Jan 7, 2025","Jun 30, 2029",GB1,25/26
+Fraser Forster,52570,€600k,"Mar 17, 1988",38,2.01,England,Goalkeeper,Bournemouth,,"Jan 2, 2026","Jun 30, 2026",GB1,25/26
+James Tarkowski,173504,€7.00m,"Nov 19, 1992",33,1.85,England,Centre-Back,Everton,,"Jul 2, 2022","Jun 30, 2028",GB1,25/26
+Jorge Cuenca,494880,€8.00m,"Nov 17, 1999",26,1.9,Spain,Centre-Back,Fulham,,"Aug 3, 2024","Jun 30, 2028",GB1,25/26
+Virgil van Dijk,139208,€18.00m,"Jul 8, 1991",34,1.95,Netherlands,Centre-Back,Liverpool,,"Jan 1, 2018","Jun 30, 2027",GB1,25/26
+Mark Gillespie,142389,€150k,"Mar 27, 1992",34,1.91,England,Goalkeeper,Newcastle,,"Jul 3, 2020","Jun 30, 2026",GB1,25/26
+Oliver Scarles,922563,€10.00m,"Dec 12, 2005",20,1.8,England,Left-Back,West Ham,,"Jan 1, 2025","Jun 30, 2028",GB1,25/26
+Bashir Humphreys,612517,€15.00m,"Mar 15, 2003",23,1.86,England,Centre-Back,Burnley,,"Jul 1, 2025",-,GB1,25/26
+Ezri Konsa,413403,€40.00m,"Oct 23, 1997",28,1.83,England,Centre-Back,Aston Villa,,"Jul 11, 2019","Jun 30, 2028",GB1,25/26
+Jordan Pickford,130164,€15.00m,"Mar 7, 1994",32,1.85,England,Goalkeeper,Everton,,"Jul 1, 2017","Jun 30, 2029",GB1,25/26
+Luke O'Nien,282939,€1.00m,"Nov 21, 1994",31,1.74,England,Centre-Back,Sunderland,,"Jul 30, 2018","Jun 30, 2027",GB1,25/26
+Sean Longstaff,346707,€16.00m,"Oct 30, 1997",28,1.87,England,Central Midfield,Leeds,,"Jul 18, 2025","Jun 30, 2029",GB1,25/26
+Hugo Bueno,698678,€12.00m,"Sep 18, 2002",23,1.8,Spain,Left-Back,Wolves,,"Jul 1, 2022","Jun 30, 2028",GB1,25/26
+Callum Wilson,123682,€5.00m,"Feb 27, 1992",34,1.8,England,Centre-Forward,West Ham,,"Aug 2, 2025","Jun 30, 2026",GB1,25/26
+Lukas Nmecha,314288,€10.00m,"Dec 14, 1998",27,1.85,Germany,Centre-Forward,Leeds,,"Jul 1, 2025","Jun 30, 2027",GB1,25/26
+Rodrigo Gomes,667121,€15.00m,"Jul 7, 2003",22,1.75,Portugal,Left Midfield,Wolves,,"Jul 1, 2024","Jun 30, 2029",GB1,25/26
+Alexander Isak,349066,€100.00m,"Sep 21, 1999",26,1.92,Sweden,Centre-Forward,Liverpool,,"Sep 1, 2025","Jun 30, 2031",GB1,25/26
+Chris Wood,108725,€6.00m,"Dec 7, 1991",34,1.91,New Zealand,Centre-Forward,Nott'm Forest,,"Jul 1, 2023","Jun 30, 2027",GB1,25/26
+Martín Zubimendi,423440,€80.00m,"Feb 2, 1999",27,1.81,Spain,Defensive Midfield,Arsenal,,"Jul 6, 2025","Jun 30, 2030",GB1,25/26
+Tom King,215810,€150k,"Mar 9, 1995",31,1.94,Wales,Goalkeeper,Everton,,"Aug 15, 2025","Jun 30, 2027",GB1,25/26
+Jaka Bijol,371851,€18.00m,"Feb 5, 1999",27,1.9,Slovenia,Centre-Back,Leeds,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Mateo Kovacic,51471,€12.00m,"May 6, 1994",32,1.77,Croatia,Central Midfield,Man City,,"Jul 1, 2023","Jun 30, 2027",GB1,25/26
+Axel Disasi,386047,€15.00m,"Mar 11, 1998",28,1.91,France,Centre-Back,West Ham,,"Feb 2, 2026","Jun 30, 2026",GB1,25/26
+Alex Tóth,998101,€12.00m,"Oct 23, 2005",20,1.81,Hungary,Central Midfield,Bournemouth,,"Jan 20, 2026","Jun 30, 2031",GB1,25/26
+Nilson Angulo,903611,€17.00m,"Jun 19, 2003",22,1.83,Ecuador,Left Winger,Sunderland,,"Feb 2, 2026","Jun 30, 2030",GB1,25/26
+Wilson Isidor,494237,€18.00m,"Aug 27, 2000",25,1.86,Haiti,Centre-Forward,Sunderland,,"Feb 1, 2025","Jun 30, 2028",GB1,25/26
+Matthijs de Ligt,326031,€40.00m,"Aug 12, 1999",26,1.89,Netherlands,Centre-Back,Man Utd,,"Aug 13, 2024","Jun 30, 2029",GB1,25/26
+Alexis Mac Allister,534033,€80.00m,"Dec 24, 1998",27,1.76,Argentina,Central Midfield,Liverpool,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Xavi Simons,566931,€50.00m,"Apr 21, 2003",23,1.79,Netherlands,Attacking Midfield,Tottenham,,"Aug 29, 2025","Jun 30, 2030",GB1,25/26
+Ben Gannon-Doak,719673,€16.00m,"Nov 11, 2005",20,1.76,Scotland,Right Winger,Bournemouth,,"Aug 18, 2025","Jun 30, 2030",GB1,25/26
+Maxim De Cuyper,429915,€22.00m,"Dec 22, 2000",25,1.82,Belgium,Left-Back,Brighton,,"Jul 5, 2025","Jun 30, 2030",GB1,25/26
+Savinho,743591,€40.00m,"Apr 10, 2004",22,1.76,Brazil,Left Winger,Man City,,"Jul 18, 2024","Jun 30, 2031",GB1,25/26
+Kaye Furo,1011936,€8.00m,"Feb 6, 2007",19,1.9,Belgium,Centre-Forward,Brentford,,"Jan 11, 2026","Jun 30, 2031",GB1,25/26
+Lewis Miley,922769,€25.00m,"May 1, 2006",20,1.89,England,Central Midfield,Newcastle,,"Jul 1, 2023","Jun 30, 2029",GB1,25/26
+Murillo,1005649,€50.00m,"Jul 4, 2002",23,1.8,Brazil,Centre-Back,Nott'm Forest,,"Aug 31, 2023","Jun 30, 2029",GB1,25/26
+André,800176,€25.00m,"Jul 16, 2001",24,1.76,Brazil,Defensive Midfield,Wolves,,"Aug 30, 2024","Jun 30, 2029",GB1,25/26
+Mike Tresor,381963,€3.00m,"May 28, 1999",26,1.72,Belgium,Attacking Midfield,Burnley,,"Jul 1, 2024","Jun 30, 2028",GB1,25/26
+Ayden Heaven,1078163,€20.00m,"Sep 22, 2006",19,1.89,England,Centre-Back,Man Utd,,"Feb 1, 2025","Jun 30, 2029",GB1,25/26
+Ben White,335721,€30.00m,"Oct 8, 1997",28,1.86,England,Right-Back,Arsenal,,"Jul 30, 2021","Jun 30, 2028",GB1,25/26
+Habib Diarra,876631,€32.00m,"Jan 3, 2004",22,1.78,Senegal,Central Midfield,Sunderland,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Sean Longstaff,346707,€16.00m,"Oct 30, 1997",28,1.87,England,Central Midfield,Leeds,,"Jul 18, 2025","Jun 30, 2029",GB1,25/26
+Ezri Konsa,413403,€40.00m,"Oct 23, 1997",28,1.83,England,Centre-Back,Aston Villa,,"Jul 11, 2019","Jun 30, 2028",GB1,25/26
+Mateus Mané,1230661,€20.00m,"Sep 16, 2007",18,1.75,Portugal,Attacking Midfield,Wolves,,"Jul 1, 2025","Jun 30, 2029",GB1,25/26
+Andrey Santos,743600,€45.00m,"May 3, 2004",22,1.8,Brazil,Central Midfield,Chelsea,,"Jan 1, 2023","Jun 30, 2030",GB1,25/26
+Jan Paul van Hecke,576314,€35.00m,"Jun 8, 2000",25,1.89,Netherlands,Centre-Back,Brighton,,"Sep 10, 2020","Jun 30, 2027",GB1,25/26
+Ethan Pinnock,442248,€4.00m,"May 29, 1993",32,1.94,Jamaica,Centre-Back,Brentford,,"Jul 2, 2019","Jun 30, 2027",GB1,25/26
+Harry Wilson,279455,€25.00m,"Mar 22, 1997",29,1.73,Wales,Right Winger,Fulham,,"Jul 24, 2021","Jun 30, 2026",GB1,25/26
+Kyle Walker,95424,€2.50m,"May 28, 1990",35,1.83,England,Right-Back,Burnley,,"Jul 5, 2025","Jun 30, 2027",GB1,25/26
+Martín Zubimendi,423440,€80.00m,"Feb 2, 1999",27,1.81,Spain,Defensive Midfield,Arsenal,,"Jul 6, 2025","Jun 30, 2030",GB1,25/26
+Matheus Nunes,601883,€45.00m,"Aug 27, 1998",27,1.83,Portugal,Right-Back,Man City,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Alex Iwobi,242631,€25.00m,"May 3, 1996",30,1.83,Nigeria,Left Winger,Fulham,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Tyrell Malacia,339340,€5.00m,"Aug 17, 1999",26,1.69,Netherlands,Left-Back,Man Utd,,"Jul 5, 2022","Jun 30, 2026",GB1,25/26
+Luca Netz,524285,€6.00m,"May 15, 2003",23,1.84,Germany,Left-Back,Nott'm Forest,,"Feb 2, 2026","Jun 30, 2030",GB1,25/26
+Brian Brobbey,473169,€25.00m,"Feb 1, 2002",24,1.8,Netherlands,Centre-Forward,Sunderland,,"Sep 1, 2025","Jun 30, 2029",GB1,25/26
+James McAtee,583199,€20.00m,"Oct 18, 2002",23,1.8,England,Attacking Midfield,Nott'm Forest,,"Aug 16, 2025","Jun 30, 2030",GB1,25/26
+Rico Henry,339556,€15.00m,"Jul 8, 1997",28,1.7,Jamaica,Left-Back,Brentford,,"Aug 31, 2016","Jun 30, 2026",GB1,25/26
+Abdukodir Khusanov,763079,€35.00m,"Feb 29, 2004",22,1.86,Uzbekistan,Centre-Back,Man City,,"Jan 20, 2025","Jun 30, 2029",GB1,25/26
+Charalampos Kostoulas,1060087,€25.00m,"May 30, 2007",18,1.85,Greece,Centre-Forward,Brighton,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Andrés García,1063329,€7.00m,"Feb 7, 2003",23,1.85,Spain,Right-Back,Aston Villa,,"Jan 21, 2025",-,GB1,25/26
+Freddie Woodman,226049,€3.00m,"Mar 4, 1997",29,1.88,England,Goalkeeper,Liverpool,,"Jul 1, 2025","Jun 30, 2026",GB1,25/26
+Jaydee Canvot,1006411,€20.00m,"Jul 29, 2006",19,1.88,France,Centre-Back,Crystal Palace,,"Sep 1, 2025","Jun 30, 2029",GB1,25/26
+Saša Lukić,245056,€12.00m,"Aug 13, 1996",29,1.82,Serbia,Central Midfield,Fulham,,"Jan 31, 2023","Jun 30, 2027",GB1,25/26
+Mikkel Damsgaard,540941,€30.00m,"Jul 3, 2000",25,1.8,Denmark,Attacking Midfield,Brentford,,"Aug 10, 2022","Jun 30, 2030",GB1,25/26
+Altay Bayındır,336077,€7.00m,"Apr 14, 1998",28,1.98,Türkiye,Goalkeeper,Man Utd,,"Sep 1, 2023","Jun 30, 2027",GB1,25/26
+William Saliba,495666,€90.00m,"Mar 24, 2001",25,1.92,France,Centre-Back,Arsenal,,"Jul 25, 2019","Jun 30, 2030",GB1,25/26
+Guglielmo Vicario,286047,€23.00m,"Oct 7, 1996",29,1.94,Italy,Goalkeeper,Tottenham,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Randal Kolo Muani,487969,€22.00m,"Dec 5, 1998",27,1.87,France,Centre-Forward,Tottenham,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Justin Kluivert,330659,€30.00m,"May 5, 1999",27,1.72,Netherlands,Attacking Midfield,Bournemouth,,"Jul 1, 2023","Jun 30, 2028",GB1,25/26
+Charalampos Kostoulas,1060087,€25.00m,"May 30, 2007",18,1.85,Greece,Centre-Forward,Brighton,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Ollie Watkins,324358,€30.00m,"Dec 30, 1995",30,1.8,England,Centre-Forward,Aston Villa,,"Sep 9, 2020","Jun 30, 2028",GB1,25/26
+Josko Gvardiol,475959,€70.00m,"Jan 23, 2002",24,1.85,Croatia,Centre-Back,Man City,,"Aug 5, 2023","Jun 30, 2028",GB1,25/26
+Daniel James,319301,€12.00m,"Nov 10, 1997",28,1.71,Wales,Right Winger,Leeds,,"Aug 31, 2021","Jun 30, 2029",GB1,25/26
+Armando Broja,571743,€8.00m,"Sep 10, 2001",24,1.91,Albania,Centre-Forward,Burnley,,"Aug 8, 2025","Jun 30, 2030",GB1,25/26
+Nicolás Domínguez,497291,€16.00m,"Jun 28, 1998",27,1.79,Argentina,Central Midfield,Nott'm Forest,,"Sep 1, 2023","Jun 30, 2028",GB1,25/26
+Douglas Luiz,447661,€20.00m,"May 9, 1998",28,1.77,Brazil,Central Midfield,Aston Villa,,"Jan 28, 2026","Jun 30, 2026",GB1,25/26
+Jonah Kusi-Asare,1069512,€4.00m,"Jul 4, 2007",18,1.96,Sweden,Centre-Forward,Fulham,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Václav Hladký,95795,€200k,"Nov 14, 1990",35,1.92,Czech Republic,Goalkeeper,Burnley,,"Jul 19, 2024","Jun 30, 2026",GB1,25/26
+Dean Henderson,258919,€28.00m,"Mar 12, 1997",29,1.88,England,Goalkeeper,Crystal Palace,,"Aug 31, 2023","Jun 30, 2028",GB1,25/26
+Emiliano Martínez,111873,€15.00m,"Sep 2, 1992",33,1.95,Argentina,Goalkeeper,Aston Villa,,"Sep 16, 2020","Jun 30, 2029",GB1,25/26
+Igor Thiago,739443,€50.00m,"Jun 26, 2001",24,1.91,Brazil,Centre-Forward,Brentford,,"Jul 1, 2024","Jun 30, 2031",GB1,25/26
+Dominic Calvert-Lewin,306024,€22.00m,"Mar 16, 1997",29,1.89,England,Centre-Forward,Leeds,,"Aug 15, 2025","Jun 30, 2028",GB1,25/26
+Virgil van Dijk,139208,€18.00m,"Jul 8, 1991",34,1.95,Netherlands,Centre-Back,Liverpool,,"Jan 1, 2018","Jun 30, 2027",GB1,25/26
+Adam Webster,212847,€5.00m,"Jan 4, 1995",31,1.9,England,Centre-Back,Brighton,,"Aug 3, 2019","Jun 30, 2026",GB1,25/26
+Alphonse Areola,120629,€5.00m,"Feb 27, 1993",33,1.95,France,Goalkeeper,West Ham,,"Jul 1, 2022","Jun 30, 2027",GB1,25/26
+Gabriel Jesus,363205,€20.00m,"Apr 3, 1997",29,1.75,Brazil,Centre-Forward,Arsenal,,"Jul 4, 2022","Jun 30, 2027",GB1,25/26
+Milos Kerkez,730861,€40.00m,"Nov 7, 2003",22,1.8,Hungary,Left-Back,Liverpool,,"Jul 1, 2025","Jun 30, 2030",GB1,25/26
+Joe Worrall,415970,€3.00m,"Jan 10, 1997",29,1.9,England,Centre-Back,Burnley,,"Aug 22, 2024","Jun 30, 2028",GB1,25/26
+Marco Bizot,124884,€2.50m,"Mar 10, 1991",35,1.93,Netherlands,Goalkeeper,Aston Villa,,"Jul 15, 2025","Jun 30, 2027",GB1,25/26
+Simon Moore,123536,€100k,"May 19, 1990",35,1.91,England,Goalkeeper,Sunderland,,"Jul 1, 2024","Jun 30, 2026",GB1,25/26
+Borna Sosa,293194,€4.00m,"Jan 21, 1998",28,1.87,Croatia,Left-Back,Crystal Palace,,"Jul 11, 2025","Jun 30, 2028",GB1,25/26
+Dário Essugo,670717,€17.00m,"Mar 14, 2005",21,1.78,Portugal,Defensive Midfield,Chelsea,,"Jun 10, 2025","Jun 30, 2033",GB1,25/26
+Hákon Valdimarsson,488935,€2.50m,"Oct 13, 2001",24,1.95,Iceland,Goalkeeper,Brentford,,"Jan 26, 2024","Jun 30, 2030",GB1,25/26
+Merlin Röhl,608832,€16.00m,"Jul 5, 2002",23,1.92,Germany,Attacking Midfield,Everton,,"Sep 1, 2025","Jun 30, 2026",GB1,25/26
+Václav Hladký,95795,€200k,"Nov 14, 1990",35,1.92,Czech Republic,Goalkeeper,Burnley,,"Jul 19, 2024","Jun 30, 2026",GB1,25/26
+Will Hughes,207014,€6.00m,"Apr 17, 1995",31,1.85,England,Central Midfield,Crystal Palace,,"Aug 28, 2021","Jun 30, 2027",GB1,25/26
+Myles Lewis-Skelly,890721,€35.00m,"Sep 26, 2006",19,1.78,England,Left-Back,Arsenal,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26
+Nico O'Reilly,743413,€50.00m,"Mar 21, 2005",21,1.93,England,Left-Back,Man City,,"Jul 1, 2024","Jun 30, 2030",GB1,25/26

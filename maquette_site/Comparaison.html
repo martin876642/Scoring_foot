@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FootScout — Comparaison</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="scouting.css" />
+  <link rel="stylesheet" href="comparaison.css" />
+</head>
+<body class="cmp-page">
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="brand"><span class="dot"></span>FootScout</div>
+    <div class="nav-links">
+      <a href="Scouting.html">Scouting</a>
+      <a href="FootScout - Fiche Joueur.html">Joueurs</a>
+      <a href="Comparaison.html" class="active">Comparer</a>
+    </div>
+    <div class="nav-right">
+      <div class="lang">
+        <button class="active">FR</button>
+        <button>EN</button>
+      </div>
+    </div>
+  </nav>
+
+  <main class="cmp-wrap">
+    <!-- Bandeau titre -->
+    <header class="cmp-head">
+      <h1>Comparaison</h1>
+      <div class="meta">Sélectionnez jusqu'à <strong>4 joueurs</strong> puis choisissez le <strong>rôle</strong> sur lequel les comparer.</div>
+    </header>
+
+    <!-- Slots -->
+    <section class="slots" id="slots"></section>
+
+    <!-- Sélecteur de rôle -->
+    <section class="role-bar" id="roleBar"></section>
+
+    <!-- Grille principale (radar + tableau) -->
+    <section class="cmp-grid" id="cmpMain">
+      <div class="radar-card">
+        <div class="rc-head">
+          <div class="rc-title" id="radarRole">—</div>
+          <div class="rc-sub" id="radarSub"></div>
+        </div>
+        <div class="radar-stage-cmp">
+          <svg class="radar-svg" id="radarSvg" viewBox="0 0 460 460"></svg>
+        </div>
+        <div class="cmp-legend" id="cmpLegend"></div>
+      </div>
+
+      <div class="cmp-table-card">
+        <div class="ct-head">
+          <div class="ct-title">Détail par indicateur</div>
+          <div class="ct-sub">Percentiles 0–100 · ● meilleur de la sélection</div>
+        </div>
+        <div class="cmp-table" id="cmpTable"></div>
+      </div>
+    </section>
+
+    <!-- État vide -->
+    <section class="cmp-empty" id="cmpEmpty" style="display:none">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+      <p>Sélectionnez au moins un joueur pour démarrer la comparaison.</p>
+      <div class="hint">Vous pouvez comparer jusqu'à 4 joueurs sur un même rôle.</div>
+    </section>
+  </main>
+
+  <!-- Picker joueur -->
+  <div class="picker" id="picker">
+    <div class="picker-card">
+      <div class="picker-head">
+        <div class="ph-title">
+          <span>Choisir un joueur</span>
+          <button class="ph-close" id="pickerClose">
+            Fermer
+            <svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18"/></svg>
+          </button>
+        </div>
+        <div class="ph-search-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <input class="ph-search" id="pickerSearch" placeholder="Rechercher un joueur, un club, un rôle..." />
+        </div>
+        <div class="ph-pills" id="pickerPills"></div>
+      </div>
+      <div class="picker-list" id="pickerList"></div>
+    </div>
+  </div>
+
+  <script src="players-data.js"></script>
+  <script src="comparaison.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+# Cache et environnements Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Données brutes volumineuses (trop lourdes pour le contexte)
+data/raw/
+data/master/players_master.csv
+data/master/players_features_v2.csv
+
+# Logs
+logs/
+
+# Graphify outputs (déjà accessible via /graphify query)
+graphify-out/
+
+# Git
+.git/
+
+# Divers
+.DS_Store
+Thumbs.db
+*.log

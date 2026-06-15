@@ -1,0 +1,29 @@
+============================================================
+  RAPPORT PIPELINE — Football Scoring Project
+  Généré le 20/05/2026 à 19:08:18
+============================================================
+
+  Durée totale : 0m 06s
+
+  Résultats par étape :
+
+  ⏭   Étape 1 — Extraction données (SS + Understat)           0m00s
+  ⏭   Étape 2 — Validation périmètre et cohérence             0m00s
+  ⏭   Étape 3 — Matching identités inter-sources              0m00s
+  ✅  Étape 4 — Construction table maître                     0m01s
+  ✅  Étape 5 — Feature engineering (per90 + z-scores)        0m02s
+  ✅  Étape 6 — Scoring par rôle FM                           0m03s
+
+============================================================
+  SUCCÈS — pipeline complet
+
+  Fichiers produits :
+    data/master/players_scores.csv    ← scores finaux
+    data/master/players_features_v2.csv
+    data/processed/unmatched_players.csv
+
+  Exploration des scores :
+    python src/06_scoring.py --role CM
+    python src/06_scoring.py --player "Mbappé"
+    python src/06_scoring.py --role GK --top 10
+============================================================

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FootScout — Scouting</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="scouting.css" />
+</head>
+<body class="scouting-page">
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="brand"><span class="dot"></span>FootScout</div>
+    <div class="nav-links">
+      <a href="Scouting.html" class="active">Scouting</a>
+      <a href="FootScout - Fiche Joueur.html">Joueurs</a>
+      <a href="Comparaison.html">Comparer</a>
+    </div>
+    <div class="nav-right">
+      <div class="lang">
+        <button class="active">FR</button>
+        <button>EN</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Layout principal -->
+  <div class="layout">
+    <!-- Panneau filtres -->
+    <aside class="filters">
+      <div class="filters-scroll" id="filters-scroll"></div>
+      <div class="filters-apply">
+        <button class="btn-apply" id="btnApply">Appliquer les filtres</button>
+        <div class="apply-count" id="applyCount"><strong>0</strong> joueurs correspondent</div>
+      </div>
+    </aside>
+
+    <!-- Zone liste -->
+    <main class="list-area">
+      <div class="list-head" id="listHead"></div>
+      <div id="listBody"></div>
+    </main>
+  </div>
+
+  <div class="s-tip" id="sTip"></div>
+
+  <script src="players-data.js"></script>
+  <script src="scouting.js"></script>
+</body>
+</html>
