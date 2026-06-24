@@ -14,6 +14,9 @@ src/logs/
 # Graphify (régénérable via /graphify)
 graphify-out/
 
+# Team clustering — outputs régénérables via main.py
+team_style_clustering/outputs/
+
 # Claude Code local settings
 .claude/settings.local.json
 
