@@ -53,13 +53,13 @@ def main() -> None:
     logger = logging.getLogger("main")
 
     logger.info("=" * 60)
-    logger.info(f"Team Style Clustering — {config.LEAGUE}  saison {config.SEASON}")
+    logger.info(f"Team Style Clustering — {config.LEAGUES}  saison {config.SEASON}")
     logger.info(f"Outputs → {Path(out).resolve()}")
     logger.info("=" * 60)
 
     # ── 1. Données ──────────────────────────────────────────────────────────
     override = str(_TSC_DIR / "possession_override.csv")
-    df = fetch_all(config.LEAGUE, config.SEASON, override)
+    df = fetch_all(config.LEAGUES, config.SEASON, override)
     logger.info(f"Dataset : {len(df)} équipes | colonnes : {list(df.columns)}")
 
     # ── 2. Features ─────────────────────────────────────────────────────────

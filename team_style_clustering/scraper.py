@@ -84,11 +84,12 @@ def fetch_understat(league: str, season: str) -> pd.DataFrame:
         })
 
     df = pd.DataFrame(rows)
-    logger.info(f"Understat : {len(df)} équipes récupérées")
+    df.insert(0, "League", league)
+    logger.info(f"Understat [{league}] : {len(df)} équipes récupérées")
     return df
 
 
-def _try_sofascore(league: str, season: str) -> dict[str, float]:
+def _try_sofascore() -> dict[str, float]:
     """Tente ScraperFC → dict {team_name: possession_pct}. Retourne {} si indisponible."""
     try:
         from ScraperFC import SofaScore  # noqa: F401
@@ -136,10 +137,16 @@ def _merge_possession(df: pd.DataFrame, possession: dict[str, float]) -> pd.Data
     return df
 
 
-def fetch_all(league: str, season: str, possession_override_path: str) -> pd.DataFrame:
-    df = fetch_understat(league, season)
+def fetch_all(leagues, season: str, possession_override_path: str) -> pd.DataFrame:
+    """leagues : str ou list[str]. Concatène toutes les ligues en un seul DataFrame."""
+    if isinstance(leagues, str):
+        leagues = [leagues]
 
-    possession = _try_sofascore(league, season) or _load_override(possession_override_path)
+    frames = [fetch_understat(lg, season) for lg in leagues]
+    df = pd.concat(frames, ignore_index=True)
+    logger.info(f"Total : {len(df)} équipes — {len(leagues)} ligues")
+
+    possession = _try_sofascore() or _load_override(possession_override_path)
 
     if possession:
         df = _merge_possession(df, possession)

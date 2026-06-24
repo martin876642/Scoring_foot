@@ -21,6 +21,21 @@ logger = logging.getLogger(__name__)
 
 _PALETTE = pc.qualitative.Set1 + pc.qualitative.Set2 + pc.qualitative.Pastel1
 
+_LEAGUE_SYMBOLS = {
+    "EPL":        "circle",
+    "La_liga":    "square",
+    "Bundesliga": "diamond",
+    "Serie_A":    "cross",
+    "Ligue_1":    "triangle-up",
+}
+_LEAGUE_LABELS = {
+    "EPL":        "EPL  ●",
+    "La_liga":    "La Liga  ■",
+    "Bundesliga": "Bundesliga  ◆",
+    "Serie_A":    "Serie A  +",
+    "Ligue_1":    "Ligue 1  ▲",
+}
+
 
 # ─── Réduction dimensionnelle ─────────────────────────────────────────────────
 
@@ -141,8 +156,9 @@ _CLICK_JS = """
       if (!td) return;
 
       document.getElementById('radar-panel').style.display = 'block';
+      var lgLabel = td.league ? ' (' + td.league.replace(/_/g, ' ') + ')' : '';
       document.getElementById('radar-title').textContent =
-        pt.text + '  —  Cluster ' + td.cluster;
+        pt.text + lgLabel + '  —  Cluster ' + td.cluster;
 
       var theta  = FEATURES.concat([FEATURES[0]]);
       var rTeam  = td.radar.concat([td.radar[0]]);
@@ -186,9 +202,11 @@ def plot_cluster_2d(
     method_name: str,
     output_dir: str,
 ) -> None:
-    team_names = df_valid["Team"].tolist()
+    team_names   = df_valid["Team"].tolist()
+    has_league   = "League" in df_valid.columns
+    leagues_in   = sorted(df_valid["League"].unique()) if has_league else []
 
-    # Pré-calcul pour le panneau radar JS
+    # Pre-compute per-team data for the JS radar panel
     team_data: dict[str, dict] = {}
     for i, team in enumerate(team_names):
         cl = int(labels[i])
@@ -197,45 +215,114 @@ def plot_cluster_2d(
             "radar":        [round(float(v), 4) for v in X_scaled[i]],
             "cluster_mean": [round(float(v), 4) for v in _cluster_mean(cl, labels, X_scaled)],
             "top3":         _top3_similar(i, X_scaled, team_names),
+            "league":       str(df_valid.iloc[i]["League"]) if has_league else "",
         }
 
-    # Figure Plotly
+    # Traces : one per (cluster × league) so the dropdown can toggle league visibility
     fig = go.Figure()
-    for cl in sorted(set(labels)):
-        mask = labels == cl
-        cl_teams  = [team_names[i] for i in range(len(team_names)) if mask[i]]
-        cl_coords = coords[mask]
+    trace_leagues: list[str] = []   # parallel to fig.data
+
+    for cl in sorted(set(int(l) for l in labels)):
         col = _PALETTE[cl % len(_PALETTE)]
+        first_in_cluster = True
 
-        fig.add_trace(go.Scatter(
-            x=cl_coords[:, 0],
-            y=cl_coords[:, 1],
-            mode="markers+text",
-            name=f"Cluster {cl}",
-            text=cl_teams,
-            textposition="top center",
-            textfont=dict(size=9),
-            marker=dict(size=13, color=col, line=dict(width=1, color="black")),
-            hovertemplate="<b>%{text}</b><br>Cluster " + str(cl) + "<br><i>cliquez pour le radar</i><extra></extra>",
-        ))
+        for league in (leagues_in if has_league else [None]):
+            if has_league:
+                mask = (labels == cl) & (df_valid["League"] == league).values
+            else:
+                mask = labels == cl
 
+            if not mask.any():
+                continue
+
+            cl_teams  = [team_names[i] for i in range(len(team_names)) if mask[i]]
+            cl_coords = coords[mask]
+            symbol    = _LEAGUE_SYMBOLS.get(league, "star") if has_league else "circle"
+
+            hover = (
+                "<b>%{text}</b>"
+                + (f"<br>{_LEAGUE_LABELS.get(league, league)}" if has_league else "")
+                + f"<br>Cluster {cl}"
+                + "<br><i>cliquez pour le radar</i><extra></extra>"
+            )
+
+            fig.add_trace(go.Scatter(
+                x=cl_coords[:, 0],
+                y=cl_coords[:, 1],
+                mode="markers+text",
+                name=f"Cluster {cl}",
+                legendgroup=f"cluster_{cl}",
+                showlegend=first_in_cluster,
+                text=cl_teams,
+                textposition="top center",
+                textfont=dict(size=8),
+                marker=dict(
+                    size=12, color=col, symbol=symbol,
+                    line=dict(width=1, color="black"),
+                ),
+                hovertemplate=hover,
+            ))
+            trace_leagues.append(league or "all")
+            first_in_cluster = False
+
+    # Dropdown pour filtrer par ligue (seulement si multi-ligue)
+    if has_league and len(leagues_in) > 1:
+        n = len(trace_leagues)
+        buttons = [dict(
+            label="Toutes les ligues",
+            method="restyle",
+            args=[{"visible": [True] * n}],
+        )]
+        for lg in leagues_in:
+            vis = [tl == lg for tl in trace_leagues]
+            buttons.append(dict(
+                label=_LEAGUE_LABELS.get(lg, lg),
+                method="restyle",
+                args=[{"visible": vis}],
+            ))
+
+        fig.update_layout(
+            updatemenus=[dict(
+                buttons=buttons,
+                direction="down",
+                showactive=True,
+                x=0.0, xanchor="left",
+                y=1.15, yanchor="top",
+                bgcolor="#f5f5f5",
+                bordercolor="#bbb",
+                font=dict(size=12),
+            )],
+            annotations=[dict(
+                text="Symboles : ● EPL  ■ La Liga  ◆ Bundesliga  + Serie A  ▲ Ligue 1",
+                showarrow=False, xref="paper", yref="paper",
+                x=0.5, y=-0.08, xanchor="center",
+                font=dict(size=10, color="#666"),
+            )],
+        )
+
+    n_teams  = len(team_names)
+    n_leagues = len(leagues_in) if has_league else 1
     fig.update_layout(
-        title=f"Clustering 2D — {bloc_name.capitalize()} — {method_name.upper()} ({reduction_name})",
+        title=(
+            f"Clustering 2D — {bloc_name.capitalize()} — {method_name.upper()} ({reduction_name})"
+            f"<br><sup>{n_teams} équipes · {n_leagues} ligue{'s' if n_leagues > 1 else ''}</sup>"
+        ),
         xaxis_title=f"{reduction_name} Dim 1",
         yaxis_title=f"{reduction_name} Dim 2",
         legend_title="Clusters",
-        height=620,
+        height=700,
         template="plotly_white",
+        margin=dict(b=80),
     )
 
-    # Injection du panneau radar + handler JS
+    # Inject radar panel + click handler
     html = fig.to_html(full_html=True, include_plotlyjs="cdn")
     panel = (
         _RADAR_PANEL_HTML.format(css=_RADAR_PANEL_CSS)
         + _CLICK_JS.format(
             features_js=_safe_json(feature_names),
             team_data_js=_safe_json(team_data),
-            palette_js=_safe_json([c for c in _PALETTE[:10]]),
+            palette_js=_safe_json(list(_PALETTE[:10])),
         )
     )
     html = html.replace("</body>", panel + "\n</body>")
